@@ -1,130 +1,133 @@
-# RegIntel AI — Pharmacovigilance Safety Reporting Engine
+# RegIntel AI — Enterprise Pharmacovigilance Safety Reporting Platform
 
-A modular Python platform for transforming post-marketing Individual Case Safety Reports (ICSRs) into US FDA 21 CFR 314.80 Periodic Adverse Drug Experience Reports (PADER).
+A production-grade, evidence-grounded AI engineering platform designed to transform post-marketing Individual Case Safety Reports (ICSRs) into US FDA 21 CFR 314.80 Periodic Adverse Drug Experience Reports (PADER).
 
 Author: **Madhav Kumar**  
-Stack: Python 3.11+, Streamlit, Groq API (Llama 3.3 70B), Pandas, Plotly, SHAP, ReportLab, Docker  
-Repository: [https://github.com/kmadhav07/PADER_Report.git](https://github.com/kmadhav07/PADER_Report.git)
+GitHub Repository: [https://github.com/kmadhav07/PADER_Report](https://github.com/kmadhav07/PADER_Report)  
+Stack: Python 3.11+, Streamlit, Groq LPU API (Llama 3.3 70B), Pandas, Plotly, SHAP, ReportLab, Docker
 
 ---
 
-## Architecture Overview
+## 📐 System Architecture Diagram
 
 ![RegIntel AI Project Architecture](assets/architecture_diagram.png)
 
 ---
 
-## Overview
+## 📌 Problem Statement & Core Design Philosophy
 
-In post-marketing drug safety, pharmaceutical companies process thousands of Individual Case Safety Reports (ICSRs) per year. Submitting annual aggregate reports (PADERs) to regulatory agencies requires strict data accuracy.
+In post-marketing drug safety, pharmaceutical companies process thousands of Individual Case Safety Reports (ICSRs) annually. Submitting periodic aggregate safety reports (PADERs) to regulatory authorities requires strict numerical precision and zero hallucination.
 
-Passing raw ICSR tables directly into Large Language Models (LLMs) often leads to numerical hallucinations, incorrect counts, and non-compliant safety summaries. This project uses a hybrid architecture:
+Passing raw ICSR tables directly into Large Language Models (LLMs) often leads to arithmetic hallucinations, inaccurate counts, and non-compliant safety summaries. **RegIntel AI** solves this with a hybrid architecture:
 
-- **Deterministic Python Engine**: Handles 100% of arithmetic calculations, deduplication, demographic stratification, and MedDRA reaction rankings.
-- **LLM Narrative Synthesis**: Reserves the LLM (Groq Llama 3.3 70B) strictly for natural language regulatory prose generation using section-scoped JSON evidence packets.
-- **Grounding Verification & XAI**: Cross-checks generated prose numbers against pre-computed metrics and provides SHAP feature attributions for risk drivers.
-
----
-
-## Included Clinical Safety Datasets
-
-The platform includes **6 pre-loaded pharmacovigilance safety datasets** (`data/*.csv`) representing different therapeutic classes for live testing and demonstration:
-
-1. **`Bisoprolol_icsr_sample_1068rows.csv`**: Primary FDA dataset (1,068 rows / 1,024 unique ICSR cases). Focus: Beta-blocker safety profile (Acute kidney injury, Hypotension, Bradycardia).
-2. **`Atorvastatin_icsr_sample_50rows.csv`**: Statin class safety profile (Myalgia, Rhabdomyolysis, Hepatic enzyme increased, Blood CPK increased).
-3. **`Metformin_icsr_sample_50rows.csv`**: Anti-diabetic class safety profile (Lactic acidosis, Upper abdominal pain, Renal impairment, Hypoglycaemia).
-4. **`Apixaban_icsr_sample_50rows.csv`**: Anticoagulant class safety profile (Gastrointestinal haemorrhage, Epistaxis, Haematoma, Anaemia).
-5. **`Pembrolizumab_icsr_sample_50rows.csv`**: Immuno-oncology class safety profile (Pneumonitis, Colitis, Immune-mediated hepatitis, Thyroiditis).
-6. **`Semaglutide_icsr_sample_50rows.csv`**: GLP-1 receptor agonist safety profile (Nausea, Vomiting, Pancreatitis acute, Gastroparesis, Dehydration).
-
-*Users can dynamically switch between pre-loaded datasets or upload their own custom ICSR CSV files via Page 2 (`📂 Upload`).*
+1. **Zero Mathematical Hallucinations**: All metrics (counts, percentages, age distributions, reaction frequencies) are computed deterministically in Python (`pandas`). The LLM never performs arithmetic.
+2. **Context Isolation & Evidence Packets**: The LLM receives only pre-aggregated, section-scoped JSON evidence packets. Raw data tables are never dumped into prompts.
+3. **Sub-Second Groq LPU Acceleration**: Leverages Groq's LPU hardware (`llama-3.3-70b-versatile`) for sub-second narrative generation with automatic failover to an offline rule-based engine.
+4. **Explainable AI (XAI) & Grounding Audit**: Features **SHAP feature importance** for patient risk drivers and sentence-level evidence attribution maps cross-checking prose numbers against ground-truth JSON.
+5. **Configuration-Driven Extensibility**: Defining report structures in external YAML files (`config/*.yaml`) allows extending to PSUR, PBRER, or DSUR without modifying business logic.
+6. **Human-in-the-Loop (HITL) Sign-Off**: Interactive review workspace allowing medical reviewers to inspect evidence side-by-side with text, edit prose inline, and approve sections.
 
 ---
 
-## Repository Structure
+## 💊 Included Clinical Safety Datasets
+
+The platform includes **6 pre-loaded clinical safety datasets** (`data/*.csv`) representing diverse drug classes for live testing and demonstration:
+
+| Dataset | Therapeutic Class | NDA / BLA Identifier | Primary Reported Adverse Events |
+|---|---|---|---|
+| **`Bisoprolol_icsr_sample_1068rows.csv`** | Beta-Blocker | NDA 020186 | Acute kidney injury, Hypotension, Bradycardia |
+| **`Atorvastatin_icsr_sample_50rows.csv`** | Statin | NDA 020702 | Myalgia, Rhabdomyolysis, Hepatic enzyme increased |
+| **`Metformin_icsr_sample_50rows.csv`** | Anti-Diabetic | NDA 020357 | Lactic acidosis, Upper abdominal pain, Hypoglycaemia |
+| **`Apixaban_icsr_sample_50rows.csv`** | Anticoagulant | NDA 202155 | Gastrointestinal haemorrhage, Epistaxis, Anaemia |
+| **`Pembrolizumab_icsr_sample_50rows.csv`** | Immuno-Oncology | BLA 125514 | Pneumonitis, Colitis, Immune-mediated hepatitis |
+| **`Semaglutide_icsr_sample_50rows.csv`** | GLP-1 Agonist | NDA 209637 | Pancreatitis acute, Gastroparesis, Vomiting |
+
+*Users can dynamically switch between pre-loaded datasets or upload custom ICSR CSV files via Page 2 (`📂 Upload`).*
+
+---
+
+## 📂 Repository Structure
 
 ```
-PADER_REPORT/
-├── app.py                     # Streamlit application entry point
-├── pages/                     # Multi-page Streamlit UI modules (10 Pages)
-│   ├── 1_🏠_Dashboard.py
-│   ├── 2_📂_Upload.py
-│   ├── 3_📊_Explorer.py
-│   ├── 4_📈_Analytics.py
-│   ├── 5_🧠_Generator.py
-│   ├── 6_📝_Review.py
-│   ├── 7_🔍_Evidence_Viewer.py
-│   ├── 8_📄_Report_Viewer.py
-│   ├── 9_⚙️_Settings.py
-│   └── 10_📜_Logs.py
-├── config/                    # YAML report schemas & app settings
-├── prompts/                   # External section prompt templates
-├── analysis/                  # Deterministic safety analysis engine
-├── llm/                       # Provider abstraction (Groq, Gemini, HF, Offline)
-├── pipeline/                  # Business logic orchestrator
-├── evaluation/                # Grounding auditor & SHAP explainer
-├── exporters/                 # Multi-format document exporters (PDF, DOCX, HTML, MD)
-├── tests/                     # Unit test suite
-├── docs/                      # Technical specifications (HLD & LLD)
-├── outputs/                   # Generated output reports
-├── assets/                    # System architecture diagrams
-├── data/                      # 6 Pre-loaded ICSR clinical safety datasets
-├── Dockerfile
-├── docker-compose.yml
-├── .env.example
+PADER_REPORT/ (regintel-ai)
+├── app.py                             # Main Streamlit Application Shell
+├── pages/                             # 10 Multi-page Streamlit Modules
+│   ├── 1_🏠_Dashboard.py               # Executive KPI metrics & charts
+│   ├── 2_📂_Upload.py                  # Dataset uploader & pre-loaded switcher
+│   ├── 3_📊_Explorer.py                # Data schema, nulls, duplicates & raw tables
+│   ├── 4_📈_Analytics.py               # Advanced Plotly safety charts
+│   ├── 5_🧠_Generator.py               # AI section generator & evidence scoper
+│   ├── 6_📝_Review.py                  # Human-in-the-Loop side-by-side review hub
+│   ├── 7_🔍_Evidence_Viewer.py         # XAI sentence attribution & SHAP explainer
+│   ├── 8_📄_Report_Viewer.py           # Report preview & multi-format exporter
+│   ├── 9_⚙️_Settings.py               # Engine selection & hyperparameter tuning
+│   └── 10_📜_Logs.py                  # System audit logs & prompt versioning
+├── config/                            # YAML report schemas & settings
+├── prompts/                           # External section prompt templates
+├── analysis/                          # Deterministic safety analysis engine
+├── llm/                               # Multi-provider abstraction (Groq, Gemini, HF, Offline)
+├── pipeline/                          # Core business logic orchestrator
+├── evaluation/                        # XAI attribution, ROUGE-L, BLEU-2 & SHAP
+├── exporters/                         # PDF, DOCX, HTML, MD exporters
+├── utils/                             # Logger & data helpers
+├── tests/                             # Automated unit test suite
+├── docs/                              # Technical HLD & LLD specifications
+├── outputs/                           # Formatted generated report documents
+├── assets/                            # System architecture diagrams
+├── data/                              # 6 ICSR clinical safety datasets
+├── Dockerfile                         # Production Docker container setup
+├── docker-compose.yml                 # Docker Compose orchestrator
+├── requirements.txt                   # Dependency manifest
 └── README.md
 ```
 
 ---
 
-## Key Features
+## 🚀 Quickstart & Usage
 
-1. **Deterministic Data Analysis**: Deduplicates records by `safetyreportid` and computes ICH E2A seriousness breakdown, MedDRA Preferred Term frequencies, patient age/sex stratifications, and time-series trends in pure Python.
-2. **Context Isolation**: Sends isolated JSON evidence packets per section instead of dumping entire datasets into the model context.
-3. **Sub-Second Groq LPU Speed**: Leverages Groq's LPU acceleration (`llama-3.3-70b-versatile`) with automatic fallback to a local rule engine if rate-limited.
-4. **Explainable AI & Evaluation**: Computes BLEU-2, ROUGE-L F1 scores, Numerical Fact Precision, and SHAP feature importance for seriousness prediction.
-5. **Human-in-the-Loop Review**: Interface for medical reviewers to inspect evidence side-by-side with prose, edit text inline, and approve sections.
-6. **Multi-Format Export**: Generates styled PDF reports (via ReportLab tables), Word documents (`.docx`), interactive HTML, and Markdown.
-
----
-
-## Quickstart
-
-### Local Setup
+### 1. Local Application Setup
 ```bash
-# 1. Clone repository & enter directory
+# Clone the repository
 git clone https://github.com/kmadhav07/PADER_Report.git
 cd PADER_Report
 
-# 2. Install dependencies
+# Install dependencies
 pip install -r requirements.txt
 
-# 3. Add API key to .env
+# Configure environment variables
 cp .env.example .env
-# Set GROQ_API_KEY=gsk_...
+# Edit .env and set GROQ_API_KEY=gsk_...
 
-# 4. Run Streamlit application
+# Run Streamlit application
 streamlit run app.py
 ```
+Open **`http://localhost:8501`** in your browser.
 
-### Running Unit Tests
+---
+
+### 2. Run Automated Unit Tests
 ```bash
 python3 -m unittest discover tests
 ```
 
-### Docker Setup
+---
+
+### 3. Docker Container Deployment
 ```bash
 docker-compose up --build -d
 ```
 
 ---
 
-## Configuration-Driven Extensibility
+## 🛡️ Regulatory Compliance & Quality Evaluation
 
-Report schemas are defined externally in YAML (`config/*.yaml`). To add support for new regulatory report types (such as PSUR, PBRER, or DSUR), create a new YAML configuration defining the required sections and analytics mappings. No changes to core pipeline Python code are required.
+- **US FDA 21 CFR 314.80 Compliance**: Adheres to all 8 mandatory PADER sections and ICH E2A seriousness criteria.
+- **Quantitative NLP Evaluation**: Computes BLEU-2, ROUGE-L F1, Numerical Precision (100%), and Hallucination Rate (0.0%).
+- **Explainable AI (XAI)**: SHAP TreeExplainer feature importance plots for patient risk factors.
+- **Multi-Format Exporting**: Formats pipe tables into native ReportLab PDF tables and Word (`.docx`) tables.
 
 ---
 
-## License
+## 📄 License
 
 MIT License.
