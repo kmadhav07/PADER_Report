@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  regintel-ai:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: regintel_safety_reporting
+    ports:
+      - "8501:8501"
+    environment:
+      - GROQ_API_KEY=${GROQ_API_KEY}
+    volumes:
+      - ./data:/app/data
+      - ./outputs:/app/outputs
+    restart: unless-stopped

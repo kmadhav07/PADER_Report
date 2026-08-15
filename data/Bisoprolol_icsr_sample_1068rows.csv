@@ -1,0 +1,1069 @@
+safetyreportid,occurcountry,serious,seriousnessdeath,seriousnesslifethreatening,seriousnesshospitalization,seriousnessdisabling,seriousnesscongenitalanomali,seriousnessother,receivedate,fulfillexpeditecriteria,primarysource_qualification,patient_patientonsetage,patient_patientsex,patient_reaction_reactionmeddrapt,patient_reaction_reactionoutcome
+24780403,Italy,serious,no,no,yes,no,no,yes,20241227,yes,pharmacist,85,Female,"Rectal haemorrhage,Deficiency anaemia",unknown
+24780599,France,serious,no,no,yes,no,no,yes,20241227,yes,physician,69,Female,Coma,recovered/resolved
+24780680,France,serious,no,no,yes,no,no,yes,20241227,yes,physician,85,Male,Acute kidney injury,recovered/resolved
+24784771,United Kingdom,serious,no,no,no,no,no,yes,20241228,yes,pharmacist,86,Female,Muscle spasms,recovered/resolved
+24784845,United Kingdom,serious,no,no,no,yes,no,yes,20241228,yes,consumer or non-health professional,35,Male,"Chest pain,Anxiety,Panic attack",not recovered/not resolved/ongoing
+24784920,United Kingdom,serious,no,no,no,no,no,yes,20241228,yes,consumer or non-health professional,60,Female,Genital burning sensation,not recovered/not resolved/ongoing
+24784985,United Kingdom,serious,no,no,no,no,no,yes,20241228,yes,pharmacist,78,Male,Pemphigoid,unknown
+24784989,United Kingdom,serious,no,no,no,no,no,yes,20241228,yes,consumer or non-health professional,59,Male,"Drug interaction,Hypersensitivity",unknown
+24787006,United Kingdom,serious,no,no,no,no,no,yes,20241230,yes,consumer or non-health professional,59,Male,"Bradycardia,Medication error",not recovered/not resolved/ongoing
+24787240,United Kingdom,serious,no,no,no,no,no,yes,20241230,yes,consumer or non-health professional,45,Male,"Muscle twitching,Muscle spasms",not recovered/not resolved/ongoing
+24787307,United Kingdom,serious,no,no,no,no,no,yes,20241230,yes,physician,64,Female,Cardiac arrest,recovering/resolving
+24787627,Italy,serious,no,no,no,no,no,yes,20241230,yes,pharmacist,88,Female,"Hypoglycaemia,Acidosis",recovering/resolving
+24791327,France,serious,no,no,yes,no,no,yes,20241231,yes,physician,81,Female,Cardiac failure,not recovered/not resolved/ongoing
+24791598,France,serious,no,yes,yes,no,no,yes,20241231,yes,physician,72,Female,Hepatic cytolysis,recovering/resolving
+24791831,United Kingdom,serious,no,no,no,no,no,yes,20241231,yes,other health professional,,Unknown,Cardiogenic shock,unknown
+24792345,United Kingdom,serious,no,no,no,no,no,yes,20241231,yes,other health professional,,Unknown,Atrioventricular block,unknown
+24792691,France,serious,no,no,no,no,no,yes,20241231,yes,physician,77,Male,Pseudoporphyria,recovering/resolving
+24792889,Spain,serious,no,no,yes,no,no,yes,20241231,yes,physician,87,Male,"Hyponatraemia,Hypervolaemia,Cardiac failure",recovered/resolved
+24793431,France,serious,no,no,no,yes,no,no,20241231,yes,pharmacist,70,Female,Dyskinesia,not recovered/not resolved/ongoing
+24795574,United Kingdom,serious,no,no,yes,no,no,yes,20241231,yes,physician,62,Female,"Oxygen saturation decreased,Cardiac failure congestive,Dyspnoea",unknown
+25026227,Germany,serious,yes,no,yes,no,no,yes,20250301,yes,other health professional,66,Male,"Death,Respiratory depression,Polyneuropathy",fatal
+25007035,Italy,serious,no,yes,yes,no,no,yes,20250225,yes,pharmacist,56,Male,"Drug abuse,Intentional self-injury,Vomiting,Aggression,Agitation",recovered/resolved
+24969537,Poland,serious,no,yes,yes,no,no,yes,20250214,yes,physician,70,Female,"Atrioventricular block complete,Bradycardia,Bradyarrhythmia,Left ventricular end-diastolic pressure increased,Diastolic dysfunction,Atrioventricular block second degree,Supraventricular extrasystoles,Atrioventricular block,Asthenia,Dizziness",recovered/resolved
+24872990,Belgium,serious,no,no,no,no,no,yes,20250122,yes,physician,74,Female,"Enterococcal infection,Neutropenia,Pancytopenia,Thrombocytopenia,Leukopenia,Anaemia,Normochromic normocytic anaemia,Escherichia infection,Pyrexia",unknown
+24988692,Ie,serious,no,no,yes,no,no,yes,20250220,yes,pharmacist,75,Female,Liver injury,recovered/resolved
+25028609,Poland,serious,yes,no,no,no,no,no,20250302,yes,physician,69,Female,Asthenia,fatal
+25008814,Italy,serious,no,no,yes,no,no,yes,20250225,yes,physician,54,Male,"Electrocardiogram QT prolonged,Dilated cardiomyopathy,Condition aggravated,Hypocalcaemia,Trousseau^s sign",recovered/resolved
+25036112,United Kingdom,serious,no,no,no,no,no,yes,20250304,yes,other health professional,19,Female,Drug ineffective,unknown
+25039361,Poland,serious,no,no,yes,no,no,no,20250305,yes,pharmacist,76,Male,poland pharmacist other AUROBINDO other FDA 76year male 27.1 Anal haemorrhage,recovering/resolving
+25039953,France,serious,no,no,yes,no,no,yes,20250305,yes,pharmacist,78,Male,Rhabdomyolysis,recovering/resolving
+25039963,France,serious,no,no,yes,no,no,yes,20250305,yes,physician,67,Male,Pemphigus,recovering/resolving
+25040847,France,serious,no,no,yes,no,no,yes,20250305,yes,physician,68,Female,"Encephalopathy,Anticholinergic syndrome",recovered/resolved
+25040902,Spain,serious,no,no,yes,no,no,yes,20250305,yes,physician,44,Male,"Asthmatic crisis,Asthma,Condition aggravated",recovered/resolved
+25041239,United Kingdom,serious,no,no,no,no,no,yes,20250305,yes,consumer or non-health professional,,Unknown,"Loss of libido,Erectile dysfunction,Ejaculation delayed",not recovered/not resolved/ongoing
+25043816,Spain,serious,no,no,yes,no,no,yes,20250306,yes,physician,50,Male,Acute kidney injury,recovered/resolved
+25044335,France,serious,no,no,yes,no,no,yes,20250306,yes,pharmacist,78,Female,Renal failure,recovering/resolving
+25048586,United Kingdom,serious,no,no,no,no,no,yes,20250307,yes,pharmacist,66,Female,"Blood pressure systolic increased,Nausea,Vision blurred,Headache,Malaise,Product dispensing error",unknown
+24798336,Spain,serious,no,no,yes,no,no,yes,20250102,yes,physician,72,Male,"Inappropriate antidiuretic hormone secretion,Hyponatraemia,Craniocerebral injury,Haemorrhage intracranial",recovered/resolved
+25049865,France,serious,no,no,yes,no,no,yes,20250307,yes,physician,80,Male,"Acute kidney injury,Clostridium difficile colitis",recovered/resolved
+25055048,Italy,serious,no,no,no,no,no,yes,20250308,yes,pharmacist,80,Male,"Renal impairment,Weight decreased,Feeding disorder,Decreased appetite,Diarrhoea,Vomiting",unknown
+24909030,Italy,serious,no,no,yes,no,no,yes,20250131,yes,physician,71,Female,"Palpitations,Atrial fibrillation,Drug ineffective",recovered/resolved
+25055082,United Kingdom,serious,no,no,yes,no,no,yes,20250308,yes,other health professional,67,Female,"Swollen tongue,Pharyngeal swelling",recovered/resolved
+25055088,United Kingdom,serious,no,no,no,no,no,yes,20250308,yes,consumer or non-health professional,71,Male,Dry eye,recovered/resolved
+25055162,United Kingdom,serious,no,no,no,no,no,yes,20250308,yes,physician,91,Female,Drug interaction,unknown
+25044279,France,serious,no,no,no,no,no,yes,20250306,yes,pharmacist,93,Female,"Pancreatitis acute,Blood potassium increased,Blood creatinine increased",recovered/resolved
+25055215,United Kingdom,serious,no,no,no,no,no,yes,20250308,yes,physician,91,Female,Drug interaction,unknown
+25055227,United Kingdom,serious,no,no,no,no,no,yes,20250308,yes,consumer or non-health professional,20,Female,"Photosensitivity reaction,Miliaria",recovered/resolved
+24892198,France,serious,yes,no,yes,no,no,yes,20250128,yes,pharmacist,70,Male,"Haematemesis,Gastric ischaemia,Intestinal ischaemia,Oesophageal stenosis",fatal
+25006602,Portugal,serious,no,no,no,no,no,yes,20250225,yes,physician,78,Male,"Hypertensive emergency,Renal sympathetic nerve ablation,Chronic kidney disease,Heart failure with preserved ejection fraction,Atrial fibrillation,Hypertension,Headache,Sigmoid-shaped ventricular septum,Cardiac hypertrophy,Aortic dilatation,Blood creatinine increased,Left ventricular hypertrophy,QRS axis abnormal,Diastolic dysfunction,Multiple-drug resistance,Drug resistance,Drug ineffective",not recovered/not resolved/ongoing
+25062832,United Kingdom,serious,no,no,no,no,no,yes,20250311,yes,pharmacist,79,Male,"Ageusia,Dry mouth,Decreased appetite",unknown
+25063322,United Kingdom,serious,no,no,no,no,no,yes,20250311,yes,physician,91,Female,Drug interaction,unknown
+25007823,France,serious,no,yes,no,no,no,yes,20250225,yes,physician,71,Male,"Anti factor V antibody,Shock haemorrhagic,Intra-abdominal haemorrhage,Hypoxia,Hepatic failure,Cell death,Benign recurrent intrahepatic cholestasis,Hypoglycaemia,Coagulopathy,Device related infection",not recovered/not resolved/ongoing
+25066645,United Kingdom,serious,no,no,yes,no,no,yes,20250312,yes,pharmacist,75,Male,Duodenal ulcer haemorrhage,recovering/resolving
+24913394,Spain,serious,no,no,yes,no,no,no,20250201,yes,other health professional,58,Male,"Erythema,Swelling,Drug ineffective",recovered/resolved
+25067040,United Kingdom,serious,no,no,no,no,no,yes,20250312,yes,pharmacist,84,Female,Hyponatraemia,unknown
+25067414,Germany,serious,no,no,yes,no,no,yes,20250312,yes,physician,84,Female,"Syncope,Bladder disorder,Exostosis,General physical health deterioration",recovered/resolved
+25067529,Germany,serious,no,no,yes,no,no,yes,20250312,yes,physician,51,Male,Cardiac failure acute,unknown
+25077217,Italy,serious,no,no,no,no,no,yes,20250314,yes,physician,84,Male,"Loss of consciousness,Syncope",recovering/resolving
+25078744,France,serious,no,no,yes,no,no,yes,20250314,yes,physician,79,Female,"Acute kidney injury,Fall",recovering/resolving
+25080666,United Kingdom,serious,no,no,no,no,no,yes,20250315,yes,physician,68,Female,"Hemiparesis,Paraesthesia",recovered/resolved
+25055194,Ie,serious,no,no,yes,no,no,yes,20250308,yes,other health professional,79,Male,"Cellulitis,Catheter site warmth,Catheter site pain,Catheter site swelling,Rectal haemorrhage,Haemoglobin abnormal,C-reactive protein increased,Red blood cell sedimentation rate increased",recovering/resolving
+25080914,France,serious,no,no,yes,no,no,yes,20250315,yes,physician,80,Male,"Atrioventricular block complete,Hyperkalaemia",recovered/resolved
+25080935,France,serious,yes,no,no,no,no,no,20250315,yes,pharmacist,89,Male,"Fall,Haematoma",fatal
+25081317,Spain,serious,no,no,yes,no,no,yes,20250316,yes,other health professional,80,Male,"Cutaneous vasculitis,Anuria,Acute pulmonary oedema,Dyspnoea,Hyperkalaemia,Renal failure",unknown
+24908666,Italy,serious,no,no,no,no,no,yes,20250131,yes,physician,72,Female,Melaena,recovered/resolved
+25087457,Portugal,serious,no,no,no,no,no,yes,20250318,yes,physician,,Male,"Drug ineffective,Bradycardia",unknown
+25088417,France,serious,no,yes,no,no,no,yes,20250318,yes,pharmacist,68,Female,"Lactic acidosis,Drug level increased",recovered/resolved
+25093452,France,serious,no,no,yes,no,no,no,20250319,yes,pharmacist,78,Female,"Vomiting,Tremor,Overdose",recovered/resolved
+25093622,France,serious,no,no,no,no,no,yes,20250319,yes,consumer or non-health professional,55,Male,"Erectile dysfunction,Sexual dysfunction",recovered/resolved
+25097898,France,serious,no,no,yes,no,no,no,20250320,yes,pharmacist,75,Male,"Cardiac disorder,Labelled drug-drug interaction issue,Drug interaction",unknown
+25098189,Italy,serious,no,no,yes,no,no,yes,20250320,yes,physician,76,Male,"Acute kidney injury,Confusional state,Dysstasia,Vomiting,Metabolic acidosis",recovered/resolved
+25099895,France,serious,no,yes,yes,no,no,yes,20250320,yes,pharmacist,3,Female,"Foetal heart rate disorder,Neonatal respiratory depression,Foetal growth restriction,Maternal exposure during pregnancy,Neonatal gastrointestinal disorder,Premature baby,Neonatal hyperglycaemia,Hospitalisation,Transfusion",recovered/resolved
+25100240,France,serious,no,yes,yes,no,no,yes,20250320,yes,pharmacist,,Female,"Foetal growth restriction,Neonatal respiratory depression,Maternal exposure during pregnancy,Premature baby,Neonatal gastrointestinal disorder,Hospitalisation",recovered/resolved
+25103643,Germany,serious,no,no,no,no,no,yes,20250321,yes,physician,69,Male,"Electrocardiogram QT prolonged,Sinus bradycardia",not recovered/not resolved/ongoing
+25103779,France,serious,no,yes,yes,no,no,yes,20250321,yes,other health professional,72,Male,"Thrombotic microangiopathy,Bronchial obstruction,Herpes virus infection,Neoplasm progression",unknown
+25104878,United Kingdom,serious,no,no,no,no,no,yes,20250321,yes,physician,69,Female,"Swollen tongue,Pruritus",recovered/resolved
+25108310,France,serious,no,no,no,yes,no,no,20250322,yes,physician,55,Male,Extremity necrosis,unknown
+25108470,France,serious,no,no,yes,no,no,yes,20250322,yes,pharmacist,84,Male,Acute kidney injury,recovering/resolving
+25108665,Germany,serious,no,no,yes,no,no,no,20250322,yes,physician,90,Male,"Chest pain,Dyspnoea,Hypotension,Bundle branch block right",unknown
+24989291,France,serious,no,no,yes,no,no,no,20250220,yes,physician,78,Male,"Eosinophilia,Rash",not recovered/not resolved/ongoing
+25117025,United Kingdom,serious,no,no,no,no,no,yes,20250325,yes,pharmacist,44,Female,Ototoxicity,unknown
+25117268,France,serious,no,no,yes,no,no,yes,20250325,yes,physician,86,Female,Pulmonary alveolar haemorrhage,not recovered/not resolved/ongoing
+25117300,Italy,serious,no,no,yes,no,no,yes,20250325,yes,physician,73,Female,Acute kidney injury,recovering/resolving
+25121537,France,serious,no,no,yes,no,no,yes,20250326,yes,pharmacist,88,Female,Sinus node dysfunction,recovering/resolving
+25122724,United Kingdom,serious,no,no,no,no,no,yes,20250326,yes,consumer or non-health professional,65,Female,"Dyspnoea,Cough,Wheezing",not recovered/not resolved/ongoing
+25123019,France,serious,no,no,no,no,no,yes,20250326,yes,pharmacist,,Female,"Microcephaly,Maternal exposure during pregnancy,Foetal growth restriction,Foetal heart rate disorder,Term birth,Low birth weight baby,Transposition of the great vessels",unknown
+25123074,United Kingdom,serious,no,no,yes,no,no,yes,20250326,yes,pharmacist,79,Female,"Loss of consciousness,Abdominal pain upper",recovered/resolved
+25123104,France,serious,no,no,yes,no,no,yes,20250326,yes,physician,65,Male,Pemphigoid,not recovered/not resolved/ongoing
+25123726,Portugal,serious,no,no,yes,no,no,yes,20250326,yes,physician,76,Male,"Acute kidney injury,Atrial fibrillation,Cardiac failure,Respiratory failure,Haemorrhoidal haemorrhage,Hyperglycaemia,Rectal haemorrhage,Neuropathy peripheral,Neutropenia,Dry skin,Skin exfoliation,Erythema,Decreased appetite,Weight decreased",unknown
+25128211,United Kingdom,serious,no,no,no,no,no,yes,20250327,yes,physician,79,Female,Melaena,recovered/resolved
+25128264,United Kingdom,serious,no,yes,yes,no,no,yes,20250327,yes,pharmacist,79,Female,Treatment failure,recovering/resolving
+25132695,France,serious,no,no,yes,no,no,yes,20250328,yes,physician,80,Female,"Thrombocytopenia,Haematoma muscle,Condition aggravated,Anaemia",recovered/resolved
+25133337,France,serious,no,yes,yes,no,no,yes,20250328,yes,physician,78,Male,"Cardiac failure acute,Sinus bradycardia",recovered/resolved
+25134409,Italy,serious,no,no,no,no,no,yes,20250328,yes,physician,89,Female,"Transient ischaemic attack,Dysarthria",recovering/resolving
+25134451,France,serious,no,no,yes,no,no,yes,20250328,yes,physician,73,Female,Pemphigoid,not recovered/not resolved/ongoing
+25134452,Italy,serious,no,no,no,no,no,yes,20250328,yes,physician,55,Male,Infusion related reaction,recovered/resolved
+25134771,United Kingdom,serious,no,no,no,no,no,yes,20250328,yes,physician,75,Female,Muscle spasms,recovered/resolved
+25134870,France,serious,no,no,yes,no,no,yes,20250328,yes,physician,71,Male,"Hepatic cytolysis,Hepatitis,Epistaxis,Paraesthesia oral,Dry mouth,Weight decreased,Decreased appetite",recovering/resolving
+25137541,France,serious,no,yes,no,no,no,yes,20250329,yes,physician,72,Male,Cardiogenic shock,recovering/resolving
+25137551,France,serious,no,yes,yes,no,no,yes,20250329,yes,physician,78,Female,"Thrombocytopenia,Autoimmune haemolytic anaemia",not recovered/not resolved/ongoing
+25137573,France,serious,no,no,yes,no,no,yes,20250329,yes,physician,91,Female,Immune thrombocytopenia,not recovered/not resolved/ongoing
+25137580,France,serious,no,no,yes,no,no,yes,20250329,yes,physician,57,Female,"Sinus tachycardia,Syncope,Somnolence,Malaise",recovered/resolved
+25066459,Germany,serious,no,no,no,no,no,yes,20250312,yes,physician,69,Female,"Immune-mediated lung disease,Off label use",recovering/resolving
+24997826,Italy,serious,no,yes,yes,no,no,yes,20250222,yes,pharmacist,27,Female,"Drug abuse,Intentional self-injury,Suicide attempt,Abdominal pain upper",recovered/resolved
+25137726,Italy,serious,no,yes,yes,no,no,yes,20250329,yes,physician,76,Male,"Sepsis,Nephrotic syndrome",recovered/resolved
+25137754,France,serious,yes,no,no,no,no,yes,20250329,yes,physician,83,Male,Endocarditis staphylococcal,fatal
+25137777,Italy,serious,no,no,no,no,no,yes,20250329,yes,physician,69,Male,Clostridium difficile colitis,recovered/resolved
+25137866,Italy,serious,no,no,yes,no,no,yes,20250329,yes,physician,57,Male,"Renal failure,Drug reaction with eosinophilia and systemic symptoms,Rash morbilliform,Periorbital oedema,Lymphadenopathy,Eosinophilia",recovering/resolving
+25139255,France,serious,no,no,yes,no,no,no,20250331,yes,pharmacist,93,Female,"Confusional state,Hypotension",recovered/resolved
+25139308,United Kingdom,serious,no,no,no,no,no,yes,20250331,yes,physician,81,Female,Joint swelling,recovered/resolved
+25139563,United Kingdom,serious,no,no,no,no,no,yes,20250331,yes,pharmacist,76,Male,Subdural haematoma,recovered/resolved
+24795755,United Kingdom,serious,no,no,no,no,no,yes,20250101,yes,other health professional,78,Male,Acute kidney injury,recovered/resolved
+24788122,Italy,serious,no,no,no,no,no,yes,20241230,yes,other health professional,63,Male,"Erectile dysfunction,Condition aggravated,Drug ineffective",recovering/resolving
+24796067,United Kingdom,serious,no,no,no,yes,no,no,20250101,yes,other health professional,77,Male,Leg amputation,recovered/resolved
+24796224,France,serious,no,no,no,yes,no,no,20250101,yes,pharmacist,70,Male,Dyskinesia,not recovered/not resolved/ongoing
+24803041,Spain,serious,no,no,yes,no,no,yes,20250103,yes,pharmacist,,Female,Hyponatraemia,recovered/resolved
+24803117,United Kingdom,serious,no,no,no,no,no,yes,20250103,yes,pharmacist,81,Female,Hepatic enzyme increased,unknown
+24803128,Spain,serious,no,no,yes,no,no,yes,20250103,yes,other health professional,,Female,Haematemesis,recovered/resolved
+24806665,France,serious,no,no,yes,no,no,yes,20250104,yes,physician,,Male,"Foetal growth restriction,Medically induced preterm birth,Maternal exposure during pregnancy",not recovered/not resolved/ongoing
+24806832,Portugal,serious,no,yes,no,no,no,yes,20250104,yes,physician,90,Female,Cardio-respiratory arrest,recovered/resolved
+24807274,Portugal,serious,no,no,no,no,no,yes,20250105,yes,other health professional,89,Female,BRASH syndrome,recovered/resolved
+24809124,Italy,serious,no,no,no,no,no,yes,20250106,yes,physician,59,Male,"Cough,Chest discomfort,Dyspnoea",recovered/resolved
+24812900,France,serious,no,no,yes,no,no,yes,20250107,yes,physician,71,Female,Dilated cardiomyopathy,not recovered/not resolved/ongoing
+24812977,Germany,serious,no,no,no,no,no,yes,20250107,yes,physician,56,Female,"Suicide attempt,Intentional overdose",unknown
+24813219,France,serious,yes,no,no,no,no,yes,20250107,yes,pharmacist,78,Male,Pancytopenia,fatal
+24813415,France,serious,no,no,yes,no,no,yes,20250107,yes,pharmacist,91,Male,"Cutaneous vasculitis,Vascular purpura",recovering/resolving
+24815412,France,serious,no,no,yes,yes,no,yes,20250107,yes,other health professional,,Female,"Bradycardia foetal,Neonatal respiratory distress,Microencephaly,Neonatal behavioural syndrome,Maternal exposure during pregnancy,Foetal growth restriction",recovered/resolved
+24816890,France,serious,no,no,no,no,no,yes,20250107,yes,pharmacist,67,Male,Hepatic cytolysis,recovering/resolving
+24822547,United Kingdom,serious,no,no,no,no,no,yes,20250109,yes,physician,80,Male,Symptom masked,unknown
+24828530,France,serious,no,no,no,no,no,yes,20250110,yes,pharmacist,62,Female,"Altered state of consciousness,Cognitive disorder,Asthenia,Salivary hypersecretion,Overdose",recovered/resolved
+24828871,Spain,serious,no,no,yes,no,no,yes,20250110,yes,other health professional,104,Female,"Syncope,Hyponatraemia,Asthenia,Dizziness,Fall",unknown
+24802877,France,serious,no,no,yes,no,no,yes,20250103,yes,physician,63,Male,Acute kidney injury,recovered/resolved
+24833163,France,serious,no,no,yes,no,no,no,20250111,yes,pharmacist,71,Male,Hypoglycaemia,recovered/resolved
+24833191,United Kingdom,serious,no,no,no,no,no,yes,20250111,yes,pharmacist,66,Female,"Mobility decreased,Hypertonia,Parkinsonism,Cognitive disorder,Hyperreflexia,Reduced facial expression,Tardive dyskinesia,Tremor,Fall,Reflexes abnormal",recovering/resolving
+24833204,Germany,serious,no,no,yes,no,no,yes,20250111,yes,consumer or non-health professional,58,Female,"Chest pain,Dizziness,Blood pressure systolic decreased,Right ventricular failure,Pleural effusion,Pulmonary congestion,Pneumonia,Pericardial effusion,Renal injury,Cardiorenal syndrome,Lymphadenopathy mediastinal,Pain,Arthralgia,Cystitis escherichia",unknown
+24833425,Italy,serious,yes,yes,yes,no,no,yes,20250112,yes,physician,,Male,"Pseudomonas infection,Septic shock,Respiratory failure,Pyrexia,Diarrhoea",fatal
+24835358,Germany,serious,no,no,no,no,no,yes,20250113,yes,other health professional,56,Male,Cerebral haemorrhage,unknown
+24803463,France,serious,no,no,yes,no,no,yes,20250103,yes,physician,52,Male,Hepatic cytolysis,recovered/resolved
+24843792,Italy,serious,yes,no,no,no,no,yes,20250115,yes,physician,83,Male,Cerebral haemorrhage,fatal
+24847678,United Kingdom,serious,no,no,no,no,no,yes,20250116,yes,other health professional,89,Female,"Confusional state,Fatigue",unknown
+24847955,France,serious,no,no,yes,no,no,yes,20250116,yes,physician,81,Male,"Coma,Confusional state",recovered/resolved
+24853075,United Kingdom,serious,no,no,no,no,no,yes,20250116,yes,consumer or non-health professional,64,Female,"Muscular weakness,Muscle spasms,Paraesthesia,Muscle twitching,Restless legs syndrome",not recovered/not resolved/ongoing
+24855113,France,serious,no,no,yes,no,no,yes,20250117,yes,pharmacist,83,Female,"Acute kidney injury,Hyperkalaemia",recovering/resolving
+24858691,United Kingdom,serious,no,no,no,no,no,yes,20250118,yes,physician,92,Male,"Joint swelling,Dizziness,Oedema peripheral",unknown
+24858708,United Kingdom,serious,no,no,no,no,no,yes,20250118,yes,consumer or non-health professional,17,Female,"Menstruation delayed,Intermenstrual bleeding,Menstruation irregular",not recovered/not resolved/ongoing
+24858723,France,serious,no,no,yes,no,no,yes,20250118,yes,physician,74,Female,Ischaemic stroke,recovered/resolved
+24860343,France,serious,no,no,no,no,no,yes,20250120,yes,consumer or non-health professional,,Male,Neuropathy peripheral,not recovered/not resolved/ongoing
+24860802,Italy,serious,no,no,no,no,no,yes,20250120,yes,physician,82,Male,"Purpura,Face oedema,Dermatitis exfoliative generalised",recovered/resolved
+24860813,Canada,serious,no,no,no,no,no,yes,20250120,yes,other health professional,53,Female,Drug ineffective,unknown
+24861349,France,serious,no,no,no,no,no,yes,20250120,yes,pharmacist,53,Female,Cholestasis,not recovered/not resolved/ongoing
+24864994,United Kingdom,serious,no,no,yes,no,no,yes,20250121,yes,pharmacist,,Unknown,Orthostatic hypotension,recovered/resolved
+24865163,United Kingdom,serious,no,no,no,no,no,yes,20250121,yes,pharmacist,71,Male,Atrioventricular block complete,unknown
+24865641,France,serious,no,no,no,no,no,yes,20250121,yes,physician,78,Female,"Hypotension,Malaise,Fall",recovering/resolving
+24865801,United Kingdom,serious,no,no,no,no,no,yes,20250121,yes,physician,89,Female,"Chronic obstructive pulmonary disease,Dyspnoea",unknown
+24866816,United Kingdom,serious,no,no,no,no,no,yes,20250121,yes,pharmacist,58,Male,Pulmonary embolism,not recovered/not resolved/ongoing
+24871166,United Kingdom,serious,no,no,no,no,no,yes,20250122,yes,physician,66,Male,Hypocalcaemia,recovered/resolved
+24871216,France,serious,no,no,yes,no,no,yes,20250122,yes,pharmacist,66,Male,"Atrial fibrillation,Hypokalaemia",recovered/resolved
+24806812,Germany,serious,no,no,no,no,no,yes,20250104,yes,consumer or non-health professional,,Female,"Sudden onset of sleep,Sleep disorder,Somnolence,Disturbance in attention,General physical health deterioration,Gamma-glutamyltransferase increased",unknown
+24876245,United Kingdom,serious,no,no,no,no,no,yes,20250123,yes,pharmacist,,Female,"Sleep paralysis,Skin irritation,Alopecia,Fatigue,Nightmare",recovered/resolved
+24887289,United Kingdom,serious,no,no,no,no,no,yes,20250127,yes,physician,81,Female,Hyperkalaemia,recovering/resolving
+24887406,France,serious,yes,no,yes,no,no,yes,20250127,yes,other health professional,71,Male,"Lung disorder,Thrombocytopenia,Pneumonitis,Bronchopulmonary aspergillosis",fatal
+24887784,France,serious,no,no,yes,no,no,yes,20250127,yes,pharmacist,72,Female,"Poisoning deliberate,Altered state of consciousness,Hypoxia,Hypothermia,Bradycardia",recovered/resolved
+24888230,France,serious,no,no,yes,no,no,no,20250127,yes,pharmacist,85,Male,Hypotension,recovering/resolving
+24888268,France,serious,no,no,yes,no,no,yes,20250127,yes,pharmacist,79,Female,Clostridium difficile colitis,recovered/resolved
+24888443,United Kingdom,serious,no,no,no,no,no,yes,20250127,yes,other health professional,,Unknown,"Hypoacusis,Ototoxicity",unknown
+24893439,United Kingdom,serious,no,no,no,no,no,yes,20250128,yes,pharmacist,,Unknown,Acute kidney injury,unknown
+24898140,United Kingdom,serious,no,no,no,no,no,yes,20250129,yes,pharmacist,22,Female,Confusional state,not recovered/not resolved/ongoing
+24898322,United Kingdom,serious,no,no,yes,no,no,yes,20250129,yes,consumer or non-health professional,70,Male,"Gouty arthritis,Medication error",not recovered/not resolved/ongoing
+24902753,Germany,serious,no,no,no,no,no,yes,20250130,yes,physician,,Male,"Small for dates baby,Foetal exposure during pregnancy",recovering/resolving
+24902758,United Kingdom,serious,yes,yes,no,no,no,yes,20250130,yes,other health professional,75,Female,"Pharyngeal swelling,Anaphylactic reaction",fatal
+24907505,France,serious,yes,no,yes,no,no,yes,20250131,yes,pharmacist,65,Female,"Lactic acidosis,Acute kidney injury",fatal
+24858756,Ro,serious,no,yes,yes,no,no,yes,20250118,yes,physician,40,Male,"Acute kidney injury,Cardiac arrest,Hyperkalaemia,Lactic acidosis,Hypoxia,Hypotension,Altered state of consciousness,Agitation,Respiratory disorder,Pallor,Peripheral coldness,Renal impairment,Campylobacter gastroenteritis,Bradycardia,Dyskinesia,Muscular weakness",unknown
+24907834,United Kingdom,serious,no,no,no,no,no,yes,20250131,yes,physician,75,Female,Urinary incontinence,recovered/resolved
+24908264,France,serious,no,no,yes,no,no,yes,20250131,yes,pharmacist,96,Female,"Acute kidney injury,Hyponatraemia,Atrioventricular block,Drug interaction",recovered/resolved
+24908454,France,serious,no,yes,yes,no,no,yes,20250131,yes,physician,75,Female,"Gastrointestinal ulcer haemorrhage,Pancreatitis acute,Hepatitis cholestatic,Congenital aplasia",recovered/resolved
+24908919,Italy,serious,no,no,yes,no,no,yes,20250131,yes,physician,68,Female,"Melaena,Rectal haemorrhage,Anaemia",unknown
+24909055,France,serious,no,no,yes,no,no,yes,20250131,yes,pharmacist,77,Female,Acute kidney injury,recovering/resolving
+24913162,France,serious,no,no,yes,no,no,yes,20250201,yes,physician,50,Male,Subarachnoid haemorrhage,recovered/resolved
+24913316,France,serious,no,no,yes,no,no,yes,20250201,yes,pharmacist,84,Female,"Cardiac failure,Acute kidney injury,Drug interaction",recovered/resolved
+24853349,France,serious,no,no,yes,no,no,yes,20250117,yes,pharmacist,84,Female,"Respiratory distress,Lactic acidosis,Atrioventricular block complete,Acute kidney injury,Drug interaction,Overdose",recovered/resolved
+24915088,Spain,serious,no,no,yes,no,no,yes,20250203,yes,physician,83,Female,"Atrial fibrillation,Acute myocardial infarction,Cellulitis,COVID-19,Neutropenia,Urinary tract infection",recovered/resolved
+24919026,Spain,serious,no,no,no,no,no,yes,20250204,yes,other health professional,72,Male,"Hallucination,Tongue erythema,Dysarthria,Disturbance in attention,Urinary tract infection,Swollen tongue,Disorientation,Cognitive disorder,Somnolence,Emotional disorder",recovered/resolved
+24919227,France,serious,no,no,yes,no,no,yes,20250204,yes,physician,88,Male,"Stevens-Johnson syndrome,Asthenia,Somnolence,Decreased appetite",recovered/resolved
+24920583,France,serious,no,no,no,no,no,yes,20250204,yes,physician,56,Female,Electrocardiogram QT prolonged,recovered/resolved
+24921420,France,serious,yes,no,no,no,no,yes,20250204,yes,physician,74,Male,"Stevens-Johnson syndrome,Febrile bone marrow aplasia",fatal
+24921475,France,serious,no,no,yes,no,no,yes,20250204,yes,pharmacist,88,Female,Autoimmune myositis,recovering/resolving
+24925730,France,serious,no,no,yes,no,no,no,20250204,yes,pharmacist,90,Male,Orthostatic hypotension,recovering/resolving
+24928144,United Kingdom,serious,no,no,yes,no,no,yes,20250205,yes,pharmacist,94,Female,Ankle fracture,recovering/resolving
+24935168,France,serious,no,no,yes,no,no,yes,20250206,yes,pharmacist,74,Male,"Acute kidney injury,Lactic acidosis,Anaemia",recovered/resolved
+24935540,United Kingdom,serious,no,no,no,no,no,yes,20250206,yes,consumer or non-health professional,53,Male,"Blood glucose abnormal,Hyperglycaemia",not recovered/not resolved/ongoing
+24939529,United Kingdom,serious,no,no,no,no,no,yes,20250206,yes,consumer or non-health professional,,Female,Blood glucose decreased,recovered/resolved
+24939539,France,serious,no,no,yes,no,no,yes,20250206,yes,pharmacist,67,Male,Acute kidney injury,recovered/resolved
+24940500,United Kingdom,serious,no,no,yes,yes,no,yes,20250207,yes,pharmacist,93,Female,Femur fracture,recovering/resolving
+24940531,Canada,serious,no,no,yes,no,no,yes,20250207,yes,pharmacist,84,Female,Delirium,recovered/resolved
+24940601,Canada,serious,yes,no,yes,no,no,yes,20250207,yes,other health professional,71,Male,"Upper gastrointestinal haemorrhage,Gastrointestinal injury",fatal
+24940932,Canada,serious,no,no,yes,no,no,yes,20250207,yes,physician,56,Female,"Back pain,Cardiac disorder,Carditis,Dental restoration failure,Gastrooesophageal reflux disease",not recovered/not resolved/ongoing
+24940938,United Kingdom,serious,no,no,no,no,no,yes,20250207,yes,physician,78,Male,"Swelling face,Dizziness,Nausea",recovered/resolved
+24944728,Canada,serious,no,no,no,no,no,yes,20250208,yes,consumer or non-health professional,,Unknown,"Blindness transient,Epistaxis,Drug effective for unapproved indication,Off label use",recovered/resolved
+24946649,Italy,serious,no,yes,yes,no,no,yes,20250210,yes,physician,15,Female,"Kounis syndrome,Stress cardiomyopathy,Drug ineffective",recovered/resolved
+24947625,Spain,serious,no,no,no,no,no,yes,20250210,yes,physician,88,Male,"Musculoskeletal stiffness,Decreased appetite,Gait disturbance",recovered/resolved
+24952766,Canada,serious,no,no,yes,no,no,yes,20250211,yes,consumer or non-health professional,59,Female,"Alanine aminotransferase increased,Allergic sinusitis,Antinuclear antibody positive,Arthralgia,Arthritis,Arthropathy,Blood iron decreased,Blood uric acid increased,C-reactive protein increased,Condition aggravated,Cyst,Hepatic enzyme increased,Injection site pain,Injection site warmth,Joint effusion,Joint swelling,Nephrolithiasis,Oedema,Osteoarthritis,Pain,Pain in extremity,Psoriasis,Pyrexia,Rash,Renal disorder,Sepsis,Synovial disorder,Synovitis,Tendonitis,Urinary tract infection,Vitamin B12 decreased,Incorrect dose administered,Drug ineffective,Device issue,Wrong technique in device usage process",unknown
+24952834,France,serious,no,no,no,no,no,yes,20250211,yes,pharmacist,,Female,"Foetal growth restriction,Normal newborn,Term birth,Maternal exposure during pregnancy",recovered/resolved
+24953039,United Kingdom,serious,no,no,no,no,no,yes,20250211,yes,physician,60,Male,Wheezing,recovered/resolved
+24959215,Canada,serious,no,no,yes,no,no,yes,20250212,yes,other health professional,56,Female,"Nephrolithiasis,Allergic sinusitis,Alanine aminotransferase increased,Antinuclear antibody positive,Arthralgia,Arthritis,Arthropathy,Blood iron decreased,Blood uric acid increased,C-reactive protein increased,Condition aggravated,Cyst,Hepatic enzyme increased,Injection site pain,Injection site warmth,Joint effusion,Joint swelling,Oedema,Osteoarthritis,Pain,Pain in extremity,Psoriasis,Pyrexia,Rash,Renal disorder,Sepsis,Synovial disorder,Synovitis,Tendonitis,Urinary tract infection,Vitamin B12 decreased,Drug ineffective,Incorrect dose administered",unknown
+24963584,France,serious,no,no,yes,no,no,yes,20250213,yes,physician,89,Female,Subdural haematoma,recovered/resolved
+24963620,United Kingdom,serious,no,no,no,yes,no,yes,20250213,yes,consumer or non-health professional,52,Female,"Nocturia,Insomnia,Bradycardia,Hypotension,Suicidal ideation,Hallucination,Depression",not recovered/not resolved/ongoing
+24964204,France,serious,no,no,yes,no,no,yes,20250213,yes,physician,83,Male,"Hypokalaemia,Tonic clonic movements,Hypomagnesaemia,Hypocalcaemia,Hypophosphataemia",recovered/resolved
+24964501,France,serious,no,no,yes,no,no,yes,20250213,yes,physician,67,Male,Bicytopenia,recovered/resolved
+24964514,France,serious,no,no,no,no,no,yes,20250213,yes,physician,91,Male,"Angioedema,Drug interaction",recovered/resolved
+24964515,France,serious,no,no,yes,no,no,yes,20250213,yes,pharmacist,86,Female,"Acute kidney injury,Cholestasis",recovering/resolving
+24964530,United Kingdom,serious,no,no,yes,no,no,yes,20250213,yes,pharmacist,82,Female,Femoral neck fracture,recovering/resolving
+24964537,United Kingdom,serious,no,no,no,no,no,yes,20250213,yes,other health professional,76,Female,"Palpitations,Dizziness,Abnormal dreams",not recovered/not resolved/ongoing
+24964648,United Kingdom,serious,no,no,no,no,no,yes,20250213,yes,other health professional,71,Female,"Face oedema,Skin oedema,Epistaxis,Cough",not recovered/not resolved/ongoing
+24965125,France,serious,no,no,yes,no,no,no,20250213,yes,pharmacist,83,Female,"Fall,Hypotension",recovered/resolved
+24968368,France,serious,no,no,no,yes,no,no,20250214,yes,physician,49,Male,Myalgia,recovered/resolved
+24968502,France,serious,no,no,no,no,no,yes,20250214,yes,physician,71,Female,Eosinophilia,recovering/resolving
+24969561,United Kingdom,serious,no,no,no,no,no,yes,20250214,yes,consumer or non-health professional,,Female,"Myalgia,Chest pain,Bradycardia,Heart rate abnormal,Chest discomfort,Diarrhoea",not recovered/not resolved/ongoing
+24969964,Poland,serious,no,no,yes,no,no,yes,20250214,yes,physician,66,Male,"Thrombocytopenia,Febrile neutropenia",recovered/resolved
+24973030,France,serious,no,no,yes,no,no,no,20250216,yes,physician,79,Female,Fall,recovering/resolving
+24973067,France,serious,no,no,yes,no,no,no,20250216,yes,physician,78,Male,Hypotension,recovered/resolved
+24974307,United Kingdom,serious,no,yes,no,no,no,yes,20250217,yes,consumer or non-health professional,57,Female,"Cardiac arrest,Medication error",recovered/resolved
+24979403,Germany,serious,no,no,yes,no,no,yes,20250218,yes,physician,69,Male,"Cancer pain,Immune-mediated hepatitis",recovered/resolved
+24983830,France,serious,no,no,yes,no,no,yes,20250219,yes,other health professional,65,Female,"Depressed level of consciousness,Tremor,Antipsychotic drug level above therapeutic,Potentiating drug interaction",recovered/resolved
+24984238,France,serious,yes,no,no,no,no,yes,20250219,yes,other health professional,71,Male,"Lactic acidosis,Drug level above therapeutic",fatal
+24984747,France,serious,no,no,yes,no,no,yes,20250219,yes,other health professional,75,Male,"Lactic acidosis,Drug level above therapeutic",recovered/resolved
+24988517,United Kingdom,serious,no,no,yes,no,no,yes,20250220,yes,pharmacist,86,Female,"Pulmonary embolism,Treatment failure",recovered/resolved
+24989004,France,serious,no,no,yes,no,no,no,20250220,yes,pharmacist,80,Female,"Rash,Face oedema",recovering/resolving
+24989105,United Kingdom,serious,no,no,no,no,no,yes,20250220,yes,consumer or non-health professional,68,Male,"Abdominal distension,Intrusive thoughts,Urinary retention,Back pain,Gastrointestinal pain,Hyperhidrosis,Tremor,Insomnia,Panic attack",not recovered/not resolved/ongoing
+24989348,Italy,serious,no,no,yes,no,no,yes,20250220,yes,physician,86,Male,Cerebrovascular accident,unknown
+24989439,France,serious,no,no,no,no,no,yes,20250220,yes,physician,79,Female,Colitis microscopic,not recovered/not resolved/ongoing
+24989454,France,serious,no,no,yes,no,no,yes,20250220,yes,physician,40,Male,Acute kidney injury,recovered/resolved
+24989546,France,serious,no,no,yes,no,no,no,20250220,yes,pharmacist,83,Female,Hypercalcaemia,recovering/resolving
+24993273,France,serious,no,no,yes,no,no,no,20250221,yes,pharmacist,86,Male,"Tendon rupture,Labelled drug-drug interaction issue",recovering/resolving
+24806776,Poland,serious,no,no,no,no,no,yes,20250104,yes,physician,86,Female,"Sinus bradycardia,Drug ineffective",unknown
+24997724,Italy,serious,no,no,yes,no,no,yes,20250222,yes,physician,86,Female,"Intestinal haemorrhage,Anaemia",not recovered/not resolved/ongoing
+24997999,France,serious,no,no,no,no,no,yes,20250222,yes,physician,92,Female,"Hypokalaemia,Orthostatic hypotension,Potentiating drug interaction",recovering/resolving
+24998163,Italy,serious,no,no,yes,no,no,yes,20250222,yes,physician,,Male,"Syncope,Electrocardiogram QT prolonged,Sinus bradycardia",unknown
+24965157,France,serious,no,no,yes,no,no,yes,20250213,yes,physician,73,Male,"Acute kidney injury,Off label use",recovering/resolving
+25007836,France,serious,no,no,yes,no,no,yes,20250225,yes,physician,77,Male,Acquired haemophilia,recovering/resolving
+25008577,Italy,serious,no,no,yes,no,no,yes,20250225,yes,physician,77,Male,Cerebral haemorrhage,not recovered/not resolved/ongoing
+25008610,Portugal,serious,no,no,no,no,no,yes,20250225,yes,physician,78,Male,"Hypertension,Hypertensive emergency,Renal sympathetic nerve ablation",not recovered/not resolved/ongoing
+25008670,Spain,serious,no,no,yes,no,no,yes,20250225,yes,pharmacist,63,Male,Febrile neutropenia,recovered/resolved
+25008822,France,serious,no,no,yes,no,no,yes,20250225,yes,physician,73,Female,Acute kidney injury,recovering/resolving
+25008902,United Kingdom,serious,no,no,yes,no,no,yes,20250225,yes,physician,72,Female,"Hypokalaemia,Drug ineffective,Blood albumin decreased",recovered/resolved
+25012228,United Kingdom,serious,no,no,no,no,no,yes,20250226,yes,physician,77,Female,"Vertigo,Headache,Nausea",recovering/resolving
+24834918,Germany,serious,no,no,no,no,no,yes,20250113,yes,other health professional,56,Male,Cerebral haemorrhage,unknown
+25012604,France,serious,no,no,yes,no,no,yes,20250226,yes,pharmacist,,Male,"Hypoglycaemia neonatal,Foetal growth restriction,Foetal heart rate disorder,Maternal exposure during pregnancy,Caesarean section,Term birth,Low birth weight baby,Normal newborn",recovered/resolved
+25013092,United Kingdom,serious,no,no,no,no,no,yes,20250226,yes,pharmacist,87,Male,"Ventricular tachycardia,Blood magnesium decreased,Blood potassium decreased",unknown
+25013240,France,serious,no,no,yes,no,no,yes,20250226,yes,pharmacist,61,Female,Cholestasis,recovering/resolving
+25013867,Germany,serious,no,no,yes,no,no,yes,20250226,yes,physician,71,Female,Generalised tonic-clonic seizure,recovering/resolving
+25014028,United Kingdom,serious,no,yes,no,no,no,yes,20250226,yes,other health professional,59,Male,Drug interaction,unknown
+25015944,United Kingdom,serious,no,no,no,no,no,yes,20250227,yes,physician,57,Female,"Blister,Joint swelling,Swelling face",recovering/resolving
+25016073,France,serious,no,no,yes,no,no,yes,20250227,yes,pharmacist,91,Female,Hypokalaemia,recovered/resolved
+25017552,France,serious,no,no,yes,no,no,yes,20250227,yes,physician,85,Female,"Toxic encephalopathy,Hyperammonaemia,White matter lesion,Facial paralysis,Dysarthria,Confusional state,Amnesia,Disorientation,Electroencephalogram abnormal,Electrocardiogram T wave peaked,Electrocardiogram abnormal,Encephalopathy,Cognitive disorder,Memory impairment,Ammonia increased,Neurological symptom,Altered state of consciousness",recovered/resolved
+24963798,Poland,serious,no,no,yes,no,no,yes,20250213,yes,physician,70,Male,"Condition aggravated,Drug intolerance",unknown
+25017714,Germany,serious,no,no,no,no,no,yes,20250227,yes,consumer or non-health professional,74,Female,"Hypertension,Pruritus,Back pain,Eye irritation,Lymphadenopathy,Scratch,Lymphadenitis,Head injury,Eye pruritus,Abdominal pain upper,Chest pain,Wrong technique in product usage process",unknown
+25017911,United Kingdom,serious,no,no,no,no,no,yes,20250227,yes,pharmacist,91,Male,Treatment failure,unknown
+25023087,Italy,serious,no,no,no,no,no,yes,20250228,yes,physician,85,Male,Traumatic intracranial haemorrhage,recovering/resolving
+25023514,Italy,serious,no,no,no,no,no,yes,20250228,yes,physician,86,Female,"Loss of consciousness,Orthostatic hypotension",recovering/resolving
+25023607,France,serious,no,yes,no,no,no,yes,20250228,yes,physician,73,Male,"Cardiogenic shock,Wrong patient",recovered/resolved
+25023658,France,serious,no,no,yes,no,no,no,20250228,yes,pharmacist,63,Male,Troponin increased,not recovered/not resolved/ongoing
+25382381,Germany,serious,no,no,no,no,no,yes,20250601,yes,other health professional,87,Male,Unknown,unknown
+25388850,United Kingdom,serious,no,no,yes,no,no,yes,20250603,yes,other health professional,68,Female,Unknown,unknown
+25389536,Spain,serious,no,no,yes,no,no,no,20250603,yes,physician,76,Female,"Vomiting,Nausea,Drug ineffective",unknown
+25389670,United States,serious,no,no,yes,no,no,yes,20250603,yes,physician,46,Male,"Atrial fibrillation,Hyperthyroidism,Ventricular tachycardia,Mitral valve incompetence",recovered/resolved
+25393094,Italy,serious,no,yes,no,no,no,no,20250604,yes,other health professional,6,Female,"Hypertriglyceridaemia,Off label use",unknown
+25357821,Poland,serious,no,yes,no,no,no,yes,20250526,yes,physician,57,Female,"Labelled drug-drug interaction issue,Central nervous system haemorrhage,Drug interaction",unknown
+25394964,France,serious,yes,no,no,no,no,yes,20250604,yes,physician,65,Female,"Gastrointestinal disorder,Acute kidney injury,Lactic acidosis,Hyperkalaemia,Shock",fatal
+25395270,United Kingdom,serious,no,no,yes,no,no,yes,20250604,yes,pharmacist,71,Female,Unknown,unknown
+25393833,Sweden,serious,no,no,no,yes,no,yes,20250604,yes,physician,60,Male,"Multiple acyl-coenzyme A dehydrogenase deficiency,Wheelchair user,Muscular weakness,Dysphagia",unknown
+25400327,United Kingdom,serious,no,no,no,no,no,yes,20250605,yes,consumer or non-health professional,67,Male,Unknown,unknown
+25400397,United Kingdom,serious,no,no,yes,no,no,yes,20250605,yes,pharmacist,85,Female,Unknown,unknown
+25400812,United Kingdom,serious,no,no,no,yes,no,no,20250605,yes,pharmacist,82,Male,"Fatigue,Lethargy",recovered/resolved
+25401071,Poland,serious,no,yes,yes,no,no,yes,20250605,yes,physician,68,Female,"poland physician other AUROBINDO other FDA 68year female 28.0,28.0,28.0 Suicide attempt,Toxicity to various agents,Bradycardia",recovered/resolved
+25404945,France,serious,no,yes,no,no,no,yes,20250606,yes,other health professional,57,Female,"Cardiogenic shock,Poisoning,Overdose",unknown
+25317988,Italy,serious,no,no,no,no,no,yes,20250515,yes,physician,65,Male,"Somnolence,Drug ineffective",recovered/resolved
+25405117,France,serious,no,no,no,no,no,yes,20250606,yes,physician,85,Female,Unknown,unknown
+25406074,France,serious,no,no,yes,no,no,yes,20250606,yes,physician,48,Male,Unknown,unknown
+25409237,France,serious,no,yes,no,no,no,yes,20250607,yes,pharmacist,63,Male,Unknown,unknown
+25409243,France,serious,no,no,no,no,no,yes,20250607,yes,physician,85,Male,Unknown,unknown
+25409374,United Kingdom,serious,no,no,no,yes,no,yes,20250607,yes,consumer or non-health professional,,Male,"Brain fog,Medication error",not recovered/not resolved/ongoing
+25409428,United Kingdom,serious,no,no,no,no,no,yes,20250607,yes,consumer or non-health professional,72,Male,"Dyspnoea,Medication error",recovered/resolved
+25410761,United Kingdom,serious,no,no,yes,no,no,yes,20250609,yes,pharmacist,,Male,Unknown,unknown
+25411668,United Kingdom,serious,no,no,no,no,no,yes,20250609,yes,consumer or non-health professional,67,Female,"Hypertensive crisis,Dizziness",recovering/resolving
+25412577,Italy,serious,no,no,no,no,no,yes,20250609,yes,other health professional,,Unknown,Unknown,unknown
+25422712,Italy,serious,no,no,yes,no,no,yes,20250611,yes,physician,37,Male,"Drug resistance,Blood pressure increased,Drug ineffective,Off label use",unknown
+25372181,Belgium,serious,no,yes,yes,no,no,yes,20250529,yes,physician,64,Female,"Acute kidney injury,Rhabdomyolysis,Hyperkalaemia,Blood thyroid stimulating hormone increased,Hepatic function abnormal,Metabolic acidosis,Decreased appetite,Diarrhoea,Labelled drug-drug interaction issue",recovered/resolved
+25428644,Poland,serious,no,no,no,no,no,yes,20250612,yes,physician,76,Female,Unknown,unknown
+25428646,United Kingdom,serious,no,no,no,no,no,yes,20250612,yes,consumer or non-health professional,68,Male,"Fluid retention,Hypertension,Osteoporosis,Ocular hyperaemia,Weight increased,Arthralgia",not recovered/not resolved/ongoing
+25432209,United Kingdom,serious,no,no,no,no,no,yes,20250613,yes,pharmacist,86,Female,Unknown,unknown
+25432749,Germany,serious,no,no,no,no,no,yes,20250613,yes,other health professional,61,Male,"Syncope,Fatigue,Fibrin D dimer increased",recovered/resolved
+25432788,United Kingdom,serious,no,no,no,no,no,yes,20250613,yes,physician,64,Male,Unknown,unknown
+25388525,United Kingdom,serious,no,no,no,no,no,yes,20250603,yes,consumer or non-health professional,60,Male,"Extrasystoles,Heart rate decreased,Peripheral coldness,Fatigue,Sleep disorder,Alopecia,Dizziness,Abdominal distension",not recovered/not resolved/ongoing
+25335387,France,serious,no,no,yes,no,no,yes,20250520,yes,pharmacist,79,Male,"Angioedema,Drug interaction,Diarrhoea",unknown
+25389249,France,serious,no,yes,yes,no,no,no,20250603,yes,physician,60,Male,"Drug ineffective,Therapy non-responder,Intentional product use issue,Off label use",unknown
+25438412,France,serious,yes,no,no,no,no,no,20250616,yes,physician,87,Female,"Fall,Epistaxis",fatal
+25442830,United Kingdom,serious,no,yes,no,no,no,yes,20250617,yes,physician,67,Female,"Supraventricular tachycardia,Condition aggravated",recovered/resolved
+25443354,France,serious,no,no,yes,no,no,yes,20250617,yes,pharmacist,,Female,"Mixed liver injury,Condition aggravated",recovering/resolving
+25444366,France,serious,no,no,yes,no,no,no,20250617,yes,physician,71,Male,"Myositis,Liver disorder",recovering/resolving
+25444430,Belgium,serious,no,no,yes,no,no,yes,20250617,yes,physician,90,Female,"Vertebrobasilar stroke,Urinary tract infection,Confusional state,Hyponatraemia",recovered/resolved
+25445448,France,serious,no,no,no,no,no,yes,20250617,yes,physician,82,Male,"Cholestasis,Rash maculo-papular",recovering/resolving
+25448818,United Kingdom,serious,no,no,no,no,no,yes,20250618,yes,other health professional,83,Female,"Disorientation,Confusional state,Palpitations,Sedation",unknown
+25450050,France,serious,no,no,yes,no,no,yes,20250618,yes,other health professional,82,Male,"Hypotension,Bradycardia,Renal failure,Toxicity to various agents,Intentional overdose,Suicide attempt,Shock,Somnolence",unknown
+25388281,Portugal,serious,no,no,no,no,no,yes,20250603,yes,other health professional,71,Male,"Diarrhoea,Renal pain,Anaemia,Pruritus,Rash",not recovered/not resolved/ongoing
+25453723,United Kingdom,serious,no,no,yes,no,no,yes,20250619,yes,consumer or non-health professional,62,Male,Unknown,unknown
+25453725,United Kingdom,serious,no,yes,yes,no,no,yes,20250619,yes,pharmacist,75,Female,Unknown,unknown
+25453820,United Kingdom,serious,no,no,yes,no,no,yes,20250619,yes,pharmacist,,Unknown,Unknown,unknown
+25453840,Poland,serious,no,yes,no,no,no,yes,20250619,yes,physician,70,Female,"poland physician other AUROBINDO other FDA 70year female 28.0,28.0,28.0 Suicide attempt,Bradycardia,Toxicity to various agents",unknown
+25439832,Italy,serious,no,no,no,no,no,yes,20250616,yes,physician,65,Male,Unknown,unknown
+25454348,United Kingdom,serious,no,no,no,no,no,yes,20250619,yes,consumer or non-health professional,73,Male,Unknown,unknown
+25454410,Italy,serious,no,no,yes,no,no,no,20250619,yes,other health professional,50,Female,"Alanine aminotransferase increased,Pain,Pyrexia,Transaminases increased,Condition aggravated",recovered/resolved
+25454690,Germany,serious,no,no,no,no,yes,yes,20250619,yes,physician,,Unknown,"Cleft palate,Atrial septal defect,Cardiac hypertrophy,Large for dates baby,Foetal exposure during pregnancy",unknown
+25455490,Poland,serious,no,no,yes,no,no,yes,20250619,yes,other health professional,66,Male,"Hypotony of eye,Seizure,Myocardial infarction,Hyporeflexia,Musculoskeletal stiffness,Asthenia,Muscular weakness",unknown
+25455510,Canada,serious,no,no,yes,no,no,yes,20250619,yes,other health professional,43,Female,Unknown,unknown
+25459553,Spain,serious,no,no,yes,no,no,yes,20250620,yes,physician,64,Female,Unknown,unknown
+25459633,France,serious,no,no,yes,no,no,no,20250620,yes,pharmacist,27,Male,Unknown,unknown
+25459724,Germany,serious,no,no,yes,no,no,yes,20250620,yes,physician,68,Male,"Neuroleptic malignant syndrome,Hallucinations, mixed,Hypokalaemia,Serotonin syndrome,Disorientation,Agitation,Cold sweat,Pyrexia,Apraxia,Resting tremor,Intention tremor,Postural tremor,Dysarthria,Chills,Blood creatine phosphokinase increased,Hypernatraemia",recovered/resolved
+25460310,Ro,serious,no,no,no,no,no,yes,20250620,yes,other health professional,,Unknown,"Condition aggravated,Ventricle rupture",unknown
+25461380,France,serious,yes,no,no,no,no,yes,20250620,yes,physician,77,Male,"Febrile bone marrow aplasia,Septic shock",fatal
+25461442,Italy,serious,no,yes,no,no,no,no,20250620,yes,physician,73,Male,"Spontaneous haematoma,Off label use",recovered/resolved
+25461487,France,serious,no,no,no,no,no,yes,20250620,yes,physician,69,Female,"mg,mg,mg,mg,mg,mg,mg,mg,mg,mg,mg 1,1,1,1,1,1,1,1,1,1 1,1,1,1,1,1,1,1,1,1 month,month,month,month,month,month,month,month,month,month 30 MILLIGRAM, ONCE A DAY,15 MILLIGRAM, ONCE A DAY,200 MILLIGRAM, ONCE A DAY,15 MILLIGRAM, ONCE A DAY,20 MILLIGRAM, ONCE A DAY,12.5 MILLIGRAM, ONCE A DAY,10 MILLIGRAM, ONCE A DAY,10 MILLIGRAM, ONCE A DAY,1.25 MILLIGRAM, ONCE A DAY,1.25 MILLIGRAM, ONCE A DAY Film-coated tablet oral,oral,oral,oral,oral,oral,oral,oral,oral,oral,oral Mixed anxiety and depressive disorder,Mixed anxiety and depressive disorder,Atrial fibrillation,Mixed anxiety and depressive disorder,Product used for",unknown
+25463792,Germany,serious,no,no,no,no,no,yes,20250621,yes,physician,82,Female,Unknown,unknown
+25464187,Sa,serious,no,no,no,no,no,yes,20250621,yes,other health professional,39,Female,"Premature delivery,Exposure during pregnancy",unknown
+25464227,Poland,serious,no,no,yes,no,no,yes,20250621,yes,other health professional,69,Male,"Leriche syndrome,Ischaemic nephropathy,Spleen ischaemia,Peripheral arterial occlusive disease,Ulnar nerve injury,Peripheral artery bypass",unknown
+25464251,United Kingdom,serious,no,no,yes,no,no,yes,20250621,yes,consumer or non-health professional,,Male,"Cerebrovascular accident,Disability,Hyperkalaemia,Nervous system disorder,Vomiting,Therapy cessation,Drug dose titration not performed,Product prescribing issue",not recovered/not resolved/ongoing
+25464386,Sa,serious,no,no,no,no,yes,yes,20250621,yes,other health professional,2,Female,"Premature baby,Foetal exposure during pregnancy,Underweight,Respiratory disorder neonatal,Multiple congenital abnormalities,Heart rate decreased,Teratogenicity",unknown
+25464802,Spain,serious,no,no,no,no,no,yes,20250622,yes,physician,66,Male,"Renal impairment,Neoplasm progression",unknown
+25437825,Poland,serious,no,no,yes,no,no,yes,20250616,yes,physician,69,Male,"Leriche syndrome,Peripheral artery occlusion,Infarction,Peripheral ischaemia,Peripheral arterial occlusive disease,Splenic infarction,Renal infarct",unknown
+25470506,France,serious,no,no,no,no,no,yes,20250624,yes,physician,72,Female,Unknown,unknown
+25409056,France,serious,no,no,no,no,no,yes,20250607,yes,physician,15,Male,"Atrial fibrillation,Bradycardia,Sinus node dysfunction,Overdose,Drug ineffective,Chronotropic incompetence,Intentional product use issue,Product use issue,Off label use",recovered/resolved
+25233240,France,serious,no,no,no,no,no,yes,20250424,yes,other health professional,82,Female,Unknown,unknown
+25477178,Spain,serious,no,no,yes,no,no,yes,20250625,yes,physician,79,Male,Unknown,unknown
+25393936,Italy,serious,yes,no,no,no,no,yes,20250604,yes,physician,77,Male,Unknown,unknown
+25428113,United Kingdom,serious,no,no,no,no,no,yes,20250612,yes,consumer or non-health professional,,Male,"Walking aid user,Arthralgia,Muscle tightness,Pain in extremity,Off label use",recovering/resolving
+25482289,United Kingdom,serious,no,no,yes,no,no,no,20250626,yes,pharmacist,,Male,Unknown,unknown
+25483112,Sweden,serious,yes,yes,yes,yes,no,yes,20250626,yes,consumer or non-health professional,72,Male,"Asthenia,Cough,Dyspnoea,Muscular weakness,Myositis,Pneumonia,Visual impairment",fatal
+25443131,France,serious,no,no,yes,no,no,no,20250617,yes,other health professional,93,Female,"Asthenia,Gait disturbance,Speech disorder,Sinus bradycardia,Hypotension,Product administration error",recovered/resolved
+25483406,France,serious,yes,no,no,no,no,yes,20250626,yes,pharmacist,83,Female,"Encephalopathy,Acute kidney injury,Overdose",fatal
+25484278,Spain,serious,no,no,yes,no,no,yes,20250626,yes,physician,87,Male,"Acute kidney injury,Disorientation,Hypotension",recovering/resolving
+25040902,Spain,serious,no,no,yes,no,no,yes,20250305,yes,physician,44,Male,"Asthmatic crisis,Asthma,Condition aggravated,Blood pressure inadequately controlled",recovered/resolved
+25487893,France,serious,no,no,no,no,no,yes,20250627,yes,pharmacist,,Male,"Hyperkalaemia,Drug interaction",unknown
+25487953,United Kingdom,serious,no,no,no,no,no,yes,20250627,yes,pharmacist,50,Male,"Rash papular,Dyspnoea",recovered/resolved
+25490087,United Kingdom,serious,no,no,no,no,no,yes,20250628,yes,physician,72,Female,"Pain in extremity,Peripheral coldness",recovered/resolved
+25465662,France,serious,no,no,yes,no,no,yes,20250623,yes,pharmacist,79,Male,"Angioedema,Oedema,Respiratory disorder,Diarrhoea",unknown
+25493751,United Kingdom,serious,no,no,no,no,no,yes,20250630,yes,consumer or non-health professional,71,Male,Unknown,unknown
+25493912,Spain,serious,no,no,yes,no,no,yes,20250630,yes,physician,61,Male,Unknown,unknown
+25496565,France,serious,no,no,no,no,no,yes,20250630,yes,physician,87,Male,"Lip oedema,Tongue oedema,Dysphonia,Dyspnoea",recovered/resolved
+25258556,United Kingdom,serious,no,yes,no,no,no,yes,20250501,yes,physician,60,Male,Unknown,unknown
+25258902,France,serious,no,no,yes,no,no,yes,20250501,yes,physician,83,Female,"Electrocardiogram QT prolonged,Diarrhoea",recovered/resolved
+25259138,United Kingdom,serious,no,no,no,yes,no,yes,20250501,yes,consumer or non-health professional,,Female,"Hyponatraemia,Confusional state,Fatigue,Nausea",not recovered/not resolved/ongoing
+25259190,France,serious,no,no,no,no,no,yes,20250501,yes,pharmacist,88,Male,"Hypotension,Bradycardia",recovered/resolved
+25262968,United Kingdom,serious,no,no,no,no,no,yes,20250502,yes,physician,64,Male,"Erectile dysfunction,Hot flush",recovered/resolved
+25263047,Italy,serious,yes,no,no,no,no,no,20250502,yes,physician,95,Female,"Dyspnoea,Hypotension",fatal
+25263173,Germany,serious,no,no,no,no,no,yes,20250502,yes,pharmacist,86,Female,"Craniofacial fracture,Inappropriate antidiuretic hormone secretion,Immobile,Fatigue,Dizziness,Fall,Mobility decreased,Constipation,Dysphagia,Contusion,Fear of falling,Wrong dose,Incorrect dose administered",unknown
+25265598,Germany,serious,yes,no,no,no,no,yes,20250503,yes,physician,82,Female,Unknown,unknown
+25265690,Portugal,serious,no,no,yes,no,no,no,20250503,yes,consumer or non-health professional,61,Female,"Rash macular,Pruritus,Throat irritation",recovered/resolved
+25265786,United Kingdom,serious,no,no,no,yes,no,yes,20250503,yes,consumer or non-health professional,82,Male,"Heart rate decreased,Sudden hearing loss,Fatigue,Peripheral coldness,Pruritus",not recovered/not resolved/ongoing
+25271690,United Kingdom,serious,no,no,yes,no,no,yes,20250506,yes,pharmacist,83,Female,Unknown,unknown
+25272045,United Kingdom,serious,no,no,no,no,no,yes,20250506,yes,consumer or non-health professional,72,Male,"Medication error,Asthenia",unknown
+25170438,Fi,serious,no,no,no,no,no,yes,20250408,yes,consumer or non-health professional,74,Female,"Seizure,Arthralgia,Discomfort,Skin burning sensation,Joint effusion,Dyspnoea,Anxiety,Tremor,Nausea,Paraesthesia,Myalgia,Chills,Hypoaesthesia,Blood pressure increased,Reaction to excipient,Exposure via partner,Adverse drug reaction,Exposure via inhalation,Accidental exposure to product,Product complaint,Product formulation issue,Product substitution issue",not recovered/not resolved/ongoing
+25277387,United Kingdom,serious,no,no,no,no,no,yes,20250507,yes,pharmacist,66,Female,"Gastrooesophageal reflux disease,Paraesthesia",recovering/resolving
+25282363,France,serious,no,no,no,no,no,yes,20250508,yes,consumer or non-health professional,66,Male,Unknown,unknown
+25282743,France,serious,no,no,no,no,no,yes,20250508,yes,pharmacist,83,Male,"Nightmare,Acute kidney injury,Hallucination, visual",not recovered/not resolved/ongoing
+25282819,United Kingdom,serious,no,yes,yes,no,no,yes,20250508,yes,physician,79,Female,"Haemorrhage intracranial,Thrombocytopenia",not recovered/not resolved/ongoing
+25282914,France,serious,no,no,yes,no,no,yes,20250508,yes,physician,66,Female,"Colitis,Febrile bone marrow aplasia",recovered/resolved
+25282958,United Kingdom,serious,no,no,yes,no,no,yes,20250508,yes,pharmacist,,Unknown,"Agranulocytosis,Neutropenic sepsis,Abdominal pain,Nausea",recovered/resolved
+25286328,Italy,serious,no,no,no,no,no,yes,20250509,yes,physician,94,Male,Unknown,unknown
+25286488,France,serious,no,no,yes,no,no,yes,20250509,yes,pharmacist,74,Female,"Acute kidney injury,Anaemia",recovered/resolved
+25286888,United Kingdom,serious,no,no,yes,no,no,yes,20250509,yes,pharmacist,67,Female,"Hypokalaemia,Hyponatraemia,Osmotic demyelination syndrome,Confusional state,Electrolyte imbalance,Somnolence",recovered/resolved
+25286895,France,serious,no,no,no,no,no,yes,20250509,yes,pharmacist,69,Female,Unknown,unknown
+25287192,United Kingdom,serious,no,no,no,no,no,yes,20250509,yes,other health professional,,Female,"Hypertension,Heart rate irregular,Hyperhidrosis",recovered/resolved
+25287381,United Kingdom,serious,no,no,yes,no,no,yes,20250509,yes,other health professional,,Unknown,"Transaminases abnormal,Liver function test abnormal",unknown
+25287571,United Kingdom,serious,no,no,no,no,no,yes,20250509,yes,pharmacist,68,Female,Unknown,unknown
+25287807,France,serious,no,no,yes,no,no,no,20250509,yes,pharmacist,73,Male,"Hypomagnesaemia,Hypocalcaemia,Electrocardiogram QT prolonged",recovered/resolved
+25181724,Germany,serious,no,no,yes,no,no,yes,20250410,yes,other health professional,61,Female,"Ileus,Abdominal pain",recovering/resolving
+25067529,Germany,serious,no,no,yes,no,no,yes,20250312,yes,physician,51,Male,Unknown,unknown
+25299031,Spain,serious,no,no,no,no,no,yes,20250512,yes,pharmacist,59,Male,Unknown,unknown
+25299145,France,serious,no,no,yes,no,no,yes,20250512,yes,physician,63,Male,"Rash maculo-papular,Hepatic cytolysis,Acute kidney injury",recovering/resolving
+25307220,France,serious,no,no,no,no,no,yes,20250513,yes,consumer or non-health professional,87,Female,"Cardiac failure,Angina pectoris,Hypokalaemia,Pelvic organ prolapse,Heart rate decreased,Peripheral coldness,Insomnia,Fatigue,Asthenia,Polyuria,Diarrhoea,Urinary incontinence,Intentional product use issue,Intentional product misuse",unknown
+25310526,United Kingdom,serious,no,no,no,no,no,yes,20250514,yes,consumer or non-health professional,71,Male,"Depression,Nausea,Dyspnoea,Panic attack",recovering/resolving
+25144939,Belgium,serious,no,no,yes,no,no,no,20250401,yes,physician,65,Female,Unknown,unknown
+25318310,Italy,serious,no,yes,no,no,no,no,20250515,yes,physician,82,Female,"Acidosis,Oliguria,Vomiting,Diarrhoea",recovering/resolving
+25318420,United Kingdom,serious,no,yes,yes,no,no,yes,20250515,yes,pharmacist,64,Male,"Acute myocardial infarction,Acute coronary syndrome",unknown
+25318424,United Kingdom,serious,no,no,no,no,no,yes,20250515,yes,pharmacist,71,Female,Unknown,unknown
+25318484,United Kingdom,serious,no,no,yes,no,no,yes,20250515,yes,pharmacist,,Unknown,Unknown,unknown
+25318568,France,serious,no,no,no,no,no,yes,20250515,yes,pharmacist,,Male,"Premature baby,Low birth weight baby,Maternal exposure during pregnancy",recovered/resolved
+25006602,Portugal,serious,no,no,no,no,no,yes,20250225,yes,physician,78,Male,"Hypertensive emergency,Renal sympathetic nerve ablation,Chronic kidney disease,Heart failure with preserved ejection fraction,Atrial fibrillation,Hypertension,Headache,Sigmoid-shaped ventricular septum,Cardiac hypertrophy,Aortic dilatation,Blood creatinine increased,Left ventricular hypertrophy,QRS axis abnormal,Diastolic dysfunction,Multiple-drug resistance,Drug resistance,Drug ineffective",not recovered/not resolved/ongoing
+25321874,United Kingdom,serious,no,no,no,no,no,yes,20250516,yes,other health professional,79,Male,Unknown,unknown
+25323837,Germany,serious,no,no,yes,no,no,yes,20250516,yes,physician,66,Female,Unknown,unknown
+25239411,Germany,serious,no,no,no,no,no,yes,20250425,yes,physician,66,Male,"Hypothyroidism,Neutropenia,Fatigue,Abdominal pain,Diarrhoea,Nausea,Rash,Intentional product use issue",recovered/resolved
+25310411,Poland,serious,no,no,yes,no,no,no,20250514,yes,physician,45,Female,Unknown,unknown
+25163535,Poland,serious,no,no,yes,no,no,yes,20250405,yes,physician,55,Male,"Renal impairment,Gastrointestinal haemorrhage",recovering/resolving
+25327503,France,serious,no,no,yes,no,no,yes,20250517,yes,other health professional,89,Female,Unknown,unknown
+25327507,France,serious,no,no,no,no,no,yes,20250517,yes,consumer or non-health professional,87,Female,"Cardiac failure,Angina pectoris,Hypokalaemia,Urinary incontinence,Pelvic organ prolapse,Polyuria,Heart rate decreased,Peripheral coldness,Insomnia,Fatigue,Asthenia,Diarrhoea",unknown
+25333893,France,serious,no,no,no,no,no,yes,20250520,yes,other health professional,82,Female,"Urinary retention,Dysuria,Oedema peripheral,Product substitution,Weight increased,Oxygen saturation decreased",unknown
+25333958,Italy,serious,no,no,no,no,no,yes,20250520,yes,physician,73,Male,"Motor dysfunction,Myalgia",recovering/resolving
+25336030,France,serious,no,no,no,no,no,yes,20250520,yes,physician,62,Male,Unknown,unknown
+25336046,France,serious,no,no,yes,no,no,yes,20250520,yes,physician,85,Male,"Oesophageal candidiasis,Oral candidiasis",recovered/resolved
+25339473,United Kingdom,serious,no,no,no,no,no,yes,20250521,yes,physician,86,Female,Unknown,unknown
+25339477,France,serious,no,no,yes,no,no,no,20250521,yes,physician,73,Male,Unknown,unknown
+25055194,Ie,serious,no,no,yes,no,no,yes,20250308,yes,other health professional,79,Male,"Catheter site warmth,Catheter site swelling,Rectal haemorrhage,Catheter site pain,Cellulitis,C-reactive protein increased,Red blood cell sedimentation rate increased,Diarrhoea,Intestinal obstruction,Haemoglobin abnormal,Hypotension",not recovered/not resolved/ongoing
+25340570,United Kingdom,serious,no,no,no,no,no,yes,20250521,yes,consumer or non-health professional,47,Female,"Tinnitus,Tachycardia",not recovered/not resolved/ongoing
+25340982,Portugal,serious,no,no,yes,no,no,yes,20250521,yes,pharmacist,68,Male,Unknown,unknown
+25345749,Italy,serious,no,no,no,no,no,yes,20250522,yes,physician,99,Female,Unknown,unknown
+25346246,United Kingdom,serious,no,no,yes,no,no,yes,20250522,yes,pharmacist,87,Male,"Hypomagnesaemia,Hypokalaemia",recovered/resolved
+25350246,France,serious,no,no,no,no,no,yes,20250523,yes,physician,46,Male,Unknown,unknown
+25351249,France,serious,no,yes,no,no,no,yes,20250523,yes,pharmacist,76,Female,"Sinoatrial block,Accidental overdose,Hypotension",recovering/resolving
+25351254,France,serious,no,no,yes,yes,no,yes,20250523,yes,physician,81,Female,"Haemorrhagic stroke,Urinary retention,Hypertension",recovered/resolved
+25351450,France,serious,no,no,no,no,no,yes,20250523,yes,pharmacist,84,Female,"Eyelid injury,Rash scarlatiniform,Pruritus",not recovered/not resolved/ongoing
+25352070,United Kingdom,serious,no,no,no,no,no,yes,20250523,yes,other health professional,77,Female,Unknown,unknown
+25355021,United Kingdom,serious,yes,no,yes,no,no,yes,20250524,yes,physician,84,Female,"Sepsis,Poisoning",fatal
+25355679,Spain,serious,no,no,yes,no,no,yes,20250525,yes,pharmacist,66,Male,"Melaena,Abdominal pain,Malaise",recovered/resolved
+25355693,Hr,serious,no,no,no,no,no,yes,20250525,yes,physician,,Female,"Electrocardiogram QRS complex shortened,Suicide attempt,Intentional overdose",unknown
+25356717,Italy,serious,no,no,no,no,no,yes,20250526,yes,physician,71,Male,"Motor dysfunction,Myalgia",recovering/resolving
+25278828,Italy,serious,yes,yes,yes,no,no,yes,20250507,yes,physician,79,Male,"Cardiac failure congestive,Sepsis,Acute myeloid leukaemia,Multiple organ dysfunction syndrome,Disease progression,Thrombocytopenia",fatal
+25358018,France,serious,no,no,yes,no,no,yes,20250526,yes,physician,68,Female,Unknown,unknown
+25358067,France,serious,no,no,yes,no,no,no,20250526,yes,pharmacist,92,Female,"Atrioventricular block,Bradycardia,Overdose",recovered/resolved
+25358250,Ua,serious,no,no,yes,no,no,no,20250526,yes,other health professional,93,Female,Unknown,unknown
+25362159,France,serious,no,no,yes,no,no,yes,20250527,yes,pharmacist,79,Male,"Acute kidney injury,Oedema peripheral",recovered/resolved
+25366264,United Kingdom,serious,no,no,no,no,no,yes,20250528,yes,consumer or non-health professional,,Unknown,Unknown,unknown
+25239246,United Kingdom,serious,yes,no,no,no,no,yes,20250425,yes,physician,85,Male,"Cerebrovascular accident,Cerebral haemorrhage",fatal
+25367757,Poland,serious,no,no,yes,no,no,yes,20250528,yes,physician,60,Male,"Myocardial infarction,Atrial fibrillation,Cardiac failure chronic,Dyslipidaemia,Cardiac failure,Drug abuse,Off label use",unknown
+25376854,United Kingdom,serious,no,no,no,no,no,yes,20250530,yes,pharmacist,53,Female,"Serotonin syndrome,Neuroleptic malignant syndrome",recovered/resolved
+24979403,Germany,serious,no,no,yes,no,no,yes,20250218,yes,physician,69,Male,"Immune-mediated hepatitis,Cancer pain,C-reactive protein increased,Infection",not recovered/not resolved/ongoing
+25378495,France,serious,no,no,yes,no,no,yes,20250530,yes,physician,57,Female,Unknown,unknown
+24823024,Germany,serious,no,no,yes,no,no,yes,20250109,yes,physician,66,Female,Unknown,unknown
+25381810,Poland,serious,no,no,no,no,no,yes,20250531,yes,physician,48,Female,"Ventricular arrhythmia,Drug interaction",unknown
+24813208,Germany,serious,no,no,yes,no,no,no,20250107,yes,physician,66,Female,Unknown,unknown
+25381915,United Kingdom,serious,no,no,yes,no,no,yes,20250531,yes,pharmacist,64,Female,"Femoral neck fracture,Dizziness,Fall",unknown
+25381958,United Kingdom,serious,no,yes,no,no,no,yes,20250531,yes,other health professional,66,Male,"Haemoptysis,Contusion",recovered/resolved
+25143922,United Kingdom,serious,no,no,yes,no,no,yes,20250401,yes,physician,76,Male,"Cardiac amyloidosis,Loss of consciousness,Orthostatic hypotension,Dyspnoea,Chest pain,Hypokalaemia,Circulatory collapse",unknown
+25143930,United Kingdom,serious,no,no,no,no,no,yes,20250401,yes,physician,79,Male,Unknown,unknown
+25144761,France,serious,no,yes,no,no,no,yes,20250401,yes,physician,29,Male,"Lactic acidosis,Shock,Acute kidney injury,Poisoning deliberate",recovered/resolved
+25067889,Poland,serious,no,no,no,no,no,yes,20250312,yes,other health professional,62,Female,"Neuropathy peripheral,Hyponatraemia,Underdose",not recovered/not resolved/ongoing
+25148867,Germany,serious,no,no,yes,no,no,yes,20250402,yes,physician,74,Male,"Immune-mediated lung disease,Dysphagia,Hypotension",recovered/resolved
+25149267,Italy,serious,no,no,no,no,no,yes,20250402,yes,physician,88,Female,Unknown,unknown
+25153169,France,serious,no,no,no,no,no,yes,20250403,yes,pharmacist,,Female,"Foetal growth restriction,Maternal exposure during pregnancy,Term birth,Normal newborn",recovered/resolved
+25154394,United Kingdom,serious,no,yes,yes,no,no,yes,20250403,yes,physician,80,Female,"Haemorrhage intracranial,Thrombocytopenia",not recovered/not resolved/ongoing
+25013886,Italy,serious,no,no,yes,no,no,yes,20250226,yes,physician,76,Male,"Subdural haematoma,Subarachnoid haemorrhage,Muscular weakness",recovering/resolving
+25103650,Germany,serious,no,no,yes,no,no,yes,20250321,yes,physician,69,Female,"Delirium,Aggression",recovered/resolved
+24915494,United Kingdom,serious,no,no,no,no,no,yes,20250203,yes,physician,800,Female,Unknown,unknown
+25159299,Germany,serious,no,no,no,no,no,yes,20250404,yes,physician,76,Male,"Syncope,Fall,Gait disturbance,Dizziness",not recovered/not resolved/ongoing
+25143695,Italy,serious,no,no,yes,no,no,yes,20250401,yes,physician,86,Male,Unknown,unknown
+25163868,Germany,serious,no,no,no,no,no,yes,20250405,yes,consumer or non-health professional,,Female,"Hyperthyroidism,Blood thyroid stimulating hormone abnormal,Muscle spasms,Oedema peripheral",unknown
+25164055,France,serious,no,no,yes,no,no,yes,20250405,yes,pharmacist,71,Male,Unknown,unknown
+24927026,Spain,serious,no,no,yes,no,no,no,20250205,yes,other health professional,58,Male,"Erythema,Swelling,Drug ineffective",recovered/resolved
+25088953,France,serious,no,no,yes,no,no,yes,20250318,yes,physician,71,Female,"Leukopenia,Renal abscess",recovered/resolved
+25166634,France,serious,no,no,yes,no,no,yes,20250407,yes,pharmacist,89,Female,Unknown,unknown
+25063935,Germany,serious,no,no,yes,no,no,yes,20250311,yes,consumer or non-health professional,83,Male,"Dyspnoea,Pulmonary oedema,Hypoacusis,Tendon rupture,Inappropriate schedule of product administration",unknown
+25166741,France,serious,no,no,no,no,no,yes,20250407,yes,physician,76,Male,Unknown,unknown
+25164028,France,serious,yes,no,yes,no,no,yes,20250405,yes,physician,,Female,"Fournier^s gangrene,Septic shock",fatal
+25166932,United Kingdom,serious,no,no,no,no,no,yes,20250407,yes,consumer or non-health professional,58,Female,Unknown,unknown
+25170910,France,serious,no,no,yes,no,no,no,20250408,yes,physician,62,Male,Unknown,unknown
+25171388,France,serious,no,no,no,no,no,yes,20250408,yes,pharmacist,,Male,"Maternal exposure during pregnancy,Premature baby,Low birth weight baby",recovered/resolved
+25171693,France,serious,no,no,yes,no,no,yes,20250408,yes,pharmacist,85,Male,"Acute kidney injury,Sinus bradycardia,Hypotension,Disturbance in attention,Wrong patient received product",recovered/resolved
+25172780,France,serious,no,no,no,no,no,yes,20250408,yes,physician,98,Male,Unknown,unknown
+25176112,France,serious,no,no,no,no,no,yes,20250409,yes,pharmacist,66,Male,Unknown,unknown
+25176655,United Kingdom,serious,no,no,no,no,no,yes,20250409,yes,consumer or non-health professional,77,Female,"Atrial fibrillation,Heart rate increased",recovered/resolved
+24935540,United Kingdom,serious,no,no,no,no,no,yes,20250206,yes,consumer or non-health professional,53,Male,"Blood glucose abnormal,Hyperglycaemia,Arthralgia,Joint noise",not recovered/not resolved/ongoing
+25177139,France,serious,yes,no,no,no,no,yes,20250409,yes,pharmacist,79,Male,"Acute kidney injury,Dysphagia,General physical health deterioration",fatal
+25181463,United Kingdom,serious,no,no,yes,no,no,yes,20250410,yes,physician,76,Female,"Chest pain,Condition aggravated,Orthostatic hypotension",recovered/resolved
+25181557,France,serious,no,yes,yes,no,no,yes,20250410,yes,pharmacist,82,Female,"Acute kidney injury,Hypotension,Atrioventricular block",recovering/resolving
+25149308,France,serious,no,no,yes,no,no,yes,20250402,yes,physician,63,Male,"Neuroleptic malignant syndrome,Drug interaction",recovered/resolved
+25182125,Italy,serious,no,no,no,no,no,yes,20250410,yes,pharmacist,89,Female,"mg,mg,mg oral,oral,oral,vaginal,vaginal,vaginal,vaginal,vaginal,vaginal,vaginal,vaginal,vaginal,vaginal Hypertension,Hypertension,Hypertension,Product used for",unknown
+24834918,Germany,serious,no,no,yes,no,no,yes,20250113,yes,other health professional,56,Male,Unknown,unknown
+25191358,France,serious,no,no,yes,no,no,yes,20250411,yes,pharmacist,85,Male,Unknown,unknown
+25191362,Spain,serious,no,no,yes,no,no,yes,20250411,yes,pharmacist,86,Male,"Chronic kidney disease,Lactic acidosis",recovered/resolved
+25191366,France,serious,no,no,yes,no,no,yes,20250411,yes,pharmacist,51,Male,"Intestinal haematoma,Renal haematoma,Pyelonephritis acute,Haematuria",recovering/resolving
+25191370,France,serious,no,no,no,no,no,yes,20250411,yes,physician,73,Female,Unknown,unknown
+25191382,France,serious,no,yes,no,no,no,yes,20250411,yes,pharmacist,78,Male,Unknown,unknown
+25048586,United Kingdom,serious,no,no,no,no,no,yes,20250307,yes,pharmacist,66,Female,"Blood pressure systolic increased,Nausea,Vision blurred,Headache,Malaise,Blood pressure abnormal,Hypertension,Blood pressure increased,Product storage error,Product blister packaging issue,Product dispensing error,Product packaging issue",unknown
+25197782,United Kingdom,serious,no,no,no,no,no,yes,20250415,yes,consumer or non-health professional,79,Female,"Vertigo,Visual impairment,Diplopia,Drug monitoring procedure not performed,Aura,Balance disorder,Gait disturbance,Dizziness",not recovered/not resolved/ongoing
+25198763,France,serious,no,no,yes,no,no,yes,20250415,yes,other health professional,74,Male,"Respiratory syncytial virus infection,Drug interaction,Overdose",unknown
+25202021,France,serious,no,yes,no,no,no,yes,20250416,yes,pharmacist,75,Male,Unknown,unknown
+25067414,Germany,serious,no,no,yes,no,no,yes,20250312,yes,physician,84,Female,"Syncope,Urinary retention,Nausea,Vomiting,Headache,Dizziness,Dehydration,Bladder disorder,Exostosis,General physical health deterioration,Off label use",recovered/resolved
+25202610,France,serious,no,no,yes,no,no,no,20250416,yes,physician,70,Female,Unknown,unknown
+25007823,France,serious,yes,yes,no,no,no,yes,20250225,yes,physician,71,Male,"Cerebral haematoma,Shock haemorrhagic,Anti factor V antibody,Intra-abdominal haemorrhage,Hypoxia,Hepatic failure,Cell death,Benign recurrent intrahepatic cholestasis,Hypoglycaemia,Coagulopathy,Device related infection",fatal
+25206298,Germany,serious,no,no,yes,no,no,no,20250417,yes,other health professional,48,Female,Unknown,unknown
+25206340,France,serious,no,no,yes,no,no,yes,20250417,yes,physician,67,Male,"Pancytopenia,Acute kidney injury",recovered/resolved
+25211549,United Kingdom,serious,no,no,yes,no,no,yes,20250418,yes,pharmacist,72,Male,Unknown,unknown
+25213392,United Kingdom,serious,no,no,no,no,no,yes,20250418,yes,physician,83,Male,"Wheezing,Dyspnoea,Fatigue,Malaise",recovered/resolved
+25165561,France,serious,no,no,yes,no,no,yes,20250407,yes,pharmacist,78,Female,"Agranulocytosis,Cholestatic liver injury",not recovered/not resolved/ongoing
+25216918,France,serious,no,no,no,no,no,yes,20250419,yes,physician,66,Male,Unknown,unknown
+25137580,France,serious,no,no,yes,no,no,yes,20250329,yes,physician,57,Female,"Sinus tachycardia,Syncope,Somnolence,Malaise,Confusional state,Dysarthria",recovered/resolved
+25217359,France,serious,no,no,yes,no,no,yes,20250420,yes,physician,86,Female,Unknown,unknown
+25218216,United Kingdom,serious,no,no,no,no,no,yes,20250421,yes,consumer or non-health professional,,Unknown,Unknown,unknown
+25223687,Italy,serious,no,no,no,no,no,yes,20250422,yes,physician,39,Female,"Oedema peripheral,Drug ineffective,Drug effective for unapproved indication",not recovered/not resolved/ongoing
+25224052,Italy,serious,no,no,no,no,no,yes,20250422,yes,physician,44,Female,"Hyperthyroidism,Neutropenia,Heart rate increased,Sinus tachycardia,Therapeutic response decreased",unknown
+25132371,Germany,serious,no,yes,yes,no,no,yes,20250328,yes,physician,74,Female,"Hypercapnic coma,Acute kidney injury,Drug abuse,Neurological decompensation,Respiratory acidosis,Toxicity to various agents,Drug interaction",recovered/resolved
+25229228,United Kingdom,serious,no,no,no,no,no,yes,20250423,yes,other health professional,,Unknown,"Swelling,Rash,Back pain",recovered/resolved
+24788122,Italy,serious,no,no,no,no,no,yes,20241230,yes,other health professional,63,Male,"Erectile dysfunction,Condition aggravated,Drug ineffective",recovering/resolving
+25229565,France,serious,no,no,no,no,yes,yes,20250423,yes,physician,,Female,"Hypoglycaemia neonatal,Neonatal respiratory distress,Maternal exposure during pregnancy",recovered/resolved
+25229672,Germany,serious,no,yes,yes,no,no,yes,20250423,yes,physician,58,Male,"Hypotension,Respiratory failure,Bradycardia,Intentional product misuse",recovered/resolved
+25229871,France,serious,no,no,yes,no,no,yes,20250423,yes,physician,81,Female,Unknown,unknown
+25234657,France,serious,no,yes,yes,no,no,yes,20250424,yes,physician,81,Female,"Shock haemorrhagic,Retroperitoneal haematoma,Blood creatinine increased,Abdominal rigidity,Abdominal distension,Activated partial thromboplastin time shortened,Haemoglobin decreased,International normalised ratio increased,Overdose",unknown
+25206481,France,serious,no,no,yes,no,no,yes,20250417,yes,physician,77,Male,Unknown,unknown
+25238700,Germany,serious,no,no,no,no,no,yes,20250425,yes,physician,66,Male,Unknown,unknown
+25239144,United Kingdom,serious,no,no,yes,yes,no,yes,20250425,yes,pharmacist,75,Female,"Chronic obstructive pulmonary disease,Alanine aminotransferase increased",unknown
+25241950,Ie,serious,no,no,no,no,no,yes,20250426,yes,consumer or non-health professional,33,Female,"Sleep disorder,Hypnopompic hallucination",recovering/resolving
+25242442,Spain,serious,no,no,yes,no,no,yes,20250427,yes,other health professional,73,Female,"Hepatotoxicity,Acute kidney injury,Rhabdomyolysis,Drug interaction,Myopathy",unknown
+25242443,Spain,serious,no,no,no,no,no,yes,20250427,yes,other health professional,39,Female,Unknown,unknown
+25243162,Italy,serious,no,yes,no,no,no,yes,20250428,yes,physician,77,Male,Unknown,unknown
+25243204,United Kingdom,serious,no,no,no,no,no,yes,20250428,yes,physician,,Female,"Arthritis reactive,Rash",recovered/resolved
+25243486,Poland,serious,no,no,no,no,no,yes,20250428,yes,physician,73,Female,"Ventricular tachycardia,Torsade de pointes,Long QT syndrome,Electrocardiogram QT prolonged,Hypokalaemia,Syncope,Dizziness,Asthenia,Sinus rhythm,Ventricular arrhythmia",recovered/resolved
+25243980,France,serious,no,yes,no,no,no,no,20250428,yes,other health professional,68,Female,"Somnolence,Disturbance in attention,Hyperglycaemia,Wrong patient received product",recovered/resolved
+25244377,Poland,serious,no,yes,no,no,no,yes,20250428,yes,physician,54,Female,"poland physician other AUROBINDO other FDA 54year female 28.0,28.0,28.0 Suicide attempt,Hypotonia,Toxicity to various agents",recovering/resolving
+25248790,Spain,serious,no,no,no,no,no,yes,20250429,yes,other health professional,72,Female,"Cerebrovascular accident,Oedema peripheral,Pain,Micturition disorder,Sleep disorder,Fluid retention,Dizziness,Hypoaesthesia,Peripheral swelling,Joint swelling,Abdominal distension",recovered/resolved
+25249931,Germany,serious,no,no,yes,no,no,yes,20250429,yes,physician,68,Female,"Toxicity to various agents,Interstitial lung disease,Respiratory failure,Oedema peripheral,Bronchitis,Adverse drug reaction",not recovered/not resolved/ongoing
+25250858,France,serious,no,no,no,no,no,yes,20250429,yes,other health professional,65,Male,"Factor X deficiency,Drug ineffective",unknown
+25250922,Germany,serious,no,no,no,no,no,yes,20250429,yes,consumer or non-health professional,,Male,"Alcoholism,Drug dependence,Somnolence,Sleep disorder,Speech disorder,Feeling drunk,Labelled drug-disease interaction issue,Product substitution issue",recovered/resolved
+25187835,Germany,serious,no,yes,yes,no,no,yes,20250411,yes,physician,81,Male,"Suicide attempt,Loss of consciousness,Suicidal ideation,Hallucination, auditory,Cerebral infarction,Drug interaction",recovered/resolved
+25251152,Italy,serious,no,no,no,no,no,yes,20250429,yes,pharmacist,77,Male,"Chest discomfort,Chills,Hyperhidrosis,Headache",recovered/resolved
+25254595,Poland,serious,no,yes,yes,no,no,yes,20250430,yes,physician,38,Male,"Suicide attempt,Toxicity to various agents",unknown
+25256153,Hr,serious,no,no,no,no,no,yes,20250430,yes,physician,,Female,"Electrocardiogram QRS complex shortened,Suicide attempt,Intentional overdose",unknown
+25631192,United Kingdom,serious,no,no,yes,yes,no,yes,20250801,yes,consumer or non-health professional,64,Male,"Muscle spasticity,Neuropathy peripheral,Fatigue,Sexual dysfunction,Constipation,Brain fog,Tendonitis,Neurogenic bladder,Polyneuropathy,Hypersensitivity,Vertigo,Small fibre neuropathy,Stiff leg syndrome,Muscle atrophy,Taste disorder,Anxiety,Neurogenic bowel,Myoclonus,Muscular weakness,Paralysis,Medication error",not recovered/not resolved/ongoing
+25595247,Eu,serious,no,no,yes,no,no,no,20250723,yes,physician,64,Female,Unknown,unknown
+25565299,Eu,serious,no,no,yes,no,no,yes,20250716,yes,physician,73,Male,"Mycobacterial infection,Cytopenia",recovered/resolved
+25546158,United Kingdom,serious,no,no,yes,no,no,yes,20250713,yes,physician,62,Male,"Malignant neoplasm progression,Syncope,Blister,Toxicity to various agents,Off label use,Product dose omission issue,Product distribution issue",unknown
+25575856,Eu,serious,no,no,no,no,no,yes,20250718,yes,other health professional,,Male,"Syncope,Bradycardia,Wrong patient received product",unknown
+25635934,Eu,serious,no,no,no,no,no,yes,20250803,yes,physician,39,Male,"Hypertriglyceridaemia,Cough",recovered/resolved
+25637229,United Kingdom,serious,no,no,no,no,no,yes,20250804,yes,physician,76,Female,"Decreased appetite,Hypotension,Nausea",recovered/resolved
+25599214,Eu,serious,no,no,yes,no,no,yes,20250724,yes,physician,82,Female,"Gastric ulcer,Melaena,Haemorrhage,Malaise,Labelled drug-drug interaction medication error",unknown
+25528810,Eu,serious,no,no,yes,no,no,yes,20250708,yes,physician,72,Male,"Encephalitis,Polyneuropathy,Malignant neoplasm progression,Atrial fibrillation,Hypokalaemia,Immune-mediated lung disease,Aphasia,Disorientation,Dyspnoea,Mucosal inflammation,Osteolysis",recovered/resolved
+25638178,United Kingdom,serious,no,no,no,no,no,yes,20250804,yes,pharmacist,64,Female,Unknown,unknown
+25499429,Eu,serious,no,no,yes,no,no,yes,20250701,yes,other health professional,54,Male,"Generalised tonic-clonic seizure,Hypomagnesaemia,Supraventricular tachycardia",unknown
+25638316,United Kingdom,serious,no,no,no,yes,no,no,20250804,yes,pharmacist,60,Male,"Vision blurred,Muscle rigidity",not recovered/not resolved/ongoing
+25642687,United Kingdom,serious,no,no,no,yes,no,no,20250805,yes,other health professional,75,Male,"Tremor,Balance disorder,Feeling abnormal",unknown
+25642951,United Kingdom,serious,no,no,no,no,no,yes,20250805,yes,consumer or non-health professional,66,Male,Unknown,unknown
+25643903,Eu,serious,no,no,no,no,no,yes,20250805,yes,other health professional,34,Male,Unknown,unknown
+25644154,United Kingdom,serious,no,no,yes,no,no,no,20250805,yes,pharmacist,89,Female,"Epistaxis,Product prescribing issue",unknown
+25649473,United Kingdom,serious,no,no,no,no,no,yes,20250806,yes,consumer or non-health professional,,Unknown,"Hypothyroidism,Abnormal weight gain,Blood glucose increased,Dizziness,Dyspnoea",not recovered/not resolved/ongoing
+25654415,Eu,serious,no,no,yes,no,no,yes,20250807,yes,pharmacist,54,Male,"Hyperkalaemia,Acute kidney injury,Hypoglycaemia,Metabolic acidosis",unknown
+25654484,Eu,serious,no,no,yes,no,no,yes,20250807,yes,physician,78,Male,"Acute kidney injury,Bradycardia,Fall",recovered/resolved
+25658366,United Kingdom,serious,no,no,no,no,no,yes,20250808,yes,consumer or non-health professional,70,Male,Unknown,unknown
+25453501,Eu,serious,no,no,no,no,no,yes,20250619,yes,physician,67,Female,"Intestinal villi atrophy,Intestinal intraepithelial lymphocytes increased,Gastrointestinal disorder,Enterocolitis,Diarrhoea,Weight decreased",recovered/resolved
+25616903,Eu,serious,no,no,no,no,no,yes,20250729,yes,physician,56,Male,"Acute kidney injury,Abdominal pain,Diarrhoea,Intentional product use issue,Off label use,C-reactive protein increased",recovered/resolved
+25658721,United Kingdom,serious,no,no,no,no,no,yes,20250808,yes,pharmacist,84,Female,Unknown,unknown
+25658941,Eu,serious,no,no,no,no,no,yes,20250808,yes,physician,93,Female,Unknown,unknown
+25626868,Eu,serious,no,no,no,no,no,yes,20250731,yes,physician,77,Male,"Urinary tract infection,Therapeutic product effect increased,Glycosuria,Drug interaction",unknown
+25658980,Eu,serious,no,no,yes,no,no,no,20250808,yes,pharmacist,22,Female,"Bradycardia,Psychomotor skills impaired,Hypotension,Toxicity to various agents",recovered/resolved
+25669701,Eu,serious,no,no,no,no,no,yes,20250812,yes,other health professional,91,Female,"Renal impairment,Hyperkalaemia",unknown
+25066459,Eu,serious,no,no,no,no,no,yes,20250312,yes,physician,69,Female,"Immune-mediated lung disease,Off label use",recovering/resolving
+25674938,Eu,serious,no,no,yes,no,no,yes,20250813,yes,pharmacist,84,Male,Unknown,unknown
+25678941,Eu,serious,no,no,yes,no,no,no,20250814,yes,other health professional,82,Female,"Transaminases increased,Drug interaction",recovered/resolved
+25679800,Eu,serious,no,no,yes,no,no,yes,20250814,yes,physician,42,Male,Unknown,unknown
+25642621,United Kingdom,serious,no,no,no,no,no,yes,20250805,yes,consumer or non-health professional,75,Male,"Arthralgia,Myalgia,Fatigue,Brain fog,Depressed level of consciousness,Memory impairment,Pain in extremity,Tendonitis",recovered/resolved
+25684646,United Kingdom,serious,no,no,no,no,no,yes,20250815,yes,consumer or non-health professional,76,Female,Unknown,unknown
+25684730,Eu,serious,no,yes,no,no,no,yes,20250815,yes,pharmacist,61,Female,"Hyperkalaemia,Acute kidney injury,Poisoning deliberate,Metabolic acidosis",recovered/resolved
+25686817,Eu,serious,no,no,yes,no,no,no,20250816,yes,physician,77,Female,"Atrioventricular block,Asthenia",recovered/resolved
+25686979,Eu,serious,no,no,no,no,no,yes,20250816,yes,consumer or non-health professional,68,Female,"Hypotension,Vertigo,Tachycardia,Fatigue,Chest pain,Erythema,Contusion,Peripheral swelling,Pain,Arteriosclerosis,Cardiomegaly,Arterial occlusive disease",not recovered/not resolved/ongoing
+25686995,Eu,serious,no,no,no,no,yes,yes,20250816,yes,physician,,Male,"Hypospadias,Foetal exposure during pregnancy",not recovered/not resolved/ongoing
+25687004,Eu,serious,no,no,no,no,no,yes,20250816,yes,physician,15,Male,Unknown,unknown
+25643008,Eu,serious,no,no,no,no,no,yes,20250805,yes,other health professional,61,Male,"Adverse event,Epistaxis,Pruritus,Alopecia,White blood cell count decreased",recovered/resolved
+25687520,Eu,serious,no,no,no,no,no,yes,20250817,yes,physician,41,Male,Unknown,unknown
+25687523,United Kingdom,serious,no,no,no,no,no,yes,20250817,yes,physician,79,Female,"Pharyngeal paraesthesia,Paraesthesia oral",recovered/resolved
+25688713,Eu,serious,no,no,no,no,no,yes,20250818,yes,pharmacist,76,Female,"Swollen tongue,Asphyxia,Drug hypersensitivity",recovered/resolved
+25265801,United Kingdom,serious,no,no,no,no,no,yes,20250503,yes,other health professional,79,Male,"IgA nephropathy,IVth nerve paralysis,Drug ineffective,COVID-19",unknown
+25689422,Eu,serious,no,no,yes,no,no,yes,20250818,yes,physician,83,Female,"mg,mg,mg,dosage form,mg,mg 1,1,1,1 1,1,1,1 month,month,month,month 12.5 MILLIGRAM, ONCE A DAY,1.25 MILLIGRAM, ONCE A DAY,50 MILLIGRAM, ONCE A DAY,5 MILLIGRAM, ONCE A DAY Unknown,Unknown,Unknown,Unknown,Film Coated Tablet,Film-coated tablet oral,oral,oral,oral,oral,oral Hypertension,Hypertension,Product used for",unknown
+25698103,United Kingdom,serious,no,no,no,no,no,yes,20250819,yes,physician,76,Female,Unknown,unknown
+25698371,United Kingdom,serious,no,no,no,no,no,yes,20250819,yes,physician,90,Female,"Hyponatraemia,Cough",recovered/resolved
+25698586,Eu,serious,no,yes,no,no,no,yes,20250819,yes,physician,78,Female,"Gastrointestinal haemorrhage,Drug interaction,Coagulation factor deficiency",recovered/resolved
+25704866,Eu,serious,no,no,yes,no,no,yes,20250820,yes,physician,88,Female,"Bradycardia,Hyponatraemia,Melaena,Acute kidney injury",recovering/resolving
+25705220,United Kingdom,serious,no,no,yes,no,no,yes,20250820,yes,pharmacist,,Unknown,"Atrioventricular block,Bradycardia",recovered/resolved
+25709907,Eu,serious,no,no,yes,no,no,yes,20250821,yes,physician,76,Female,"Acute kidney injury,Chronic kidney disease,Gastrointestinal disorder,Hypotension,Weight decreased,Drug ineffective",recovered/resolved
+25643954,Eu,serious,no,no,no,no,no,yes,20250805,yes,pharmacist,,Female,"Pancytopenia,Tongue discolouration,Tooth discolouration",unknown
+25715605,Eu,serious,yes,no,no,no,no,yes,20250822,yes,physician,66,Male,"Sepsis,Pancytopenia",fatal
+25679791,United Kingdom,serious,no,no,yes,no,no,yes,20250814,yes,physician,38,Male,"Cardiac arrest,Brain injury,Overdose",recovered/resolved
+25718300,United Kingdom,serious,no,no,no,yes,no,yes,20250823,yes,consumer or non-health professional,,Male,"Dyspnoea,Heart rate irregular",not recovered/not resolved/ongoing
+25721209,Eu,serious,no,no,yes,no,no,no,20250825,yes,physician,80,Male,Unknown,unknown
+25724320,Eu,serious,no,no,no,no,no,yes,20250826,yes,pharmacist,73,Female,"Medication error,Haematoma,Anticholinergic effect,Patient elopement,Fall,Confusional state,Dizziness,Daydreaming,Drug interaction,Drug ineffective",unknown
+25724984,Eu,serious,no,no,yes,no,no,no,20250826,yes,physician,49,Male,"Discomfort,Dizziness,Drug ineffective",recovered/resolved
+25725402,United Kingdom,serious,no,no,no,no,no,yes,20250826,yes,physician,74,Male,Unknown,unknown
+25733394,United Kingdom,serious,no,no,yes,no,no,yes,20250828,yes,other health professional,87,Female,"Bradycardia,Confusional state,Hallucination,Lethargy",recovering/resolving
+25733972,Eu,serious,no,no,yes,no,no,no,20250828,yes,physician,72,Male,Unknown,unknown
+25734619,United Kingdom,serious,no,no,no,no,no,yes,20250828,yes,consumer or non-health professional,79,Female,"Headache,Dyspnoea,Cough,Fatigue,Balance disorder,Diarrhoea,Hyperhidrosis",recovered/resolved
+25734623,United Kingdom,serious,no,no,no,no,no,yes,20250828,yes,physician,72,Male,Unknown,unknown
+25647682,Eu,serious,no,yes,yes,no,no,yes,20250806,yes,physician,65,Female,"Cardiogenic shock,Distributive shock,Altered state of consciousness,Multiple organ dysfunction syndrome,Respiratory failure,Acute kidney injury,Hypoxia,Liver injury,Electrocardiogram QT prolonged,Hepatic function abnormal,Renal impairment,Hypotension,Bradycardia,Asthenia,Intentional overdose,Toxicity to various agents,Drug ineffective,Depressed level of consciousness,Overdose",recovered/resolved
+25734654,Eu,serious,no,no,no,no,no,yes,20250828,yes,physician,,Unknown,"Cardiovascular disorder,Acute kidney injury,Hyperkalaemia,Dyspnoea,Hypotension",unknown
+25734921,Eu,serious,no,no,yes,no,no,yes,20250828,yes,physician,72,Female,"Hepatic cytolysis,Dyskinesia",recovering/resolving
+25735161,Eu,serious,no,no,no,yes,no,no,20250828,yes,consumer or non-health professional,77,Female,"Dizziness,Gastrooesophageal reflux disease,Injection site erythema,Dry mouth,Depressed mood,Abdominal pain upper,Hyperhidrosis,Headache,Decreased appetite,Apathy,Hiatus hernia",not recovered/not resolved/ongoing
+25738427,Eu,serious,no,no,yes,no,no,yes,20250829,yes,pharmacist,39,Female,Unknown,unknown
+25738433,Eu,serious,no,no,yes,no,no,no,20250829,yes,pharmacist,15,Male,"Condition aggravated,Hypoprothrombinaemia",recovered/resolved
+25740087,United Kingdom,serious,no,no,no,no,no,yes,20250829,yes,pharmacist,75,Female,"Joint swelling,Peripheral swelling",unknown
+24872990,Eu,serious,no,no,no,no,no,yes,20250122,yes,physician,74,Female,"Enterococcal infection,Neutropenia,Pancytopenia,Thrombocytopenia,Leukopenia,Anaemia,Normochromic normocytic anaemia,Escherichia infection,Pyrexia",unknown
+25496720,Eu,serious,no,yes,yes,no,no,no,20250701,yes,other health professional,84,Male,"Asthenia,Toxicity to various agents",recovering/resolving
+25497099,Eu,serious,no,yes,no,no,no,yes,20250701,yes,physician,88,Female,"Renal failure,Drug reaction with eosinophilia and systemic symptoms,Hepatic failure,Eosinophilia,Pyrexia",unknown
+25497984,United Kingdom,serious,no,no,no,no,no,yes,20250701,yes,consumer or non-health professional,87,Male,"Diarrhoea,Colitis microscopic,Anxiety",not recovered/not resolved/ongoing
+25497986,United Kingdom,serious,no,no,no,no,no,yes,20250701,yes,physician,67,Female,Unknown,unknown
+25497997,Eu,serious,no,no,no,no,no,yes,20250701,yes,consumer or non-health professional,63,Female,"Chronic cutaneous lupus erythematosus,Morphoea,Dermatitis psoriasiform,Sinus bradycardia",not recovered/not resolved/ongoing
+25498826,Eu,serious,no,no,yes,no,no,yes,20250701,yes,physician,80,Female,Unknown,unknown
+25063910,Eu,serious,no,yes,yes,no,no,yes,20250311,yes,physician,76,Male,"Rhabdomyolysis,Drug interaction,Cardiac failure congestive,Renal impairment,Acute kidney injury,Hypokalaemia,Myopathy toxic",recovered/resolved
+25298788,Eu,serious,no,no,yes,no,no,yes,20250512,yes,physician,84,Male,"Fall,Acute kidney injury,Hypotension,Dysarthria,Diarrhoea,Hallucination,Hypokalaemia,Syncope,Electrolyte imbalance,Hyponatraemia,Restlessness",recovered/resolved
+25502017,Eu,serious,no,no,yes,no,no,yes,20250702,yes,physician,72,Male,"Neutropenia,Rash maculo-papular,Pyrexia,Asthenia",not recovered/not resolved/ongoing
+25502579,Eu,serious,no,no,no,no,yes,yes,20250702,yes,physician,1,Female,"Poland^s syndrome,Maternal exposure during pregnancy",not recovered/not resolved/ongoing
+25502657,Eu,serious,no,yes,yes,no,no,yes,20250702,yes,physician,60,Female,Unknown,unknown
+25502688,Eu,serious,no,no,no,no,no,yes,20250702,yes,physician,,Female,"Blood cholesterol increased,Low density lipoprotein increased,Drug intolerance,Blood triglycerides increased,Drug ineffective",not recovered/not resolved/ongoing
+25502988,United Kingdom,serious,no,no,no,no,no,yes,20250702,yes,consumer or non-health professional,55,Female,"Blood potassium decreased,Mouth ulceration,Fatigue,Paraesthesia",recovering/resolving
+25503311,United States,serious,no,no,no,no,no,no,20250702,no,pharmacist,73,Male,"Drug ineffective,Therapy change,Product substitution issue",unknown
+25508155,Eu,serious,no,no,no,no,no,yes,20250703,yes,physician,54,Female,Unknown,unknown
+25509197,Eu,serious,no,no,yes,no,no,yes,20250703,yes,physician,64,Female,"Cholestatic liver injury,Hypothyroidism",recovered/resolved
+25516706,United Kingdom,serious,no,no,no,no,no,yes,20250704,yes,consumer or non-health professional,71,Female,Unknown,unknown
+25518899,United Kingdom,serious,no,no,yes,no,no,yes,20250704,yes,consumer or non-health professional,79,Female,"Hip fracture,Fall,Joint arthroplasty,Cataract,Joint injury,Abdominal discomfort,Balance disorder,Pharyngeal swelling,Arthralgia,Arterial thrombosis,Pain,Blood iron decreased",unknown
+25520827,United Kingdom,serious,no,no,no,no,no,yes,20250705,yes,consumer or non-health professional,69,Female,"Fatigue,Asthenia,Weight increased,Dyspnoea,Neuropathy peripheral,Pain in extremity,Dyspepsia,Arthralgia,Tinnitus,Amnesia,Eye pain",not recovered/not resolved/ongoing
+25520863,Eu,serious,no,no,yes,no,no,no,20250705,yes,pharmacist,83,Female,"Presyncope,Bradycardia",recovered/resolved
+25521160,Eu,serious,no,no,yes,no,no,yes,20250705,yes,physician,61,Male,"Gastrointestinal haemorrhage,Drug interaction",recovered/resolved
+25521499,Eu,serious,no,no,no,no,no,yes,20250706,yes,physician,80,Female,"mg,mg,mg,mg,mg,mg,mg,mg,mg 1,1,1,1,1,1,1,1 2,1,1,1,1,1,1,1 week,month,month,month,month,month,month,month 140 MILLIGRAM, UNK,160 MILLIGRAM, ONCE A DAY,12.5 MILLIGRAM, ONCE A DAY,20 MILLIGRAM, ONCE A DAY,75 MILLIGRAM, ONCE A DAY,10 MILLIGRAM, ONCE A DAY,10 MILLIGRAM, ONCE A DAY,40 MILLIGRAM, ONCE A DAY oral,subcutaneous,vaginal,vaginal,oral,oral,oral,oral,oral,oral,oral,oral Gout,Dyslipidaemia,Product used for",unknown
+25521504,Eu,serious,no,no,yes,no,no,yes,20250706,yes,physician,73,Male,"Mucosal inflammation,Malignant neoplasm progression",not recovered/not resolved/ongoing
+25521507,Eu,serious,no,no,yes,no,no,yes,20250706,yes,pharmacist,33,Male,"Epilepsy,Product administration error",recovered/resolved
+25523170,United Kingdom,serious,no,no,no,no,no,yes,20250707,yes,other health professional,76,Male,Unknown,unknown
+25523210,Eu,serious,yes,no,no,no,no,yes,20250707,yes,physician,79,Female,Unknown,unknown
+25523238,United Kingdom,serious,no,no,no,no,no,yes,20250707,yes,pharmacist,,Female,Unknown,unknown
+25523341,United Kingdom,serious,no,no,yes,no,no,no,20250707,yes,pharmacist,,Male,Unknown,unknown
+25528383,Eu,serious,no,no,yes,no,no,no,20250708,yes,physician,60,Male,Unknown,unknown
+25532154,Eu,serious,yes,no,no,no,no,no,20250709,yes,consumer or non-health professional,99,Male,Unknown,unknown
+25532201,United Kingdom,serious,no,no,no,no,no,yes,20250709,yes,pharmacist,85,Male,Unknown,unknown
+25463940,Eu,serious,no,no,yes,no,no,yes,20250621,yes,physician,87,Male,"Anaemia,Haemarthrosis,Pain",recovering/resolving
+25533807,United Kingdom,serious,no,no,no,yes,no,yes,20250709,yes,consumer or non-health professional,54,Male,"Peyronie^s disease,Medication error",unknown
+25206508,Eu,serious,yes,no,yes,no,no,yes,20250417,yes,consumer or non-health professional,75,Female,"Myasthenia gravis,Faeces discoloured,Respiratory failure,Death,Toxicity to various agents",fatal
+25534452,United Kingdom,serious,no,no,no,no,no,yes,20250709,yes,consumer or non-health professional,70,Male,"Atrial fibrillation,Anxiety,Fatigue,Dizziness",recovered/resolved
+25500305,Eu,serious,no,no,yes,no,no,yes,20250701,yes,physician,57,Male,"Superinfection,Chronic inflammatory response syndrome,Mouth ulceration,Odynophagia,Pain,Pyrexia,Chronic kidney disease,Mononeuropathy,Off label use",unknown
+25539035,Eu,serious,no,no,no,no,no,yes,20250710,yes,other health professional,62,Female,"Drug ineffective,Asthenia,Somnolence,Drug interaction,Medication error",unknown
+25539068,United Kingdom,serious,no,no,yes,no,no,yes,20250710,yes,consumer or non-health professional,68,Male,Unknown,unknown
+25539296,Eu,serious,no,no,no,no,no,yes,20250710,yes,physician,84,Male,Unknown,unknown
+25541512,United Kingdom,serious,no,no,no,yes,no,yes,20250711,yes,consumer or non-health professional,,Unknown,"Pain in extremity,Oedema peripheral,Abdominal distension",not recovered/not resolved/ongoing
+25542374,Eu,serious,no,yes,yes,no,no,no,20250711,yes,physician,82,Female,"Bradycardia,Atrioventricular block",recovered/resolved
+25542615,Eu,serious,no,no,yes,no,no,no,20250711,yes,physician,50,Male,Unknown,unknown
+25542675,United Kingdom,serious,no,no,no,no,no,yes,20250711,yes,other health professional,52,Female,"Vaginal haemorrhage,Dizziness",recovered/resolved
+25543687,Eu,serious,no,no,no,no,no,yes,20250711,yes,physician,73,Male,"Hyperbilirubinaemia,Condition aggravated",not recovered/not resolved/ongoing
+25474438,Eu,serious,no,no,yes,no,no,yes,20250624,yes,physician,54,Male,"Ileus paralytic,Anaemia",recovered/resolved
+25547806,Eu,serious,no,no,yes,no,no,yes,20250714,yes,physician,70,Female,Unknown,unknown
+25528355,Eu,serious,no,no,no,no,no,yes,20250708,yes,physician,60,Male,"Polyneuropathy,Metastases to liver,Arteriosclerosis coronary artery,Hypomagnesaemia,Therapy partial responder",unknown
+25548024,Eu,serious,no,yes,no,no,no,no,20250714,yes,pharmacist,82,Male,Unknown,unknown
+25552003,United Kingdom,serious,no,no,no,no,no,yes,20250714,yes,other health professional,75,Female,"Vomiting,Malaise",recovered/resolved
+25552852,Eu,serious,no,no,yes,no,no,yes,20250715,yes,physician,78,Male,Unknown,unknown
+25531830,Eu,serious,no,no,no,no,no,yes,20250709,yes,physician,67,Female,Unknown,unknown
+25553731,Eu,serious,no,yes,no,no,no,yes,20250715,yes,pharmacist,77,Female,"Febrile bone marrow aplasia,Septic shock,Cardiac failure acute,Acute kidney injury,Drug reaction with eosinophilia and systemic symptoms,Medication error,Drug monitoring procedure not performed",recovered/resolved
+25553978,Eu,serious,no,no,yes,no,no,yes,20250715,yes,physician,61,Male,Unknown,unknown
+25564765,United Kingdom,serious,no,no,no,no,no,yes,20250716,yes,physician,52,Male,Unknown,unknown
+25533151,Eu,serious,no,no,yes,no,no,yes,20250709,yes,physician,74,Male,Unknown,unknown
+25565564,Eu,serious,no,no,yes,no,no,no,20250716,yes,physician,72,Male,"Drug interaction,Myalgia,Malaise",unknown
+25108665,Eu,serious,no,no,yes,no,no,no,20250322,yes,physician,90,Male,"Chest pain,Dyspnoea,Hypotension,Bundle branch block right",unknown
+25570132,United Kingdom,serious,no,no,no,yes,no,no,20250717,yes,pharmacist,,Male,Unknown,unknown
+25570254,Eu,serious,no,no,yes,no,no,yes,20250717,yes,physician,63,Male,"Macroglossia,Dysphonia,Dyspnoea",recovered/resolved
+25570823,United Kingdom,serious,no,yes,no,no,no,yes,20250717,yes,pharmacist,59,Male,Unknown,unknown
+25340982,Eu,serious,no,no,yes,no,no,yes,20250521,yes,pharmacist,68,Male,Unknown,unknown
+25571526,Australia,serious,no,no,no,no,no,yes,20250717,yes,other health professional,60,Female,Unknown,unknown
+25575675,United Kingdom,serious,no,no,no,no,no,yes,20250718,yes,other health professional,72,Male,Unknown,unknown
+25533545,Eu,serious,no,no,no,no,no,yes,20250709,yes,physician,51,Male,Unknown,unknown
+25576229,Eu,serious,no,no,yes,no,no,no,20250718,yes,other health professional,53,Female,"Rash pruritic,Oropharyngeal discomfort,Oedema peripheral",recovered/resolved
+25581884,United Kingdom,serious,no,no,no,yes,no,no,20250719,yes,consumer or non-health professional,39,Male,Unknown,unknown
+25581942,Eu,serious,yes,yes,no,no,no,yes,20250719,yes,pharmacist,66,Male,"Death,Toxic epidermal necrolysis",fatal
+25582038,Eu,serious,no,no,no,no,no,yes,20250719,yes,physician,89,Female,"Bradycardia,Syncope",recovered/resolved
+25582293,United Kingdom,serious,no,no,no,no,no,yes,20250720,yes,physician,81,Female,Unknown,unknown
+25582496,Eu,serious,yes,no,yes,no,no,yes,20250720,yes,pharmacist,80,Male,"Toxic epidermal necrolysis,Stevens-Johnson syndrome,Septic shock,Skin reaction",fatal
+25372181,Eu,serious,no,yes,yes,no,no,yes,20250529,yes,other health professional,64,Female,"Acute kidney injury,Rhabdomyolysis,Hyperkalaemia,Blood thyroid stimulating hormone increased,Hepatic function abnormal,Metabolic acidosis,Decreased appetite,Diarrhoea,Labelled drug-drug interaction issue",recovered/resolved
+25584646,United Kingdom,serious,no,no,no,no,no,yes,20250721,yes,other health professional,23,Female,Unknown,unknown
+25258834,Eu,serious,no,no,yes,no,no,yes,20250501,yes,physician,73,Male,"Septic shock,Atrial fibrillation,Renal failure,Respiratory failure,Thrombocytopenia,Hypokalaemia,Sepsis,Seizure,Malignant neoplasm progression,Anaemia",recovered/resolved
+25310411,Eu,serious,no,no,yes,no,no,yes,20250514,yes,physician,45,Female,"Asthenia,Anaemia,Wolff-Parkinson-White syndrome,Hyponatraemia",recovered/resolved
+25464251,United Kingdom,serious,no,no,yes,no,no,yes,20250621,yes,consumer or non-health professional,,Male,"Cerebrovascular accident,Disability,Hyperkalaemia,Nervous system disorder,Vomiting,Therapy cessation,Drug dose titration not performed,Product prescribing issue",not recovered/not resolved/ongoing
+25585570,Eu,serious,no,no,yes,no,no,yes,20250721,yes,physician,32,Male,"Cardiac failure,Ejection fraction decreased,Condition aggravated",recovering/resolving
+25588314,Eu,serious,no,no,no,no,no,yes,20250722,yes,other health professional,93,Female,"Bradycardia,Hypotension,Product administration error,Wrong patient received product",recovered/resolved
+25588869,Eu,serious,no,no,no,no,no,yes,20250722,yes,other health professional,85,Male,"mg,mg Film-coated tablet,Tablet oral,oral,vaginal,vaginal,vaginal,vaginal,vaginal,vaginal Hypertension,Hypertension,Product used for",unknown
+25428113,United Kingdom,serious,no,no,no,yes,no,no,20250612,yes,consumer or non-health professional,,Male,"Walking aid user,Arthralgia,Muscle tightness,Pain in extremity,Off label use",recovering/resolving
+25589993,Eu,serious,no,no,no,no,no,yes,20250722,yes,physician,74,Female,"Hypoxia,Melaena,Nausea,Pyrexia,Diarrhoea",recovered/resolved
+25595339,Eu,serious,no,no,yes,no,no,yes,20250723,yes,physician,88,Male,Unknown,unknown
+25595841,Eu,serious,no,yes,yes,no,no,yes,20250723,yes,physician,79,Female,"Atrioventricular block complete,Syncope",recovered/resolved
+25595977,United Kingdom,serious,no,no,yes,no,no,yes,20250723,yes,pharmacist,,Male,Unknown,unknown
+25465662,Eu,serious,no,no,yes,no,no,yes,20250623,yes,pharmacist,79,Male,"Angioedema,Oedema,Respiratory disorder,Diarrhoea",unknown
+25604532,Eu,serious,no,no,yes,no,no,yes,20250725,yes,physician,77,Female,Unknown,unknown
+25552485,Eu,serious,no,no,no,no,no,yes,20250715,yes,physician,55,Male,"High density lipoprotein decreased,Hypercholesterolaemia,Stomatocytes present,Red blood cell abnormality,Drug interaction",recovered/resolved
+25553656,Eu,serious,no,yes,yes,no,no,yes,20250715,yes,physician,65,Male,"Acute myocardial infarction,Arteriospasm coronary,Atrial fibrillation,Left ventricular dysfunction,Ventricular arrhythmia,Cardiac arrest,Akinesia,Cardiac failure,Ventricular tachycardia,Myocarditis,Arrhythmia,Drug ineffective,Chest pain,Blood pressure increased",recovered/resolved
+25611114,Eu,serious,no,no,no,no,no,yes,20250728,yes,physician,66,Female,"Syncope,Adverse drug reaction",recovering/resolving
+25611176,United Kingdom,serious,no,no,no,no,no,yes,20250728,yes,pharmacist,88,Female,"Musculoskeletal stiffness,Nightmare,Peripheral swelling",recovered/resolved
+25615880,Eu,serious,no,no,yes,no,no,no,20250729,yes,physician,94,Male,"Dehydration,Hypotension,Hyponatraemia",recovering/resolving
+25615980,United Kingdom,serious,yes,yes,no,no,no,yes,20250729,yes,pharmacist,82,Male,"Stevens-Johnson syndrome,Toxic epidermal necrolysis,Rash papular,Mouth ulceration,Genital ulceration",fatal
+25571733,Eu,serious,no,no,no,no,no,yes,20250717,yes,physician,56,Male,"Acute kidney injury,Abdominal pain,Diarrhoea,C-reactive protein increased",recovered/resolved
+25616798,Eu,serious,no,no,yes,no,no,yes,20250729,yes,pharmacist,90,Female,"Rhabdomyolysis,Cholestasis,Hepatic cytolysis",recovered/resolved
+25616836,Eu,serious,no,no,no,no,no,yes,20250729,yes,pharmacist,75,Male,Unknown,unknown
+25616932,Eu,serious,no,no,no,no,no,yes,20250729,yes,physician,65,Male,Unknown,unknown
+24833425,Eu,serious,yes,yes,yes,no,no,yes,20250112,yes,physician,77,Male,"Pseudomonas infection,Septic shock,Respiratory failure,Pyrexia,Diarrhoea",fatal
+25620389,Eu,serious,yes,no,no,no,no,yes,20250730,yes,physician,83,Female,Unknown,unknown
+25620624,Eu,serious,no,no,no,no,no,yes,20250730,yes,physician,73,Female,"Melaena,Rash,Herpes zoster,Polyp,Off label use",unknown
+25588310,Eu,serious,no,no,no,no,no,yes,20250722,yes,physician,56,Male,"Acute kidney injury,Abdominal pain,Diarrhoea,C-reactive protein increased,Intentional product use issue,Off label use",recovered/resolved
+25620719,Eu,serious,no,yes,no,no,no,yes,20250730,yes,physician,46,Female,"eu physician other AUROBINDO other FDA 46year female 28.0,28.0,28.0,28.0 Suicide attempt,Hypotension,Toxicity to various agents,Alcohol interaction",unknown
+25621964,Eu,serious,no,no,yes,no,no,yes,20250730,yes,pharmacist,67,Female,Unknown,unknown
+25622114,Eu,serious,yes,no,no,no,no,yes,20250730,yes,pharmacist,74,Female,Unknown,unknown
+25625581,United Kingdom,serious,yes,no,no,no,no,yes,20250731,yes,pharmacist,88,Male,"Pulmonary embolism,Accidental overdose,Sedation,Mobility decreased,Device use error",fatal
+25626610,United Kingdom,serious,no,no,no,no,no,yes,20250731,yes,other health professional,55,Male,Unknown,unknown
+25599366,Eu,serious,no,no,yes,no,no,yes,20250724,yes,physician,800,Male,"Type 2 diabetes mellitus,Weight decreased,Idiopathic interstitial pneumonia,Hepatitis acute",unknown
+25627510,Eu,serious,yes,no,yes,no,no,yes,20250731,yes,other health professional,90,Female,"Acute myocardial infarction,Product administration error,Wrong patient,Wrong product administered",fatal
+25744485,United Kingdom,serious,no,no,no,no,no,yes,20250901,yes,physician,72,Female,Unknown,unknown
+25744500,United Kingdom,serious,no,no,yes,no,no,yes,20250901,yes,other health professional,79,Female,Unknown,unknown
+25745093,Eu,serious,no,no,yes,no,no,no,20250901,yes,pharmacist,75,Female,Unknown,unknown
+25745094,United Kingdom,serious,no,no,no,no,no,yes,20250901,yes,pharmacist,,Unknown,Unknown,unknown
+25745112,Eu,serious,no,no,no,no,no,yes,20250901,yes,consumer or non-health professional,67,Male,"mg,mg 1 1month 12.5 MILLIGRAM, ONCE A DAY Tablet,Tablet,Tablet,Tablet,Tablet oral,vaginal,oral,oral,oral Organising pneumonia,Product used for",unknown
+25745734,United Kingdom,serious,no,no,no,no,no,yes,20250901,yes,physician,76,Female,Unknown,unknown
+25745996,Eu,serious,yes,no,no,no,no,no,20250901,yes,consumer or non-health professional,93,Female,Unknown,unknown
+25721285,Eu,serious,no,no,no,no,no,yes,20250825,yes,other health professional,78,Male,Unknown,unknown
+25749459,Eu,serious,yes,no,no,no,no,yes,20250902,yes,pharmacist,60,Female,"Pancytopenia,Febrile neutropenia,Pneumonitis,Intestinal perforation",fatal
+25749606,Eu,serious,no,no,yes,no,no,yes,20250902,yes,physician,68,Male,"Angina unstable,Apnoea,Arthrodesis,Loss of personal independence in daily activities,Respiratory disorder,Articular disc disorder,Ill-defined disorder,Emphysema,Breath sounds abnormal,Back pain,Neck pain,Hyporeflexia,Arthralgia,Chest pain,Spinal pain,Fatigue,Obstructive sleep apnoea syndrome",unknown
+25722723,Eu,serious,no,no,yes,no,no,yes,20250825,yes,physician,70,Male,"Toxic skin eruption,Eye infection gonococcal,Rash macular,Rash,Conjunctivitis,Cheilitis,Urethritis,Skin exfoliation",recovering/resolving
+25517207,Eu,serious,no,no,yes,no,no,yes,20250704,yes,physician,75,Male,"Pneumonia,Fall,Sleep apnoea syndrome,Hallucination, visual,Abnormal dreams,Cognitive disorder,Chills,Constipation,Depressed mood,Dysphagia,General physical health deterioration,Memory impairment,Mobility decreased,Musculoskeletal disorder,Nocturia,Parkinsonism,Pollakiuria,Rapid eye movement sleep behaviour disorder",not recovered/not resolved/ongoing
+25750061,Eu,serious,no,yes,no,no,no,yes,20250902,yes,pharmacist,66,Male,Unknown,unknown
+25750372,United Kingdom,serious,no,no,no,no,no,yes,20250902,yes,physician,61,Male,"Myalgia,Joint swelling,Confusional state,Hyperhidrosis,Burning sensation",unknown
+25754449,United Kingdom,serious,no,no,no,no,no,yes,20250903,yes,physician,52,Male,Unknown,unknown
+25754453,United Kingdom,serious,no,no,no,no,no,yes,20250903,yes,physician,68,Male,Unknown,unknown
+25754545,Eu,serious,no,yes,no,no,no,yes,20250903,yes,pharmacist,83,Male,"Haemorrhage,Distributive shock",recovering/resolving
+25687522,Eu,serious,no,no,yes,no,no,yes,20250817,yes,other health professional,49,Male,"Dizziness,Discomfort,Drug ineffective",recovered/resolved
+25217031,Eu,serious,no,no,no,no,no,yes,20250419,yes,other health professional,79,Male,"IVth nerve paralysis,IgA nephropathy,Drug ineffective,COVID-19",unknown
+25773137,Canada,serious,no,no,no,no,no,yes,20250908,yes,other health professional,800,Male,"Myocarditis,Drug interaction,Tachycardia",recovered/resolved
+24979403,Eu,serious,no,no,yes,no,no,yes,20250218,yes,physician,69,Male,"Immune-mediated hepatitis,Cancer pain,C-reactive protein increased,Infection",not recovered/not resolved/ongoing
+25776917,Eu,serious,no,no,no,no,no,yes,20250909,yes,physician,68,Female,Unknown,unknown
+25784665,Canada,serious,no,no,yes,no,no,yes,20250910,yes,physician,67,Male,"Acute kidney injury,Haemofiltration,Tubulointerstitial nephritis",recovered/resolved
+25784897,Canada,serious,no,no,no,no,no,yes,20250910,yes,other health professional,85,Female,"COVID-19,Throat irritation,Cough,Fatigue,Pharyngeal paraesthesia,Pneumonia,Pyrexia,Off label use,Circumstance or information capable of leading to medication error",recovered/resolved
+25785032,Canada,serious,no,no,yes,no,no,no,20250910,yes,other health professional,69,Female,"Pruritus,Skin exfoliation,Skin reaction",recovered/resolved
+25785041,Eu,serious,no,no,no,no,no,yes,20250910,yes,pharmacist,70,Female,"Cholestatic liver injury,Eosinophilia",recovered/resolved
+25785294,Eu,serious,no,no,no,no,no,yes,20250910,yes,physician,79,Male,Unknown,unknown
+25785418,Eu,serious,no,no,no,no,no,yes,20250910,yes,consumer or non-health professional,67,Male,"mg,mg 1 1month 12.5 MILLIGRAM, ONCE A DAY Tablet,Tablet,Tablet,Tablet,Tablet oral,vaginal,oral,oral,oral Organising pneumonia,Product used for",unknown
+25327402,Eu,serious,no,no,yes,yes,no,yes,20250517,yes,physician,86,Female,"Fall,Contusion,Craniofacial fracture,Mobility decreased,Renal impairment,Inappropriate antidiuretic hormone secretion,Medication error,Immobile,Blood pressure decreased,Dizziness,Constipation,Fatigue,Lethargy,Dysphagia,Hyponatraemia,Prescribed overdose,Fear of falling,Incorrect dose administered",recovered/resolved
+25789067,Canada,serious,no,no,no,no,no,yes,20250911,yes,pharmacist,48,Female,"Food allergy,Arthralgia,Arthritis",unknown
+25789513,Canada,serious,no,no,no,no,no,yes,20250911,yes,other health professional,85,Female,"Throat irritation,COVID-19,Circumstance or information capable of leading to medication error,Cough,Fatigue,Pharyngeal paraesthesia,Pneumonia,Pyrexia,Off label use",recovered/resolved
+25789916,Eu,serious,no,no,yes,no,no,yes,20250911,yes,pharmacist,68,Male,Unknown,unknown
+25789952,Eu,serious,no,no,yes,no,no,no,20250911,yes,other health professional,77,Female,"Dyspnoea,Drug ineffective",recovered/resolved
+25790552,Canada,serious,no,no,yes,no,no,no,20250911,yes,pharmacist,75,Male,"Dermatitis atopic,Drug eruption",recovering/resolving
+25798718,Eu,serious,no,no,yes,no,no,no,20250913,yes,physician,74,Female,"Bradycardia,Conduction disorder,Condition aggravated",recovered/resolved
+25798751,Eu,serious,yes,yes,yes,no,no,yes,20250913,yes,pharmacist,83,Female,"Pneumocystis jirovecii pneumonia,Acute respiratory distress syndrome",fatal
+25798821,Eu,serious,no,no,no,no,no,yes,20250913,yes,physician,69,Female,"Hypothyroidism,Condition aggravated",recovering/resolving
+25799020,United Kingdom,serious,no,no,yes,yes,no,yes,20250913,yes,pharmacist,70,Female,"Self-injurious ideation,Anxiety",recovering/resolving
+25724308,Eu,serious,no,no,no,no,no,yes,20250826,yes,physician,74,Female,"Myelitis,Condition aggravated,Insomnia,Tremor,Drug ineffective",recovering/resolving
+25739941,Eu,serious,no,no,yes,no,no,yes,20250829,yes,physician,13,Female,"Pericardial effusion,Mitral valve incompetence,Myocarditis,Pericarditis,Drug ineffective,Weight increased",recovered/resolved
+25799610,Eu,serious,no,no,yes,no,no,no,20250914,yes,physician,65,Male,"Orthostatic hypotension,Fall,Malaise,Drug interaction",recovered/resolved
+25799644,United Kingdom,serious,no,no,yes,no,no,yes,20250914,yes,pharmacist,86,Female,Unknown,unknown
+25801607,Eu,serious,no,no,yes,no,no,no,20250915,yes,physician,64,Male,"Pelvic pain,Vomiting",unknown
+25801745,Canada,serious,no,no,yes,no,no,yes,20250915,yes,physician,75,Female,"Seizure,Metabolic acidosis",recovering/resolving
+25802218,United Kingdom,serious,no,no,yes,no,no,yes,20250915,yes,pharmacist,59,Male,Unknown,unknown
+24835358,Eu,serious,no,no,no,no,no,yes,20250113,yes,other health professional,56,Male,Unknown,unknown
+25805062,Eu,serious,no,no,no,no,no,yes,20250916,yes,physician,,Unknown,"Renal impairment,Hypotension,Drug intolerance",recovering/resolving
+25805267,United Kingdom,serious,yes,no,yes,no,no,yes,20250916,yes,pharmacist,,Unknown,Unknown,unknown
+25805853,Eu,serious,no,no,yes,no,no,yes,20250916,yes,consumer or non-health professional,76,Male,"Hospitalisation,Fall,Tooth loss",unknown
+25807053,Eu,serious,no,no,yes,no,no,no,20250916,yes,physician,82,Male,"Hypotension,Malaise,Potentiating drug interaction",not recovered/not resolved/ongoing
+25571836,Eu,serious,no,no,no,no,no,yes,20250717,yes,physician,,Female,Unknown,unknown
+25815498,Eu,serious,yes,no,yes,no,no,yes,20250918,yes,other health professional,63,Female,"Death,Coma scale abnormal,Hypokalaemia,Confusional state",fatal
+25815504,United Kingdom,serious,no,no,no,no,no,yes,20250918,yes,consumer or non-health professional,64,Female,"Somnolence,Dry mouth,Dysarthria,Confusional state",not recovered/not resolved/ongoing
+24834918,Eu,serious,no,no,yes,no,no,yes,20250113,yes,other health professional,56,Male,Unknown,unknown
+25816331,United Kingdom,serious,no,no,no,no,no,yes,20250918,yes,consumer or non-health professional,77,Male,Unknown,unknown
+25816737,United Kingdom,serious,no,no,no,no,no,yes,20250918,yes,consumer or non-health professional,73,Female,"Oral lichenoid reaction,Glossitis,Mouth ulceration",recovered/resolved
+25749000,Eu,serious,no,no,no,no,no,yes,20250902,yes,pharmacist,73,Female,"Medication error,Haematoma,Anticholinergic effect,Patient elopement,Fall,Confusional state,Dizziness,Daydreaming,Disturbance in attention,Drug interaction,Drug ineffective",unknown
+25817340,Eu,serious,no,no,no,no,no,yes,20250918,yes,physician,79,Male,"Acute kidney injury,Pneumonia,Neurogenic bladder,Tooth disorder,Off label use",unknown
+25817510,Eu,serious,yes,no,yes,no,no,no,20250918,yes,physician,,Male,"Dyspnoea,Anaemia",fatal
+25818402,Eu,serious,no,no,yes,no,no,no,20250918,yes,pharmacist,82,Female,"Hyponatraemia,Dizziness",recovered/resolved
+25818451,Eu,serious,no,no,yes,no,no,yes,20250918,yes,physician,77,Male,Unknown,unknown
+25820563,Eu,serious,no,no,no,no,no,yes,20250919,yes,pharmacist,,Male,"Hypertension,Product size issue",unknown
+25821892,Canada,serious,no,no,yes,no,no,yes,20250919,yes,pharmacist,91,Male,Unknown,unknown
+25341255,Eu,serious,no,no,no,no,no,yes,20250521,yes,physician,48,Female,"Arrhythmia,Serotonin syndrome,Ventricular arrhythmia,Disease risk factor,Drug interaction,Drug-disease interaction,Nausea,Vomiting,Dehydration,Electrolyte imbalance,No adverse event",unknown
+25801815,United Kingdom,serious,no,no,no,no,no,yes,20250915,yes,other health professional,59,Male,"Gingival hypoplasia,Gingival hypertrophy",unknown
+25826878,United Kingdom,serious,yes,no,no,no,no,yes,20250920,yes,pharmacist,75,Male,"Pneumonitis,Pneumonia,Respiratory failure",fatal
+25829019,Eu,serious,no,no,no,no,no,yes,20250922,yes,physician,,Male,"Hypotension,Wrong patient received product,Wrong drug",recovered/resolved
+25829287,United Kingdom,serious,no,no,no,no,no,yes,20250922,yes,physician,82,Female,Unknown,unknown
+25829610,Canada,serious,no,no,yes,no,no,no,20250922,yes,pharmacist,74,Male,"Contusion,Dyspnoea exertional,Presyncope,Swelling,Tenderness",recovering/resolving
+25829806,Canada,serious,no,no,yes,no,no,yes,20250922,yes,pharmacist,88,Female,"Thrombosis,Haematuria",recovered/resolved
+25829975,Eu,serious,no,no,yes,no,no,no,20250922,yes,physician,78,Female,"eu physician other AUROBINDO other FDA 78year female 28.0,28.0,28.0 Rash,Oral mucosa erosion,Lip erosion",recovering/resolving
+25799135,Eu,serious,no,no,yes,no,no,yes,20250913,yes,other health professional,60,Female,"Drug ineffective,Dyspnoea,Atrioventricular block complete,Hypotension,Anaemia,Off label use",unknown
+25608501,Eu,serious,no,no,no,yes,no,yes,20250726,yes,physician,64,Female,"Raynaud^s phenomenon,Skin necrosis,Pain in extremity,Paraesthesia,Oedema peripheral,Pallor,Cyanosis,Dry skin,Condition aggravated,Carpal tunnel syndrome,Arthralgia,Skin ulcer,Erythema",recovered/resolved
+25830841,United Kingdom,serious,no,no,no,yes,no,yes,20250922,yes,physician,67,Female,"Arthralgia,Nightmare",not recovered/not resolved/ongoing
+25831123,Eu,serious,no,no,no,yes,no,yes,20250922,yes,physician,79,Male,Unknown,unknown
+25745939,Eu,serious,no,no,no,no,no,yes,20250901,yes,physician,,Female,"Deafness,Palpitations,Heart rate abnormal,Tinnitus,Autonomic nervous system imbalance,Blood pressure decreased",not recovered/not resolved/ongoing
+25839297,Indonesia,serious,no,no,no,no,no,yes,20250924,yes,other health professional,56,Male,Unknown,unknown
+25565161,Eu,serious,no,yes,yes,no,no,yes,20250716,yes,physician,54,Male,"Cerebellar syndrome,Generalised tonic-clonic seizure,Hypokalaemia,Hypomagnesaemia,Supraventricular tachycardia,Sleep disorder,Tetany",recovered/resolved
+25847005,Canada,serious,no,no,yes,no,no,yes,20250925,yes,other health professional,72,Female,"Seizure,Coma scale abnormal,Cyanosis,Postictal state,Endotracheal intubation",recovering/resolving
+25852510,Eu,serious,no,no,yes,no,no,yes,20250926,yes,physician,87,Male,Unknown,unknown
+25857209,United Kingdom,serious,no,no,no,no,no,yes,20250929,yes,consumer or non-health professional,60,Male,"Chest pain,Angina pectoris,Paraesthesia,Dyspnoea",not recovered/not resolved/ongoing
+25857694,Canada,serious,yes,no,yes,no,no,yes,20250929,yes,pharmacist,68,Male,"Pericardial effusion,Pulmonary embolism",fatal
+25857706,Eu,serious,no,no,yes,no,no,yes,20250929,yes,physician,78,Female,"Cardiogenic shock,Hyperkalaemia,Bradycardia",recovered/resolved
+25858087,Eu,serious,no,no,yes,no,no,yes,20250929,yes,physician,61,Female,"Acute kidney injury,Distributive shock,Diarrhoea",recovered/resolved
+25858101,Eu,serious,no,no,no,no,no,yes,20250929,yes,other health professional,59,Male,"Myocardial ischaemia,Carotid artery occlusion,Drug ineffective",unknown
+25862410,Canada,serious,no,no,no,no,no,yes,20250930,yes,consumer or non-health professional,69,Male,"Aortic arteriosclerosis,Hepatic cancer stage IV,Hepatic cirrhosis,Hepatic steatosis,Malignant neoplasm progression,Portal hypertension,Metastases to spine",unknown
+25862611,Eu,serious,no,no,no,no,no,yes,20250930,yes,physician,75,Male,Unknown,unknown
+26105609,Eu,serious,no,no,no,no,no,yes,20251201,yes,physician,55,Female,Eosinophilia,recovering/resolving
+26105664,Eu,serious,no,yes,no,no,no,no,20251201,yes,physician,72,Female,"Drug interaction,International normalised ratio increased,Anaemia",recovered/resolved
+26106064,Eu,serious,no,no,no,no,no,yes,20251201,yes,physician,,Female,"International normalised ratio fluctuation,Drug interaction",unknown
+25486746,Eu,serious,no,no,yes,no,no,yes,20250627,yes,other health professional,,Male,"Device related infection,Osteoarthritis,Knee arthroplasty,Anaemia postoperative",unknown
+26024642,Eu,serious,no,yes,yes,no,no,yes,20251111,yes,other health professional,63,Male,"Thyrotoxic crisis,Hyperthyroidism,Cardiac dysfunction,Drug ineffective",recovered/resolved
+25889979,Eu,serious,no,no,yes,no,no,yes,20251007,yes,physician,44,Female,"Arrhythmia,Chest pain,Malaise,Palpitations,Asthenia,Electrocardiogram QT prolonged,Long QT syndrome,Syncope,Presyncope",recovering/resolving
+26115443,United Kingdom,serious,no,no,no,no,no,yes,20251203,yes,pharmacist,,Male,Aggression,not recovered/not resolved/ongoing
+26115569,United Kingdom,serious,no,no,no,no,no,yes,20251203,yes,physician,74,Female,"Swelling face,Swollen tongue",recovered/resolved
+26115696,Eu,serious,no,no,yes,no,no,yes,20251203,yes,physician,77,Female,"Gastrointestinal haemorrhage,Anaemia",recovering/resolving
+26115793,Canada,serious,no,no,yes,no,no,yes,20251203,yes,pharmacist,74,Male,"Delirium,Hallucination, visual,Abdominal pain upper,Confusional state,Fall,Somnolence",not recovered/not resolved/ongoing
+25858101,Eu,serious,no,no,no,no,no,yes,20250929,yes,other health professional,59,Male,"Myocardial ischaemia,Carotid artery occlusion,Drug ineffective",unknown
+25563974,Eu,serious,no,yes,no,no,no,yes,20250716,yes,physician,,Male,"Pancytopenia,Leukopenia,Anaemia,Thrombocytosis,Fatigue,Diarrhoea",recovering/resolving
+26116333,Canada,serious,no,no,yes,no,no,yes,20251203,yes,other health professional,,Male,"Cerebrovascular accident,Confusional state,Headache,Seizure",recovered/resolved
+24990334,Eu,serious,no,no,yes,no,no,yes,20250220,yes,physician,79,Female,"Otitis media acute,Colitis,Diarrhoea",unknown
+26119618,Eu,serious,no,no,yes,no,no,yes,20251204,yes,pharmacist,53,Male,Shock haemorrhagic,recovered/resolved
+26119634,Eu,serious,no,no,no,no,no,yes,20251204,yes,physician,93,Male,Cardiac failure,unknown
+26119660,United,serious,no,no,yes,no,no,yes,20251204,yes,other health professional,85,Female,"Atypical femur fracture,Colitis,Diarrhoea",unknown
+26119674,Eu,serious,no,no,yes,no,no,yes,20251204,yes,physician,80,Male,"Rhabdomyolysis,Urinary retention,Poisoning deliberate,Miosis",recovering/resolving
+26120650,Eu,serious,no,no,no,no,no,yes,20251204,yes,consumer or non-health professional,80,Female,Arrhythmia,recovering/resolving
+25839565,United Kingdom,serious,no,no,yes,no,no,yes,20250924,yes,physician,65,Female,"Gastrointestinal haemorrhage,Oesophageal intramural haematoma,Upper gastrointestinal haemorrhage",unknown
+26120681,United Kingdom,serious,no,no,yes,no,no,yes,20251204,yes,physician,78,Male,BRASH syndrome,recovering/resolving
+26124757,Eu,serious,no,no,yes,no,no,yes,20251205,yes,physician,65,Male,"Suicide attempt,Intentional overdose,No adverse event",unknown
+26029811,Eu,serious,no,no,yes,no,no,yes,20251112,yes,other health professional,71,Male,"Pseudocellulitis,Erysipelas,Cardiac failure,Oedema,Pyrexia,Cellulitis,Oedema peripheral,Erythema,Pain,Drug interaction,C-reactive protein increased,Tissue infiltration,Skin fibrosis",recovered/resolved
+25829019,Eu,serious,no,no,no,no,no,yes,20250922,yes,physician,,Male,"Hypotension,Wrong patient received product,Wrong drug",recovered/resolved
+26125807,Eu,serious,no,no,yes,no,no,no,20251205,yes,physician,53,Male,Mania,recovered/resolved
+26128203,United Kingdom,serious,no,no,no,yes,no,yes,20251207,yes,consumer or non-health professional,71,Female,"Arthralgia,Medication error",not recovered/not resolved/ongoing
+26128233,Canada,serious,no,no,yes,no,no,yes,20251207,yes,pharmacist,74,Female,"Febrile neutropenia,Colitis,Neutrophil count abnormal",recovered/resolved
+26129227,United Kingdom,serious,no,no,no,no,no,yes,20251208,yes,physician,73,Male,Joint swelling,recovered/resolved
+26129228,United,serious,no,no,no,no,no,yes,20251208,yes,consumer or non-health professional,,Female,"Dizziness,Coordination abnormal,Hypoaesthesia,Asthenia,Palpitations,Medication error",not recovered/not resolved/ongoing
+26129452,United Kingdom,serious,no,no,yes,no,no,yes,20251208,yes,pharmacist,88,Female,"Hypokalaemia,Hypomagnesaemia,Hypocalcaemia,Muscle spasms",recovering/resolving
+25994875,Canada,serious,no,no,no,no,no,yes,20251104,yes,physician,53,Male,"Abdominal discomfort,Alcohol poisoning,Adverse drug reaction,Arthritis,Bronchiectasis,Burns second degree,Catarrh,Cardiac murmur,COVID-19,Cerebrovascular accident,Colitis ulcerative,Condition aggravated,Confusional state,Deep vein thrombosis,Depression,Dysgeusia,Eczema,Fatigue,Frequent bowel movements,Gingival pain,Haematochezia,Headache,Hypopnoea,Impaired quality of life,Impaired work ability,Loss of personal independence in daily activities,Migraine,Nightmare,Pain,Pain in extremity,Parosmia,Palpitations,Product use in unapproved indication,Pulmonary embolism,Pyrexia,Rash,Rectal haemorrhage,Rhinitis,Somnolence,Steroid dependence,Stress,Swollen tongue,Systemic lupus erythematosus,Tinnitus,Tubulointerstitial nephritis,Vertigo,Weight decreased,Accidental overdose,Drug ineffective,Off label use,Inappropriate schedule of product administration,Intentional product use issue,Medication error",not recovered/not resolved/ongoing
+26133873,United Kingdom,serious,no,no,no,no,no,yes,20251209,yes,other health professional,36,Male,Priapism,unknown
+26134287,Eu,serious,no,no,no,no,no,yes,20251209,yes,physician,37,Female,"Pruritus,Throat tightness,Urticaria",recovered/resolved
+26134289,Eu,serious,no,no,no,no,no,yes,20251209,yes,consumer or non-health professional,68,Female,"Pneumothorax,Depersonalisation/derealisation disorder,Asthma,Depression",unknown
+26134485,Eu,serious,no,no,yes,no,no,yes,20251209,yes,physician,79,Female,Ischaemic stroke,recovered/resolved
+26134590,Eu,serious,no,no,yes,no,no,no,20251209,yes,pharmacist,87,Female,Hyponatraemia,recovering/resolving
+26134776,Eu,serious,no,no,yes,no,no,yes,20251209,yes,physician,67,Female,"Drug-induced liver injury,Accidental overdose",recovered/resolved
+26135051,United Kingdom,serious,no,no,yes,no,no,no,20251209,yes,pharmacist,88,Female,Toxicity to various agents,recovering/resolving
+26138560,Eu,serious,no,no,no,no,no,yes,20251210,yes,physician,,Male,Unknown,unknown
+26138789,Eu,serious,no,no,yes,no,no,yes,20251210,yes,physician,54,Female,"Intentional self-injury,Drug abuse",unknown
+26138825,United Kingdom,serious,no,no,yes,no,no,no,20251210,yes,pharmacist,,Unknown,Fall,recovered/resolved
+26096759,Eu,serious,no,yes,yes,no,no,yes,20251127,yes,other health professional,52,Male,Embolism,recovered/resolved
+26139427,Eu,serious,no,no,no,no,no,yes,20251210,yes,physician,31,Female,"Bradycardia,Condition aggravated",unknown
+26143609,Eu,serious,no,no,yes,no,no,yes,20251211,yes,physician,86,Male,"Acute kidney injury,Bradycardia",recovering/resolving
+26144428,Eu,serious,no,no,no,no,no,yes,20251211,yes,physician,64,Female,"Dyspnoea,Pruritus,Erythema",recovered/resolved
+26144528,Eu,serious,no,no,no,no,no,yes,20251211,yes,other health professional,66,Female,"Hallucination, visual,Delirium,Psychomotor hyperactivity",recovered/resolved
+25626868,Eu,serious,no,no,no,no,no,yes,20250731,yes,physician,77,Male,"Urinary tract infection,Therapeutic product effect increased,Glycosuria,Drug interaction",unknown
+26148598,Eu,serious,no,no,yes,no,no,no,20251212,yes,physician,61,Female,Liver disorder,recovered/resolved
+26148703,Eu,serious,no,no,no,no,no,yes,20251212,yes,physician,,Unknown,"Diabetic ketoacidosis,Type 1 diabetes mellitus,Pancreatic failure",unknown
+26148939,Eu,serious,no,no,no,no,no,yes,20251212,yes,physician,,Male,"Idiopathic pulmonary fibrosis,Liver function test abnormal,Diarrhoea,Weight decreased,Photosensitivity reaction",unknown
+26149269,Eu,serious,no,no,yes,no,no,yes,20251212,yes,pharmacist,61,Male,"Poisoning deliberate,Sopor,Bradycardia,Vomiting,Toxicity to various agents",recovering/resolving
+26152300,United Kingdom,serious,no,no,yes,no,no,yes,20251214,yes,pharmacist,81,Female,Hypokalaemia,not recovered/not resolved/ongoing
+26152417,United Kingdom,serious,no,no,no,no,no,yes,20251214,yes,pharmacist,54,Female,"Arthralgia,Joint swelling,Myalgia",unknown
+26153118,United Kingdom,serious,yes,yes,no,no,no,yes,20251214,yes,pharmacist,61,Male,Death,fatal
+26153496,Canada,serious,no,no,yes,no,no,no,20251214,yes,other health professional,85,Female,"Freezing phenomenon,Movement disorder,Muscle rigidity",recovered/resolved
+26154927,Eu,serious,no,no,no,no,no,yes,20251215,yes,consumer or non-health professional,60,Male,Epilepsy,recovered/resolved
+26038706,Eu,serious,no,no,yes,no,no,yes,20251113,yes,other health professional,83,Male,"Loss of consciousness,Toxicity to various agents,Hallucination,Urinary tract infection,Loss of personal independence in daily activities,Disorientation",recovered/resolved
+26159073,United Kingdom,serious,no,no,no,yes,no,yes,20251216,yes,consumer or non-health professional,78,Male,Abnormal weight gain,not recovered/not resolved/ongoing
+26160330,Eu,serious,no,no,yes,no,no,yes,20251216,yes,physician,90,Female,"Thrombocytopenia,Anaemia,Mucosal inflammation",recovered/resolved
+26160801,Eu,serious,no,no,yes,no,no,yes,20251216,yes,physician,67,Female,Cholestasis,recovered/resolved
+26160824,United Kingdom,serious,no,no,no,no,no,yes,20251216,yes,other health professional,83,Male,"Skin exfoliation,Pruritus",recovering/resolving
+26086713,Eu,serious,no,no,no,no,no,yes,20251125,yes,physician,,Male,"Philadelphia chromosome positive,Aspartate aminotransferase increased,Hypertriglyceridaemia,Headache,Abdominal pain upper,Blood creatine phosphokinase increased,Alanine aminotransferase increased,Drug ineffective",recovered/resolved
+26166592,Eu,serious,no,no,yes,no,no,yes,20251217,yes,pharmacist,93,Female,"Fall,Orthostatic hypotension,Chest injury,Musculoskeletal chest pain",recovering/resolving
+26168076,Eu,serious,yes,no,yes,no,no,yes,20251217,yes,physician,64,Male,Pneumonia,fatal
+26091944,Eu,serious,no,yes,yes,no,no,yes,20251126,yes,physician,62,Female,"Pancytopenia,Mucosal inflammation,Skin exfoliation,Alopecia,Medication error",recovered/resolved
+26168521,Eu,serious,no,yes,no,no,no,yes,20251217,yes,pharmacist,62,Female,"Retroperitoneal haematoma,Shock haemorrhagic",recovering/resolving
+26168629,Eu,serious,no,no,yes,no,no,yes,20251217,yes,physician,73,Female,Interstitial lung disease,recovered/resolved
+26168760,Eu,serious,no,no,yes,no,no,yes,20251217,yes,pharmacist,75,Male,Jaundice cholestatic,recovering/resolving
+26172584,China,serious,no,no,yes,no,no,no,20251218,yes,physician,56,Male,"Drug level decreased,False positive investigation result,Therapeutic product effect decreased,Drug interaction,Hypertension",recovered/resolved
+26172911,United Kingdom,serious,no,no,no,no,no,yes,20251218,yes,consumer or non-health professional,74,Female,Nightmare,not recovered/not resolved/ongoing
+26172919,United Kingdom,serious,no,no,no,no,no,yes,20251218,yes,consumer or non-health professional,53,Female,"Atrial fibrillation,Drug ineffective",unknown
+26173526,United,serious,no,no,no,no,no,yes,20251218,yes,pharmacist,60,Male,Erectile dysfunction,recovered/resolved
+26174489,Eu,serious,no,yes,no,no,no,yes,20251218,yes,physician,83,Male,"Pericardial haemorrhage,Drug interaction",recovered/resolved
+26178177,Eu,serious,no,no,no,no,no,yes,20251219,yes,pharmacist,84,Male,"Confusional state,Hallucination,Somnolence",recovered/resolved
+26178704,Eu,serious,no,no,no,no,no,yes,20251219,yes,physician,59,Female,Idiopathic interstitial pneumonia,recovering/resolving
+26179438,Eu,serious,no,no,yes,no,no,no,20251219,yes,physician,70,Female,"Erythema,Palmar erythema",unknown
+26179555,Eu,serious,no,yes,yes,no,no,yes,20251219,yes,physician,73,Female,"Acute kidney injury,Urinary tract infection,Dysstasia,General physical health deterioration",not recovered/not resolved/ongoing
+25884461,Eu,serious,no,no,no,no,no,yes,20251006,yes,other health professional,24,Male,Euglycaemic diabetic ketoacidosis,recovered/resolved
+26179782,Eu,serious,no,no,no,yes,no,no,20251219,yes,pharmacist,74,Female,Neuralgia,recovered/resolved
+26180072,Eu,serious,no,no,no,no,no,yes,20251219,yes,other health professional,77,Male,"Atrial fibrillation,Pneumothorax,Cardiac disorder,Dyspnoea exertional,Increased upper airway secretion,Dysphonia,Cough,Secretion discharge,Chest discomfort,Obstructive airways disorder,Fractional exhaled nitric oxide increased,Dyspnoea,Nasopharyngitis,Eosinophilia,Exostosis,Coronary artery disease,Plantar fasciitis,Obstructive sleep apnoea syndrome,Bronchospasm,Myoglobin blood increased,Sensation of foreign body,Muscle spasms,Brain natriuretic peptide increased,Wheezing",recovered/resolved
+26183187,Eu,serious,no,no,no,no,no,yes,20251221,yes,pharmacist,,Female,"Hypotension,Medication error",recovered/resolved
+26183191,Eu,serious,no,no,no,no,no,yes,20251221,yes,physician,54,Male,Muscle spasms,recovering/resolving
+25917511,United Kingdom,serious,yes,no,yes,no,no,yes,20251014,yes,physician,,Male,"Immune-mediated encephalitis,Antiphospholipid syndrome,Immune thrombocytopenia",fatal
+26183404,Eu,serious,no,no,no,no,no,yes,20251221,yes,physician,63,Male,Acute kidney injury,recovered/resolved
+25459553,Eu,serious,no,no,yes,no,no,yes,20250620,yes,physician,64,Female,Pneumonitis,not recovered/not resolved/ongoing
+26193595,Canada,serious,no,no,yes,no,no,yes,20251224,yes,other health professional,82,Female,"Acute kidney injury,Clostridium test positive,Colitis,Generalised oedema,Sepsis",recovered/resolved
+26196758,Eu,serious,yes,no,no,no,no,yes,20251224,yes,physician,70,Male,"Arrhythmic storm,Rebound effect",fatal
+26196949,Eu,serious,no,no,yes,no,no,no,20251224,yes,physician,87,Male,"Haemorrhage,Anaemia",recovered/resolved
+26198785,Eu,serious,yes,no,no,no,no,yes,20251225,yes,other health professional,,Male,Cardiac arrest,fatal
+26198835,Eu,serious,no,no,no,no,no,yes,20251225,yes,physician,61,Female,"Blood pressure increased,Drug interaction,Malaise,Toxicity to various agents,Nasopharyngitis,Headache,Hyperhidrosis,Vomiting,Dizziness",unknown
+26198856,Eu,serious,no,no,no,no,no,yes,20251225,yes,physician,67,Male,"Hyponatraemia,Inappropriate antidiuretic hormone secretion",recovered/resolved
+26198861,Eu,serious,no,no,yes,no,no,yes,20251225,yes,physician,76,Male,Renal failure,not recovered/not resolved/ongoing
+26199166,Eu,serious,no,no,yes,no,no,yes,20251225,yes,physician,87,Male,Hypokalaemia,recovered/resolved
+26199224,United Kingdom,serious,no,no,yes,no,no,yes,20251225,yes,consumer or non-health professional,,Male,"Gastritis,Crohn^s disease,Syncope,Dizziness",unknown
+25040902,Eu,serious,no,no,yes,no,no,yes,20250305,yes,physician,44,Male,"Asthmatic crisis,Asthma,Condition aggravated,Blood pressure inadequately controlled",recovered/resolved
+26201254,Canada,serious,no,no,yes,no,no,yes,20251226,yes,other health professional,80,Female,Atypical femur fracture,recovered/resolved
+26201786,Eu,serious,no,no,no,no,no,yes,20251226,yes,physician,56,Female,"Periorbital swelling,Swelling face,Pruritus,Hypoaesthesia oral",recovered/resolved
+26202851,Eu,serious,no,no,yes,no,no,yes,20251226,yes,pharmacist,63,Male,Pancytopenia,recovered/resolved
+26202882,United Kingdom,serious,no,no,yes,no,no,yes,20251226,yes,other health professional,,Male,"Rectal haemorrhage,Medication error",recovering/resolving
+26203219,Eu,serious,no,yes,no,no,no,yes,20251226,yes,physician,74,Male,"Shock haemorrhagic,Septic shock,Duodenal ulcer,Colitis,Acute kidney injury",recovered/resolved
+26203300,Canada,serious,no,no,yes,no,no,no,20251226,yes,pharmacist,81,Female,"Blood test abnormal,Confusional state,Dizziness",unknown
+24944728,Canada,serious,no,no,no,no,no,yes,20250208,yes,consumer or non-health professional,,Unknown,"Blindness transient,Epistaxis,Drug effective for unapproved indication,Off label use",recovered/resolved
+25937530,Eu,serious,no,no,no,no,no,yes,20251018,yes,other health professional,,Female,"Liver function test increased,Hepatic enzyme increased,Gamma-glutamyltransferase increased,Aspartate aminotransferase increased,Alanine aminotransferase increased,Blood alkaline phosphatase increased",recovered/resolved
+26116128,Eu,serious,no,no,yes,no,no,yes,20251203,yes,physician,60,Female,"Pneumonia,Aortic thrombosis,Supraventricular tachycardia",unknown
+25985644,Canada,serious,no,no,yes,no,no,yes,20251101,yes,other health professional,55,Female,"Anaphylactic reaction,Cataract,Colitis ulcerative,Intervertebral disc protrusion,Multiple allergies,Drug ineffective,Off label use",recovering/resolving
+25985696,United Kingdom,serious,no,no,no,no,no,yes,20251101,yes,physician,61,Female,Tachycardia,unknown
+25986361,United Kingdom,serious,no,no,yes,no,no,yes,20251101,yes,pharmacist,84,Male,"Kidney infection,Lactic acidosis",unknown
+25986750,Ua,serious,no,no,no,no,no,yes,20251101,yes,other health professional,,Male,Off label use,unknown
+25988676,Eu,serious,no,no,no,no,no,yes,20251103,yes,physician,50,Male,"Dermatitis acneiform,Neutropenia",recovered/resolved
+25988690,United Kingdom,serious,no,yes,no,no,no,yes,20251103,yes,pharmacist,,Male,Fournier^s gangrene,recovered/resolved
+25994857,Canada,serious,no,no,no,yes,no,no,20251104,yes,physician,70,Male,"Activated partial thromboplastin time prolonged,Drug interaction,Treatment delayed",unknown
+25995167,Canada,serious,no,no,yes,no,no,yes,20251104,yes,consumer or non-health professional,77,Male,"Blood potassium increased,Blood electrolytes increased,Cardiovascular function test abnormal,Cerebrovascular accident,Drug effect less than expected,Fatigue",unknown
+25995338,United Kingdom,serious,no,no,yes,no,no,yes,20251104,yes,other health professional,,Male,Muscle rupture,not recovered/not resolved/ongoing
+25995402,Canada,serious,no,no,no,no,no,yes,20251104,yes,other health professional,80,Female,"Blood pressure diastolic decreased,Blood pressure fluctuation,Blood pressure systolic decreased,Constipation,Dizziness,Dyspepsia,Dyspnoea,Feeling abnormal,Food refusal,Haemorrhage,Heart rate decreased,Hypotension,Illness,Joint swelling,Limb injury,Malaise,Nausea,Oxygen saturation abnormal,Peripheral swelling,Pollakiuria,Productive cough,Vomiting,Weight decreased",not recovered/not resolved/ongoing
+25997993,Eu,serious,no,no,yes,yes,no,yes,20251105,yes,physician,73,Male,Chronic kidney disease,recovered/resolved
+25998241,Canada,serious,yes,no,yes,no,no,no,20251105,yes,other health professional,76,Female,"Angiodysplasia,Gastrointestinal haemorrhage",fatal
+25998516,Canada,serious,yes,no,yes,no,no,yes,20251105,yes,pharmacist,95,Male,"Upper gastrointestinal haemorrhage,Gastric haemorrhage",fatal
+25999126,Canada,serious,no,no,no,no,no,yes,20251105,yes,other health professional,51,Female,"Eczema,Haemorrhage,Nephrolithiasis,Psoriasis,Weight increased,Off label use",unknown
+25999164,Eu,serious,no,no,no,no,no,yes,20251105,yes,physician,68,Female,Hypothyroidism,recovering/resolving
+25999218,Canada,serious,no,no,no,no,no,yes,20251105,yes,other health professional,57,Female,"Anxiety,Arthritis,Circadian rhythm sleep disorder,Drug hypersensitivity,Dry throat,Fatigue,Flushing,Headache,Feeling cold,Joint swelling,Pruritus,Somnolence,Symptom recurrence,Urticaria,Product use issue,Inappropriate schedule of product administration,Off label use,Therapeutic response delayed,Wrong technique in product usage process",recovered/resolved
+25999687,Canada,serious,no,no,yes,no,no,yes,20251105,yes,other health professional,90,Female,"Hypokalaemia,Acute kidney injury,Clostridium difficile colitis",recovered/resolved
+25999864,Canada,serious,no,no,yes,no,no,yes,20251105,yes,other health professional,90,Male,"Clostridium difficile colitis,Sepsis",recovered/resolved
+26002837,Canada,serious,no,no,yes,no,no,yes,20251106,yes,pharmacist,74,Male,"Clostridium difficile infection,Clostridium test positive",unknown
+26003429,United Kingdom,serious,no,no,no,no,no,yes,20251106,yes,consumer or non-health professional,66,Male,"Medication error,Pain",unknown
+26003435,Eu,serious,no,yes,no,no,no,yes,20251106,yes,pharmacist,84,Female,Pneumonia aspiration,recovering/resolving
+26006197,Canada,serious,no,no,yes,yes,yes,yes,20251106,yes,other health professional,63,Female,"Vomiting,Abdominal pain,Adverse event,Alanine aminotransferase increased,Alopecia,Arthralgia,Arthritis,Arthropathy,Aspartate aminotransferase increased,Basal cell carcinoma,Blood parathyroid hormone decreased,Breath sounds abnormal,C-reactive protein increased,Condition aggravated,Deafness,Drug eruption,Drug hypersensitivity,Erythema,Fatigue,Granuloma skin,Headache,Hepatic enzyme increased,Hepatitis,Hypercalcaemia,Hypersensitivity,Hypertension,Inflammation,Infusion related reaction,Insomnia,Joint swelling,Musculoskeletal stiffness,Nausea,Pain,Panniculitis,Peripheral swelling,Pneumonia,Pruritus,Pulmonary fibrosis,Rash,Rash pruritic,Red blood cell sedimentation rate increased,Rheumatoid arthritis,Rheumatoid nodule,Skin necrosis,Skin ulcer,Ulcer,Synovitis,Loss of personal independence in daily activities,Drug intolerance,Drug tolerance decreased,Therapeutic product effect decreased,Product use issue,Prescribed underdose,Therapeutic product effect incomplete,Therapeutic response decreased,Treatment failure,Product use in unapproved indication,Contraindicated product administered,Drug ineffective,Off label use",not recovered/not resolved/ongoing
+26006245,Eu,serious,no,no,no,no,no,yes,20251106,yes,pharmacist,91,Male,"Malaise,Loss of consciousness,Hypotension,Somnolence,Bradycardia,Hyperkalaemia,Accidental poisoning,Wrong patient",recovered/resolved
+26013968,Eu,serious,no,no,no,no,no,yes,20251108,yes,pharmacist,53,Female,"Arrhythmia,Bradycardia",recovering/resolving
+26013967,Eu,serious,no,no,yes,no,no,yes,20251108,yes,other health professional,70,Male,Pancreatitis acute,recovering/resolving
+26016360,Canada,serious,no,no,no,no,no,yes,20251110,yes,physician,70,Female,"Blood pressure inadequately controlled,Headache,Concomitant disease aggravated,Migraine,Product substitution issue",recovered/resolved
+26019451,Eu,serious,no,no,yes,no,no,yes,20251110,yes,physician,33,Female,"Maternal exposure during pregnancy,Abortion spontaneous",recovered/resolved
+25904938,Eu,serious,yes,no,no,no,no,yes,20251010,yes,physician,73,Female,Febrile bone marrow aplasia,fatal
+25979414,Eu,serious,yes,yes,yes,no,no,yes,20251030,yes,physician,74,Female,"Death,Acute myocardial infarction,Breast cancer,Malignant neoplasm progression,Cardiogenic shock,Atrioventricular block complete",fatal
+25924279,Eu,serious,no,no,no,no,no,yes,20251015,yes,physician,66,Male,Renal failure,recovering/resolving
+26029134,United Kingdom,serious,no,no,no,no,no,yes,20251112,yes,physician,70,Female,"Myalgia,Muscular weakness",recovered/resolved
+26030772,United Kingdom,serious,no,no,no,no,no,yes,20251112,yes,physician,73,Female,Eczema,recovered/resolved
+26030778,United Kingdom,serious,no,no,no,no,no,yes,20251112,yes,other health professional,91,Female,"Glaucoma,Tachycardia,Hypertension,Fall,Skin laceration,Blood pressure increased,Weight decreased,Skin discolouration,Pain in extremity,Skin fragility,Oedema peripheral,Condition aggravated,Contusion,Erythema,Malaise,Peripheral swelling,Therapy interrupted",unknown
+26031817,United Kingdom,serious,no,no,yes,no,no,yes,20251112,yes,pharmacist,64,Male,"Jaundice,Hepatitis",recovered/resolved
+25972607,Eu,serious,yes,yes,yes,no,no,yes,20251029,yes,physician,76,Male,"Respiratory failure,Interstitial lung disease",fatal
+26032679,United Kingdom,serious,no,no,no,yes,no,yes,20251112,yes,pharmacist,89,Male,"Hypotension,Loss of consciousness,Circulatory collapse,Medication error",recovered/resolved
+26032731,Eu,serious,no,yes,yes,yes,no,yes,20251112,yes,physician,68,Female,"Atrial fibrillation,Febrile neutropenia,Pancreatic atrophy,Renal failure,Large intestine infection,Tachycardia,Escherichia urinary tract infection,Urinary tract infection bacterial,Weight decreased",recovered/resolved
+26032735,Eu,serious,no,no,yes,no,no,no,20251112,yes,pharmacist,83,Female,Hyponatraemia,recovering/resolving
+25817526,Eu,serious,yes,yes,yes,no,no,yes,20250918,yes,physician,74,Female,"Respiratory failure,Hypercapnia,Chronic inflammatory demyelinating polyradiculoneuropathy,Infection,Pneumonia aspiration,Somnolence,Epilepsy,Malaise,Fall,Delirium,Neurological decompensation,Drug ineffective,Encephalopathy",fatal
+26034345,Eu,serious,no,no,yes,no,no,yes,20251112,yes,physician,28,Male,Atrioventricular block complete,recovered/resolved
+26017794,Eu,serious,no,no,no,no,no,yes,20251110,yes,physician,83,Male,International normalised ratio increased,recovering/resolving
+26039356,Eu,serious,no,no,yes,no,no,yes,20251113,yes,other health professional,95,Male,"Cholestasis,Hepatic cytolysis,Accidental overdose,Wrong schedule",not recovered/not resolved/ongoing
+26044504,United Kingdom,serious,yes,no,no,no,no,yes,20251114,yes,pharmacist,,Female,Thrombocytopenia,fatal
+26048949,United Kingdom,serious,no,no,no,no,no,yes,20251115,yes,pharmacist,54,Female,"Arthralgia,Joint swelling,Myalgia",unknown
+26048967,Eu,serious,no,no,yes,no,no,yes,20251115,yes,physician,75,Male,"Cardiac failure,Chronic obstructive pulmonary disease,Atrial fibrillation,Oedema peripheral,Visual acuity reduced",unknown
+25327402,Eu,serious,no,no,yes,yes,no,yes,20250517,yes,physician,86,Female,"Craniofacial fracture,Inappropriate antidiuretic hormone secretion,Fall,Medication error,Contusion,Mobility decreased,Renal impairment,Immobile,Hyponatraemia,Lethargy,Blood pressure decreased,Dizziness,Constipation,Fatigue,Dysphagia,Prescribed overdose,Fear of falling,Incorrect dose administered",recovered/resolved
+26058398,Eu,serious,no,no,no,no,no,yes,20251118,yes,consumer or non-health professional,,Female,"Renal impairment,Fatigue,Constipation,Cough,Diarrhoea,Dry mouth,Influenza like illness,Nightmare,Hypoaesthesia,Rhinorrhoea,Myalgia,Arthralgia,Sleep disorder,Peripheral swelling,Visual impairment,Asthenia",not recovered/not resolved/ongoing
+25454690,Eu,serious,no,no,no,no,yes,yes,20250619,yes,physician,,Unknown,"Cleft palate,Atrial septal defect,Cardiac hypertrophy,Large for dates baby,Foetal exposure during pregnancy,Hypertrophic cardiomyopathy,Cardiac septal hypertrophy",unknown
+26059255,Eu,serious,no,no,yes,no,no,yes,20251118,yes,physician,73,Female,Pemphigoid,recovering/resolving
+26061711,Eu,serious,yes,yes,no,no,no,yes,20251118,yes,physician,67,Male,"Pneumocystis jirovecii pneumonia,Secondary immunodeficiency",fatal
+26061723,Canada,serious,no,no,no,no,no,yes,20251118,yes,pharmacist,70,Female,"Anxiety,Depression,Polyuria",recovered/resolved
+25999849,Canada,serious,no,no,yes,no,no,yes,20251105,yes,other health professional,41,Female,"Clostridium difficile colitis,Sepsis",recovering/resolving
+25565299,Eu,serious,no,no,yes,no,no,yes,20250716,yes,physician,73,Male,"Sepsis,Pancytopenia,Immune reconstitution inflammatory syndrome,Paradoxical drug reaction,Drug withdrawal syndrome,Mycobacterial infection,Cytopenia",recovering/resolving
+26068196,United Kingdom,serious,no,yes,yes,yes,no,yes,20251120,yes,consumer or non-health professional,,Male,"Drug hypersensitivity,Contraindicated product prescribed,Product prescribing issue,Seizure,Epistaxis,Aggression,Headache,Allergic reaction to excipient",not recovered/not resolved/ongoing
+26068890,Eu,serious,no,no,yes,no,no,yes,20251120,yes,pharmacist,68,Male,Cerebellar syndrome,recovered/resolved
+26068904,Canada,serious,no,no,no,no,no,yes,20251120,yes,physician,84,Female,"Vomiting,Abdominal distension,Arthralgia,Calcium deficiency,Cognitive disorder,Constipation,Decreased appetite,Depressed mood,Dizziness,Dry mouth,Eye pruritus,Fall,Fatigue,Gait disturbance,General physical health deterioration,Head injury,Hypotension,Insomnia,Lacrimation decreased,Loss of personal independence in daily activities,Nausea,Parkinson^s disease,Psychiatric symptom,Vitamin B12 deficiency",unknown
+26068967,Canada,serious,no,no,no,no,no,yes,20251120,yes,other health professional,72,Male,"Blood cholesterol increased,Blood pressure increased,Chordae tendinae rupture,Diarrhoea,Hypotension,Mitral valve incompetence",recovering/resolving
+26069696,Eu,serious,no,no,no,no,no,yes,20251120,yes,physician,67,Male,Hypokalaemia,recovering/resolving
+26073225,United Kingdom,serious,no,no,no,yes,no,yes,20251121,yes,other health professional,88,Male,"Paranoia,Emotional distress,Delusion,Aggression",recovered/resolved
+26073757,United Kingdom,serious,no,no,no,no,no,yes,20251121,yes,consumer or non-health professional,82,Male,"Atrial flutter,Hallucination,Memory impairment,Depression,Anal incontinence,Blood triglycerides increased",unknown
+26073988,Eu,serious,no,no,no,no,no,yes,20251121,yes,physician,89,Female,Cholestasis,recovering/resolving
+26078483,Canada,serious,no,no,yes,no,no,yes,20251123,yes,physician,91,Female,"Abdominal discomfort,Asthenia,Cholecystitis,Dizziness,Dyspnoea,Laryngitis",recovered/resolved
+26034227,Eu,serious,no,no,yes,no,no,no,20251112,yes,physician,67,Male,"Chest pain,Tachycardia,Off label use",recovered/resolved
+26086717,Canada,serious,no,no,yes,no,no,yes,20251125,yes,pharmacist,64,Male,"Abdominal pain,Abdominal wall haematoma,Haemoglobin decreased,Retroperitoneal haemorrhage",recovering/resolving
+26086924,Canada,serious,no,no,yes,no,no,yes,20251125,yes,other health professional,93,Male,"Gastric ulcer,Upper gastrointestinal haemorrhage,Transfusion",recovered/resolved
+26090652,Eu,serious,no,no,no,no,no,yes,20251126,yes,pharmacist,80,Female,"Bradycardia,Wrong product administered,Product prescribing error",unknown
+26090986,United,serious,no,no,no,no,no,yes,20251126,yes,other health professional,41,Female,Ectopic pregnancy,unknown
+26091135,Eu,serious,no,yes,no,no,no,yes,20251126,yes,physician,58,Male,"Acute kidney injury,Hypotension",recovered/resolved
+26091142,Eu,serious,no,no,yes,no,no,no,20251126,yes,pharmacist,93,Female,"Fall,Orthostatic hypotension",recovering/resolving
+25967612,Canada,serious,no,no,no,no,no,yes,20251028,yes,consumer or non-health professional,82,Female,"Frequent bowel movements,Abdominal tenderness,Dizziness,Crohn^s disease",recovered/resolved
+26091803,Eu,serious,no,no,no,no,no,yes,20251126,yes,physician,,Unknown,"Hyperkalaemia,Off label use",unknown
+25937867,Eu,serious,no,no,yes,no,no,yes,20251018,yes,physician,63,Male,"General physical health deterioration,Dyspnoea,Swelling,Drug ineffective,Treatment failure,Laboratory test abnormal,Clostridium difficile infection,Pain,Inflammatory marker increased,Oedema,Condition aggravated,Serratia infection,Clostridium difficile colitis,Anaemia,Hypervolaemia,Nephrotic syndrome,Oedema peripheral,Pleural effusion,Respiratory failure",unknown
+26095046,Eu,serious,no,no,yes,no,no,yes,20251127,yes,physician,85,Female,"Pneumonia,Pleuritic pain,Bronchitis",recovered/resolved
+26095769,United Kingdom,serious,no,no,no,no,no,yes,20251127,yes,other health professional,62,Female,"Oral mucosal blistering,Burning sensation,Swelling",recovered/resolved
+26097095,Eu,serious,no,no,no,no,no,yes,20251127,yes,consumer or non-health professional,89,Female,"Neuropathy peripheral,Cellulitis",not recovered/not resolved/ongoing
+26099986,Eu,serious,no,no,no,no,no,yes,20251128,yes,other health professional,42,Male,Therapy non-responder,unknown
+26100980,United Kingdom,serious,no,no,no,no,no,yes,20251128,yes,consumer or non-health professional,60,Male,Muscle fatigue,recovering/resolving
+25595958,Eu,serious,no,no,no,no,no,yes,20250723,yes,physician,,Female,Hepatotoxicity,recovering/resolving
+26103693,Eu,serious,no,no,no,no,no,yes,20251129,yes,physician,82,Female,"Fistula,Osteonecrosis of jaw",not recovered/not resolved/ongoing
+25867406,United Kingdom,serious,no,no,no,no,no,yes,20251001,yes,other health professional,63,Female,"Pruritus,Rash",unknown
+25868162,United Kingdom,serious,no,no,yes,no,no,yes,20251001,yes,pharmacist,83,Male,Acute kidney injury,recovered/resolved
+25872465,Canada,serious,no,no,yes,no,no,yes,20251002,yes,other health professional,61,Female,"Wheezing,Aphonia,Arthralgia,Body temperature decreased,Cough,Drug hypersensitivity,Ear infection,Hypoventilation,Limb discomfort,Middle ear effusion,Nasopharyngitis,Pneumonia,Productive cough,Rash,Sinusitis,Tendonitis,Tissue injury,Weight decreased,Road traffic accident,Off label use,Accident,Product use issue,Wrong technique in product usage process",recovered/resolved
+25872501,Eu,serious,no,no,yes,no,no,yes,20251002,yes,physician,92,Male,"Toxic encephalopathy,Accidental overdose",recovered/resolved
+25872586,Eu,serious,no,yes,no,no,no,yes,20251002,yes,physician,64,Female,Pancreatitis necrotising,recovering/resolving
+25872668,Eu,serious,no,no,no,no,no,yes,20251002,yes,physician,42,Male,Conjunctival irritation,recovered/resolved
+25875603,Eu,serious,no,no,yes,no,no,yes,20251003,yes,physician,50,Male,"Thrombosis mesenteric vessel,Product communication issue,Product administration error",recovered/resolved
+25877069,Eu,serious,no,no,yes,no,no,no,20251003,yes,physician,81,Female,"Hypotension,Ulcer haemorrhage",recovering/resolving
+25404945,Eu,serious,no,yes,no,no,no,yes,20250606,yes,other health professional,57,Female,"Cardiogenic shock,Poisoning,Overdose",unknown
+25880211,United Kingdom,serious,no,no,no,no,no,yes,20251004,yes,other health professional,54,Female,"Behaviour disorder,Irritability,Anger,Impatience,Tearfulness,Apathy,Social avoidant behaviour",recovered/resolved
+25880636,United Kingdom,serious,no,no,no,no,no,yes,20251004,yes,consumer or non-health professional,68,Female,Migraine with aura,not recovered/not resolved/ongoing
+25753756,Eu,serious,no,no,yes,no,no,yes,20250903,yes,other health professional,70,Female,"Multiple drug therapy,Acute kidney injury,Hyperkalaemia,Renal impairment",recovering/resolving
+25883655,Eu,serious,no,no,no,no,no,yes,20251006,yes,physician,2,Female,"Foetal growth restriction,Premature baby,Maternal exposure during pregnancy",recovered/resolved
+25883849,United Kingdom,serious,no,no,no,no,no,yes,20251006,yes,consumer or non-health professional,41,Female,Diarrhoea haemorrhagic,not recovered/not resolved/ongoing
+25883946,Eu,serious,no,no,yes,no,no,yes,20251006,yes,pharmacist,57,Male,"Hepatitis cholestatic,Hyperbilirubinaemia",recovered/resolved
+25884142,Eu,serious,no,no,yes,no,no,no,20251006,yes,physician,90,Female,"Presyncope,Hypotension,Bradycardia",unknown
+25884306,United Kingdom,serious,no,no,no,no,no,yes,20251006,yes,pharmacist,64,Female,Haematuria,unknown
+25888115,United Kingdom,serious,no,no,no,no,no,yes,20251007,yes,pharmacist,76,Male,Aggression,recovered/resolved
+25888753,Eu,serious,no,no,yes,no,no,yes,20251007,yes,pharmacist,84,Male,Pancytopenia,recovered/resolved
+25888756,Eu,serious,no,yes,no,no,no,yes,20251007,yes,pharmacist,68,Female,"Rhabdomyolysis,Lung disorder",recovered/resolved
+25889670,United Kingdom,serious,no,no,yes,no,no,yes,20251007,yes,pharmacist,,Female,"Medication error,Toxicity to various agents",unknown
+25889823,Eu,serious,no,no,no,no,no,yes,20251007,yes,physician,79,Male,Treatment failure,unknown
+25890142,United Kingdom,serious,no,no,no,no,no,yes,20251007,yes,pharmacist,,Male,"Renal haemorrhage,Rectal haemorrhage,Epistaxis,Medication error",recovering/resolving
+25893210,Eu,serious,no,no,yes,no,no,no,20251008,yes,physician,93,Female,Atrioventricular block,unknown
+25893794,United Kingdom,serious,no,no,no,no,no,yes,20251008,yes,consumer or non-health professional,56,Female,"Nausea,Atrial fibrillation,Pain,Medication error",not recovered/not resolved/ongoing
+25895271,Eu,serious,no,no,no,no,no,yes,20251008,yes,other health professional,59,Male,Pneumonitis,recovered/resolved
+25532382,Eu,serious,no,no,yes,no,no,yes,20250709,yes,physician,75,Female,"Calciphylaxis,Pain of skin,Skin lesion,Skin ulcer,Skin necrosis,Erythema,Cutaneous calcification,Renal impairment,Superinfection bacterial,Sepsis,Off label use",recovered/resolved
+24969537,Eu,serious,no,yes,yes,no,no,yes,20250214,yes,physician,70,Female,"Atrioventricular block complete,Atrioventricular block second degree,Supraventricular extrasystoles,Bradycardia,Bradyarrhythmia,Left ventricular end-diastolic pressure increased,Diastolic dysfunction,Atrioventricular block,Asthenia,Dizziness,Oedema peripheral",recovered/resolved
+25899124,Eu,serious,no,no,no,no,no,yes,20251009,yes,other health professional,70,Male,Therapeutic product effect incomplete,unknown
+25899198,Eu,serious,no,no,no,no,no,yes,20251009,yes,physician,72,Male,"Hallucination,Dopamine supersensitivity psychosis,Intestinal obstruction,Infusion site infection,Cognitive disorder,Paradoxical drug reaction,Neurogenic bowel,Aggression,Disorientation,On and off phenomenon,Parkinsonism,Anxiety,Restlessness,Tremor,Executive dysfunction,Mental disorder,Constipation",recovered/resolved
+24806776,Eu,serious,no,no,no,no,no,yes,20250104,yes,physician,86,Female,"Sinus bradycardia,Drug ineffective",unknown
+25903938,United Kingdom,serious,no,no,no,yes,no,yes,20251010,yes,consumer or non-health professional,73,Female,"Blood glucose decreased,Dizziness,Dyspepsia,Abdominal pain",not recovered/not resolved/ongoing
+25905431,Eu,serious,no,no,yes,no,no,no,20251010,yes,physician,54,Male,"Toxicity to various agents,Bradycardia,Atrioventricular block second degree",recovered/resolved
+25905773,Eu,serious,yes,no,no,no,no,yes,20251010,yes,physician,61,Male,"Acute kidney injury,Hypovolaemic shock",fatal
+25905855,Eu,serious,yes,no,yes,no,no,yes,20251010,yes,physician,84,Female,Cerebellar haemorrhage,fatal
+25912915,United Kingdom,serious,no,no,no,no,no,yes,20251013,yes,consumer or non-health professional,60,Female,Plantar fasciitis,recovered/resolved
+25913053,Eu,serious,no,no,yes,no,no,no,20251013,yes,physician,86,Female,Dyspnoea,unknown
+25900475,United Kingdom,serious,no,no,yes,no,no,no,20251009,yes,pharmacist,84,Male,"Mood altered,Depressed mood",recovered/resolved
+25916674,United Kingdom,serious,no,no,no,no,no,yes,20251014,yes,physician,82,Female,Gastrooesophageal reflux disease,not recovered/not resolved/ongoing
+25917764,Eu,serious,no,no,yes,no,no,no,20251014,yes,pharmacist,79,Female,"Anaemia,Drug interaction",recovered/resolved
+25918547,Eu,serious,no,no,no,no,no,yes,20251014,yes,physician,66,Male,Cutaneous vasculitis,recovering/resolving
+25918660,Eu,serious,no,no,yes,no,no,yes,20251014,yes,pharmacist,75,Female,Cholestasis,recovering/resolving
+25922795,Eu,serious,no,no,no,no,no,yes,20251015,yes,physician,58,Female,Neuropathy peripheral,not recovered/not resolved/ongoing
+25922962,Eu,serious,no,no,no,no,no,yes,20251015,yes,pharmacist,71,Female,Cholestasis,recovering/resolving
+25923080,Eu,serious,no,no,yes,no,no,no,20251015,yes,physician,78,Female,"Dizziness,Vitamin B12 deficiency,Diabetes mellitus inadequate control,Acute kidney injury",recovered/resolved
+25923212,Eu,serious,no,no,no,no,no,yes,20251015,yes,physician,84,Female,"Drug abuse,Presyncope",unknown
+25923395,Eu,serious,no,no,yes,no,no,yes,20251015,yes,physician,89,Female,"Acute kidney injury,Hypokalaemia",recovering/resolving
+25927859,Eu,serious,no,yes,no,no,no,yes,20251016,yes,pharmacist,93,Male,"Toxic encephalopathy,Generalised tonic-clonic seizure,Myoclonic epilepsy",recovered/resolved
+25899203,Eu,serious,no,no,yes,no,no,yes,20251009,yes,pharmacist,67,Male,"Rhabdomyolysis,Hepatic cytolysis,Drug interaction",recovering/resolving
+25929827,United Kingdom,serious,no,no,yes,no,no,yes,20251016,yes,other health professional,91,Male,"Haematemesis,Haematochezia,Medication error",recovering/resolving
+25933055,Eu,serious,yes,no,no,no,no,no,20251017,yes,physician,80,Female,"Disease progression,Hyponatraemia",fatal
+25933899,United Kingdom,serious,no,no,no,no,no,yes,20251017,yes,consumer or non-health professional,74,Male,Nightmare,not recovered/not resolved/ongoing
+25934171,Eu,serious,no,no,yes,no,no,yes,20251017,yes,physician,80,Male,Subdural haematoma,recovered/resolved
+25934202,United Kingdom,serious,no,yes,no,no,no,yes,20251017,yes,physician,,Unknown,Suicidal ideation,recovered/resolved
+25740041,Eu,serious,yes,yes,yes,no,no,yes,20250829,yes,physician,73,Male,"Progressive multifocal leukoencephalopathy,Encephalitis",fatal
+25934532,United Kingdom,serious,no,no,yes,no,no,yes,20251017,yes,physician,46,Male,Atrioventricular block complete,unknown
+25647220,Eu,serious,no,yes,yes,no,no,yes,20250806,yes,physician,76,Male,"BRASH syndrome,Hyperkalaemia,Bradycardia,Gastrointestinal haemorrhage,Toxicity to various agents,Condition aggravated,Renal failure,Haemoglobin decreased,Acute kidney injury,Melaena,Fatigue,Dyspnoea,Hypotension,Pallor,Blood creatinine increased,Glomerular filtration rate decreased,Blood urea increased",recovered/resolved
+25937620,United Kingdom,serious,no,no,no,no,no,yes,20251018,yes,physician,81,Female,"Cognitive disorder,Tremor",recovered/resolved
+25937648,Eu,serious,no,no,yes,no,no,yes,20251018,yes,physician,43,Male,"Cardiac arrest,Electrocardiogram ST segment abnormal,Myositis,Myopathy,Acute myocardial infarction,Rheumatic disorder,Myalgia,Fatigue,Dysphagia,Rhabdomyolysis,Acute coronary syndrome,Psoriatic arthropathy,Asthenia,Depression,Drug intolerance,Blood creatine phosphokinase increased,Hypoaesthesia,Paraesthesia,Arthralgia,Pustular psoriasis,Stenosis,Arterial occlusive disease,Chest pain,Angioplasty,Dyspnoea exertional,Skin lesion,Claustrophobia,Pruritus,Pain,Psoriasis,Back pain,Hyperuricaemia",unknown
+25942521,Eu,serious,no,yes,no,no,no,no,20251021,yes,pharmacist,70,Male,"International normalised ratio increased,Toxicity to various agents",unknown
+25943997,United Kingdom,serious,no,no,no,no,no,yes,20251021,yes,consumer or non-health professional,73,Male,"Brain fog,Morose",not recovered/not resolved/ongoing
+25944056,United Kingdom,serious,no,no,no,no,no,yes,20251021,yes,pharmacist,68,Male,Swollen tongue,recovering/resolving
+25575856,Eu,serious,no,no,no,no,no,yes,20250718,yes,other health professional,,Male,"Syncope,Bradycardia,Wrong patient received product",unknown
+25946799,United States,serious,no,no,yes,yes,no,yes,20251022,yes,other health professional,69,Female,"Rhabdomyolysis,Hypokalaemia,Fall,Device programming error",recovering/resolving
+25735161,Eu,serious,no,no,no,yes,no,no,20250828,yes,consumer or non-health professional,77,Female,"Dizziness,Gastrooesophageal reflux disease,Injection site erythema,Dry mouth,Depressed mood,Abdominal pain upper,Hyperhidrosis,Headache,Decreased appetite,Apathy,Hiatus hernia",not recovered/not resolved/ongoing
+25686817,Eu,serious,no,no,yes,no,no,no,20250816,yes,physician,77,Female,"Atrioventricular block,Asthenia",recovered/resolved
+25835995,Eu,serious,no,no,yes,no,no,yes,20250923,yes,physician,65,Male,"Inappropriate antidiuretic hormone secretion,Hyponatraemia,Chest pain,Pulmonary mass,Paraneoplastic syndrome,Dry mouth",not recovered/not resolved/ongoing
+25952436,Eu,serious,no,no,yes,no,no,yes,20251023,yes,physician,86,Female,Pancreatitis acute,recovered/resolved
+25954580,Eu,serious,no,no,no,no,no,yes,20251024,yes,physician,66,Male,"Nightmare,Condition aggravated",not recovered/not resolved/ongoing
+25923213,Eu,serious,no,no,yes,no,no,no,20251015,yes,physician,76,Male,Hyponatraemia,recovering/resolving
+25955018,Canada,serious,no,no,no,no,no,yes,20251024,yes,other health professional,65,Male,"Aortic dilatation,Bronchitis,Cardiac septal hypertrophy,Dilatation atrial,Mitral valve incompetence,Hyperhidrosis",unknown
+25955228,United Kingdom,serious,no,no,no,no,no,yes,20251024,yes,physician,72,Female,Abdominal discomfort,unknown
+25955235,Canada,serious,no,no,no,no,no,yes,20251024,yes,other health professional,78,Female,"Dizziness,Haematochezia",not recovered/not resolved/ongoing
+25955465,United Kingdom,serious,no,no,no,no,no,yes,20251024,yes,consumer or non-health professional,,Female,Swollen tongue,recovered/resolved
+25955530,Eu,serious,no,no,yes,no,no,no,20251024,yes,physician,81,Male,Haematuria,unknown
+25955552,United Kingdom,serious,no,no,yes,no,no,yes,20251024,yes,consumer or non-health professional,89,Female,"Aphasia,Muscular weakness,Balance disorder",recovered/resolved
+25895575,Eu,serious,no,no,yes,no,no,yes,20251008,yes,physician,79,Female,"Electrocardiogram QT prolonged,Hypomagnesaemia,Hypocalcaemia,Hypoparathyroidism,Vomiting,Vertigo",recovered/resolved
+25956016,United Kingdom,serious,no,no,yes,no,no,yes,20251024,yes,other health professional,58,Male,"Thrombocytopenia,Sepsis,Pyrexia",not recovered/not resolved/ongoing
+25576857,Eu,serious,no,no,no,no,no,yes,20250718,yes,other health professional,66,Male,"Polyneuropathy,Condition aggravated,Glomerular filtration rate decreased,Diarrhoea",not recovered/not resolved/ongoing
+25956595,United Kingdom,serious,no,no,no,no,no,yes,20251024,yes,physician,74,Male,Wheezing,recovering/resolving
+25960740,Eu,serious,no,no,no,no,yes,yes,20251027,yes,physician,29,Female,"Trisomy 21,Foetal growth restriction,Premature baby,Maternal exposure during pregnancy",not recovered/not resolved/ongoing
+25960741,Eu,serious,no,yes,no,no,no,yes,20251027,yes,pharmacist,69,Female,Acute respiratory distress syndrome,recovered/resolved
+25724320,Eu,serious,no,no,no,no,no,yes,20250826,yes,pharmacist,73,Female,"Medication error,Haematoma,Anticholinergic effect,Patient elopement,Fall,Confusional state,Dizziness,Daydreaming,Disturbance in attention,Drug interaction,Drug ineffective",unknown
+25884439,Eu,serious,no,no,no,no,no,yes,20251006,yes,other health professional,64,Female,"Atrial fibrillation,Vomiting,Oral candidiasis,Constipation,Alopecia,White blood cell count decreased",recovered/resolved
+25967352,Canada,serious,yes,no,no,no,no,yes,20251028,yes,other health professional,85,Female,"Asthenia,Blood pressure increased,Dysarthria,Neoplasm malignant,Head and neck cancer metastatic,Tooth extraction,Feeding disorder,Heart rate increased,Hypersomnia,Respiratory rate increased,Expired product administered",fatal
+25968033,Eu,serious,no,no,no,no,no,yes,20251028,yes,other health professional,74,Male,Syncope,recovered/resolved
+25968069,Eu,serious,no,no,no,no,no,yes,20251028,yes,physician,84,Male,"Balance disorder,Fatigue,Decreased appetite,Aphonia,Dyspnoea,Thirst,Ketoacidosis",recovered/resolved
+25968179,Eu,serious,no,no,yes,no,no,yes,20251028,yes,pharmacist,75,Female,Colitis microscopic,recovered/resolved
+25968362,Eu,serious,yes,no,no,no,no,yes,20251028,yes,consumer or non-health professional,89,Male,"Subdural haematoma,Fall",fatal
+25968486,Eu,serious,yes,no,no,no,no,yes,20251028,yes,physician,77,Female,"Acute kidney injury,Drug interaction",fatal
+25968545,Canada,serious,no,no,yes,no,no,no,20251028,yes,pharmacist,82,Female,"Eosinophil count increased,Immunoglobulins increased,Petechiae,Rash maculo-papular",recovered/resolved
+25969138,United Kingdom,serious,no,no,no,no,no,yes,20251028,yes,other health professional,71,Female,Malaise,recovering/resolving
+25934251,Eu,serious,no,no,yes,no,no,yes,20251017,yes,physician,86,Female,Pancreatitis chronic,recovered/resolved
+25973353,Eu,serious,no,yes,no,no,no,yes,20251029,yes,physician,72,Female,"Renal tubular necrosis,Acute kidney injury",recovered/resolved
+25571836,Eu,serious,no,no,no,no,no,yes,20250717,yes,physician,,Female,Hepatotoxicity,recovered/resolved
+25973398,Eu,serious,no,yes,no,no,no,yes,20251029,yes,physician,65,Male,"Anaphylactic shock,Shock",recovered/resolved
+24860813,Canada,serious,no,no,yes,no,no,yes,20250120,yes,other health professional,53,Female,Drug ineffective,unknown
+25974465,Eu,serious,no,no,yes,no,no,yes,20251029,yes,physician,76,Male,"Dyspnoea,Tubulointerstitial nephritis,Toxicity to various agents,Nephritis,Metabolic acidosis,Hypoglycaemia,Lethargy,Hyperlactacidaemia,Acute kidney injury,Clostridium difficile colitis,Disorientation,Blood creatinine increased,Enterococcal sepsis,Mitochondrial toxicity,Escherichia urinary tract infection",unknown
+25978327,Eu,serious,yes,no,no,no,no,yes,20251030,yes,pharmacist,90,Female,"Renal failure,Hypotension",fatal
+25749606,Eu,serious,no,no,yes,no,no,yes,20250902,yes,physician,66,Male,"Angina unstable,Apnoea,Arthrodesis,Loss of personal independence in daily activities,Respiratory disorder,Articular disc disorder,Ill-defined disorder,Emphysema,Breath sounds abnormal,Back pain,Neck pain,Hyporeflexia,Arthralgia,Chest pain,Spinal pain,Fatigue,Obstructive sleep apnoea syndrome,Arteritis",unknown
+25978488,Eu,serious,no,no,no,no,no,yes,20251030,yes,pharmacist,74,Female,"Erythema,Dyspnoea,Dysphagia,Pruritus",recovered/resolved
+25979265,Eu,serious,no,no,yes,no,no,yes,20251030,yes,physician,4,Female,"Myocardial injury,Heart rate decreased,Bone metabolism disorder,Accidental overdose",recovered/resolved
+25979408,Eu,serious,no,no,no,no,no,yes,20251030,yes,physician,59,Female,"Loss of consciousness,Malaise,Hyperhidrosis,Urge incontinence",recovered/resolved
+25966305,Eu,serious,no,no,yes,no,no,yes,20251028,yes,other health professional,,Female,"Asthma,Infective exacerbation of asthma,Dyspnoea exertional,Infection",recovered/resolved
+25966344,Eu,serious,no,no,no,no,no,yes,20251028,yes,physician,63,Male,"Device related thrombosis,Dyspepsia,Rash",unknown
+25982005,Eu,serious,no,no,yes,no,no,yes,20251031,yes,physician,85,Female,"Pneumonia,Bronchopulmonary aspergillosis,Interstitial lung disease",recovering/resolving
+25982363,Eu,serious,no,no,no,no,no,yes,20251031,yes,physician,78,Female,Subacute cutaneous lupus erythematosus,not recovered/not resolved/ongoing
+25955466,Eu,serious,no,yes,yes,no,no,yes,20251024,yes,physician,4,Female,"Bone metabolism disorder,Myocardial injury,Blood creatinine decreased,Blood phosphorus decreased,Blood lactate dehydrogenase increased,Accidental exposure to product by child,Accidental overdose,Cardiotoxicity,Overdose,Accidental exposure to product",recovered/resolved

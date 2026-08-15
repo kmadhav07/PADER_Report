@@ -1,0 +1,51 @@
+safetyreportid,occurcountry,serious,seriousnessdeath,seriousnesslifethreatening,seriousnesshospitalization,seriousnessdisabling,seriousnesscongenitalanomali,seriousnessother,receivedate,fulfillexpeditecriteria,primarysource_qualification,patient_patientonsetage,patient_patientsex,patient_reaction_reactionmeddrapt,patient_reaction_reactionoutcome
+38499515,Italy,serious,no,no,no,no,no,yes,20250918,yes,pharmacist,59,Male,"Vomiting,Gastroparesis",recovering/resolving
+38499516,Germany,serious,no,no,no,no,no,yes,20250503,yes,consumer or non-health professional,54,Male,Vomiting,fatal
+38499517,France,serious,no,no,no,no,no,yes,20250104,yes,pharmacist,25,Male,"Dehydration,Gastroparesis",not recovered/not resolved/ongoing
+38499518,Germany,serious,no,no,no,no,no,yes,20250601,yes,consumer or non-health professional,58,Male,"Vomiting,Diarrhoea",fatal
+38499519,Spain,serious,no,no,yes,no,no,no,20251119,yes,physician,53,Male,Nausea,recovering/resolving
+38499520,United States,serious,no,no,no,no,no,yes,20251218,yes,consumer or non-health professional,52,Female,Abdominal pain,not recovered/not resolved/ongoing
+38499521,Italy,serious,no,yes,no,no,no,no,20250908,yes,physician,75,Male,"Gastroparesis,Abdominal pain",not recovered/not resolved/ongoing
+38499522,Spain,serious,no,no,yes,no,no,no,20251024,yes,pharmacist,83,Female,"Decreased appetite,Abdominal pain,Vomiting",recovering/resolving
+38499523,Germany,serious,no,no,yes,no,no,no,20250601,yes,physician,72,Female,Diarrhoea,recovering/resolving
+38499524,Canada,serious,yes,no,no,no,no,no,20250908,yes,consumer or non-health professional,71,Female,"Vomiting,Gastroparesis,Nausea",fatal
+38499525,Germany,serious,no,no,yes,no,no,no,20250405,yes,other health professional,57,Female,"Dehydration,Pancreatitis acute",fatal
+38499526,Italy,serious,no,yes,no,no,no,no,20250304,yes,consumer or non-health professional,83,Female,"Vomiting,Gastroparesis",not recovered/not resolved/ongoing
+38499527,United Kingdom,serious,no,no,yes,no,no,no,20251210,yes,physician,51,Female,Vomiting,recovering/resolving
+38499528,Spain,serious,yes,no,no,no,no,no,20250813,yes,pharmacist,36,Female,Pancreatitis acute,fatal
+38499529,France,serious,no,no,yes,no,no,no,20251112,yes,physician,57,Male,Vomiting,recovering/resolving
+38499530,Japan,serious,no,no,no,no,no,yes,20250115,yes,pharmacist,79,Female,"Nausea,Diarrhoea",fatal
+38499531,Germany,serious,no,no,yes,no,no,no,20251020,yes,pharmacist,61,Female,"Decreased appetite,Nausea",recovered/resolved
+38499532,Italy,serious,no,no,no,no,no,yes,20250926,yes,physician,72,Female,"Decreased appetite,Pancreatitis acute",not recovered/not resolved/ongoing
+38499533,Canada,serious,yes,no,yes,no,no,no,20250109,yes,consumer or non-health professional,69,Male,Vomiting,fatal
+38499534,United Kingdom,serious,no,no,no,no,no,yes,20251008,yes,consumer or non-health professional,69,Male,Diarrhoea,not recovered/not resolved/ongoing
+38499535,Spain,non-serious,no,no,no,no,no,no,20251201,no,other health professional,42,Male,"Gastroparesis,Vomiting",fatal
+38499536,United States,serious,no,no,yes,yes,no,no,20250420,yes,pharmacist,67,Male,"Nausea,Decreased appetite",recovering/resolving
+38499537,Germany,serious,no,no,no,no,no,yes,20250722,yes,physician,67,Female,"Pancreatitis acute,Vomiting",fatal
+38499538,Japan,serious,no,no,no,no,no,yes,20250626,yes,pharmacist,46,Female,"Gastroparesis,Vomiting",recovering/resolving
+38499539,United States,non-serious,no,no,no,no,no,no,20250719,no,physician,47,Female,"Diarrhoea,Dehydration,Gastroparesis",recovered/resolved
+38499540,Japan,serious,no,no,no,no,no,yes,20251203,yes,other health professional,81,Male,"Diarrhoea,Vomiting",recovered/resolved
+38499541,Spain,serious,no,yes,yes,no,no,no,20250706,yes,consumer or non-health professional,72,Female,"Abdominal pain,Nausea,Diarrhoea",recovering/resolving
+38499542,Germany,serious,no,yes,yes,no,no,no,20250204,yes,other health professional,45,Female,Vomiting,recovered/resolved
+38499543,Spain,serious,no,no,yes,no,no,no,20251006,yes,consumer or non-health professional,44,Male,Dehydration,recovering/resolving
+38499544,United Kingdom,serious,no,no,yes,no,no,no,20250410,yes,physician,30,Female,"Decreased appetite,Vomiting,Nausea",not recovered/not resolved/ongoing
+38499545,United States,serious,no,no,yes,no,no,no,20250401,yes,pharmacist,61,Male,"Vomiting,Pancreatitis acute",fatal
+38499546,Japan,serious,no,yes,yes,no,no,no,20250613,yes,pharmacist,81,Male,"Decreased appetite,Diarrhoea",not recovered/not resolved/ongoing
+38499547,United Kingdom,serious,no,no,no,no,no,yes,20250622,yes,consumer or non-health professional,53,Male,"Abdominal pain,Gastroparesis",fatal
+38499548,United Kingdom,serious,yes,no,no,no,no,no,20251017,yes,pharmacist,39,Female,Pancreatitis acute,fatal
+38499549,United Kingdom,serious,no,no,no,no,no,yes,20251127,yes,pharmacist,57,Female,"Vomiting,Nausea,Diarrhoea",fatal
+38499550,Spain,serious,no,no,yes,no,no,no,20250919,yes,consumer or non-health professional,38,Female,Pancreatitis acute,recovered/resolved
+38499551,France,serious,no,no,yes,no,no,no,20250514,yes,consumer or non-health professional,86,Female,Pancreatitis acute,not recovered/not resolved/ongoing
+38499552,Canada,serious,no,no,yes,no,no,no,20251211,yes,pharmacist,30,Female,"Dehydration,Nausea",not recovered/not resolved/ongoing
+38499553,Italy,serious,no,no,no,no,no,yes,20250308,yes,other health professional,80,Female,"Abdominal pain,Gastroparesis",recovered/resolved
+38499554,United Kingdom,serious,no,no,yes,no,no,no,20250112,yes,pharmacist,32,Female,"Abdominal pain,Vomiting,Gastroparesis",recovered/resolved
+38499555,Germany,serious,no,no,yes,no,no,no,20251212,yes,pharmacist,59,Female,"Abdominal pain,Dehydration",recovered/resolved
+38499556,United States,serious,no,no,no,no,no,yes,20250618,yes,other health professional,44,Female,"Vomiting,Pancreatitis acute,Nausea",fatal
+38499557,United States,serious,no,no,no,no,no,yes,20250422,yes,other health professional,76,Male,"Nausea,Diarrhoea,Vomiting",recovering/resolving
+38499558,United States,serious,no,no,no,no,no,yes,20250709,yes,consumer or non-health professional,68,Female,"Diarrhoea,Decreased appetite",not recovered/not resolved/ongoing
+38499559,Canada,serious,yes,no,no,no,no,no,20251118,yes,other health professional,62,Male,"Vomiting,Pancreatitis acute",fatal
+38499560,Italy,serious,no,no,no,no,no,yes,20250410,yes,pharmacist,54,Male,"Abdominal pain,Dehydration,Pancreatitis acute",recovering/resolving
+38499561,United States,serious,no,no,yes,no,no,no,20251002,yes,pharmacist,67,Male,"Decreased appetite,Dehydration,Pancreatitis acute",not recovered/not resolved/ongoing
+38499562,Germany,serious,no,no,yes,no,no,no,20251209,yes,pharmacist,66,Male,Dehydration,recovering/resolving
+38499563,Italy,serious,no,no,yes,no,no,no,20250804,yes,physician,33,Female,Vomiting,fatal
+38499564,Italy,serious,no,no,no,no,no,yes,20250819,yes,pharmacist,64,Male,Decreased appetite,not recovered/not resolved/ongoing

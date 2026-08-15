@@ -1,0 +1,51 @@
+safetyreportid,occurcountry,serious,seriousnessdeath,seriousnesslifethreatening,seriousnesshospitalization,seriousnessdisabling,seriousnesscongenitalanomali,seriousnessother,receivedate,fulfillexpeditecriteria,primarysource_qualification,patient_patientonsetage,patient_patientsex,patient_reaction_reactionmeddrapt,patient_reaction_reactionoutcome
+33162177,France,serious,no,no,no,no,no,yes,20250408,yes,physician,36,Male,"Pneumonitis,Colitis",recovered/resolved
+33162178,Canada,serious,no,no,no,no,no,yes,20250410,yes,other health professional,65,Male,"Hypothyroidism,Rash",recovering/resolving
+33162179,Canada,serious,yes,no,no,no,no,no,20251121,yes,consumer or non-health professional,87,Male,"Pyrexia,Fatigue",fatal
+33162180,Spain,serious,no,no,yes,no,no,no,20250408,yes,other health professional,42,Female,Pyrexia,fatal
+33162181,Germany,serious,no,no,yes,no,no,no,20250212,yes,pharmacist,30,Female,"Pneumonitis,Pyrexia",recovered/resolved
+33162182,United Kingdom,serious,no,no,yes,no,no,no,20250511,yes,physician,51,Male,"Colitis,Rash,Hyperthyroidism",recovering/resolving
+33162183,United Kingdom,serious,no,no,yes,no,no,no,20250621,yes,other health professional,57,Female,"Fatigue,Hyperthyroidism,Pneumonitis",fatal
+33162184,Spain,non-serious,no,no,no,no,no,no,20250612,no,consumer or non-health professional,29,Male,"Hypothyroidism,Pneumonitis,Fatigue",fatal
+33162185,Italy,serious,no,no,no,no,no,yes,20251121,yes,other health professional,56,Female,"Fatigue,Hyperthyroidism,Colitis",not recovered/not resolved/ongoing
+33162186,Germany,serious,no,no,no,no,no,yes,20250902,yes,physician,33,Male,Pyrexia,recovering/resolving
+33162187,United Kingdom,serious,no,no,yes,no,no,no,20251121,yes,consumer or non-health professional,86,Male,Pyrexia,recovered/resolved
+33162188,United States,serious,no,no,yes,no,no,no,20250722,yes,pharmacist,37,Male,"Hypothyroidism,Colitis,Pyrexia",not recovered/not resolved/ongoing
+33162189,Spain,serious,no,no,yes,no,no,no,20250423,yes,other health professional,34,Male,Pyrexia,fatal
+33162190,Canada,serious,yes,yes,yes,no,no,no,20251114,yes,other health professional,36,Male,Hyperthyroidism,fatal
+33162191,Japan,serious,no,no,yes,no,no,no,20250122,yes,pharmacist,64,Male,Hypothyroidism,fatal
+33162192,France,serious,no,no,no,no,no,yes,20250618,yes,consumer or non-health professional,41,Male,"Rash,Pneumonitis,Pyrexia",fatal
+33162193,United Kingdom,serious,no,no,no,no,no,yes,20250625,yes,physician,58,Female,"Hyperthyroidism,Hypothyroidism",fatal
+33162194,Canada,serious,no,no,no,no,no,yes,20251208,yes,physician,34,Female,Pyrexia,recovering/resolving
+33162195,Canada,serious,no,yes,yes,no,no,no,20250209,yes,pharmacist,35,Male,"Fatigue,Immune-mediated hepatitis",fatal
+33162196,France,serious,no,yes,yes,no,no,no,20250113,yes,other health professional,76,Female,Hyperthyroidism,recovering/resolving
+33162197,Canada,serious,no,no,yes,no,no,no,20250709,yes,other health professional,85,Male,"Immune-mediated hepatitis,Colitis",fatal
+33162198,United Kingdom,serious,no,yes,yes,no,no,no,20250613,yes,consumer or non-health professional,66,Female,"Hypothyroidism,Fatigue,Pyrexia",recovering/resolving
+33162199,Japan,serious,no,no,yes,no,no,no,20251016,yes,pharmacist,65,Female,"Pyrexia,Hypothyroidism",recovered/resolved
+33162200,United Kingdom,serious,no,no,yes,no,no,no,20251215,yes,pharmacist,80,Female,"Colitis,Pyrexia,Hyperthyroidism",fatal
+33162201,Germany,serious,no,no,no,no,no,yes,20250803,yes,consumer or non-health professional,75,Female,"Pneumonitis,Pyrexia,Hypothyroidism",recovered/resolved
+33162202,France,serious,no,no,yes,yes,no,no,20251121,yes,consumer or non-health professional,66,Female,Pneumonitis,recovered/resolved
+33162203,Italy,serious,no,no,no,no,no,yes,20250712,yes,consumer or non-health professional,88,Male,"Pneumonitis,Hyperthyroidism",recovered/resolved
+33162204,Italy,serious,no,yes,no,no,no,no,20250610,yes,consumer or non-health professional,50,Female,"Fatigue,Pneumonitis",fatal
+33162205,Japan,serious,no,no,yes,no,no,no,20250221,yes,pharmacist,55,Male,"Hypothyroidism,Fatigue,Immune-mediated hepatitis",fatal
+33162206,Japan,serious,no,no,yes,no,no,no,20251201,yes,pharmacist,81,Female,"Pneumonitis,Rash",recovering/resolving
+33162207,United Kingdom,serious,no,no,yes,no,no,no,20250318,yes,other health professional,65,Male,"Colitis,Hypothyroidism",fatal
+33162208,Spain,serious,no,no,yes,no,no,no,20250320,yes,other health professional,34,Male,"Colitis,Fatigue",not recovered/not resolved/ongoing
+33162209,France,serious,no,no,yes,no,no,no,20250713,yes,pharmacist,86,Male,"Hypothyroidism,Hyperthyroidism,Fatigue",recovering/resolving
+33162210,Germany,serious,no,yes,yes,yes,no,no,20250405,yes,consumer or non-health professional,88,Female,"Fatigue,Hyperthyroidism",fatal
+33162211,Japan,serious,no,no,yes,yes,no,no,20250908,yes,other health professional,45,Female,"Fatigue,Immune-mediated hepatitis,Pyrexia",recovered/resolved
+33162212,France,serious,no,no,yes,no,no,no,20251225,yes,consumer or non-health professional,51,Female,Hyperthyroidism,not recovered/not resolved/ongoing
+33162213,United States,serious,no,no,yes,no,no,no,20250425,yes,pharmacist,68,Female,Hypothyroidism,recovering/resolving
+33162214,United Kingdom,serious,no,no,yes,no,no,no,20250523,yes,other health professional,58,Male,Pyrexia,recovered/resolved
+33162215,Italy,serious,no,no,yes,no,no,no,20250427,yes,consumer or non-health professional,86,Male,"Immune-mediated hepatitis,Rash,Hyperthyroidism",fatal
+33162216,Japan,serious,no,no,yes,no,no,no,20250623,yes,consumer or non-health professional,86,Female,"Pneumonitis,Pyrexia,Rash",recovered/resolved
+33162217,Japan,serious,no,no,no,no,no,yes,20250414,yes,consumer or non-health professional,58,Female,"Rash,Immune-mediated hepatitis",recovering/resolving
+33162218,Japan,serious,no,no,yes,no,no,no,20250827,yes,physician,39,Male,"Fatigue,Pneumonitis",fatal
+33162219,United Kingdom,non-serious,no,no,no,no,no,no,20251105,no,other health professional,44,Female,Rash,not recovered/not resolved/ongoing
+33162220,France,serious,no,no,yes,no,no,no,20250423,yes,consumer or non-health professional,35,Male,Hyperthyroidism,fatal
+33162221,France,serious,no,no,yes,no,no,no,20250227,yes,consumer or non-health professional,40,Female,Hyperthyroidism,fatal
+33162222,France,serious,no,no,no,no,no,yes,20250325,yes,pharmacist,32,Male,"Hypothyroidism,Hyperthyroidism,Fatigue",recovering/resolving
+33162223,Germany,non-serious,no,no,no,no,no,no,20251120,no,consumer or non-health professional,51,Male,Hypothyroidism,recovered/resolved
+33162224,Canada,serious,no,no,yes,no,no,no,20250908,yes,other health professional,27,Female,Hyperthyroidism,fatal
+33162225,Italy,serious,no,no,yes,no,no,no,20250808,yes,physician,25,Female,"Hypothyroidism,Hyperthyroidism",fatal
+33162226,Spain,serious,no,no,no,no,no,yes,20250219,yes,physician,57,Male,Pneumonitis,fatal

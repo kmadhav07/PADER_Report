@@ -1,0 +1,45 @@
+report_type: PSUR
+full_name: Periodic Safety Update Report
+regulatory_framework: EMA GVP Module VII / ICH E2C(R2)
+default_product: Bisoprolol
+default_mah: Aurobindo Pharma USA, Inc.
+
+sections:
+  - id: introduction
+    title: 1. Introduction & Product Authorization Status
+    description: Worldwide marketing status and reference safety information version.
+    requires_analysis:
+      - summary_stats
+
+  - id: actions_taken
+    title: 2. Actions Taken for Safety Reasons
+    description: Regulatory or voluntary safety actions taken globally during interval.
+    requires_analysis:
+      - summary_stats
+
+  - id: exposure_estimates
+    title: 3. Estimated Exposure and Patient Demographics
+    description: Cumulative patient exposure estimates and demographic breakdown.
+    requires_analysis:
+      - demographics
+      - summary_stats
+
+  - id: summary_tabulations
+    title: 4. Summary Tabulations of Adverse Reactions
+    description: Cumulative and interval MedDRA System Organ Class tabulations.
+    requires_analysis:
+      - reaction_analysis
+
+  - id: signal_evaluation
+    title: 5. Signal and Risk Evaluation
+    description: Evaluation of emerging safety signals and potential risks.
+    requires_analysis:
+      - reaction_analysis
+      - monthly_trends
+
+  - id: benefit_risk_conclusion
+    title: 6. Integrated Benefit-Risk Assessment & Conclusion
+    description: Final overall benefit-risk balance statement.
+    requires_analysis:
+      - summary_stats
+      - seriousness_breakdown

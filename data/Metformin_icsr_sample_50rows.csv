@@ -1,0 +1,51 @@
+safetyreportid,occurcountry,serious,seriousnessdeath,seriousnesslifethreatening,seriousnesshospitalization,seriousnessdisabling,seriousnesscongenitalanomali,seriousnessother,receivedate,fulfillexpeditecriteria,primarysource_qualification,patient_patientonsetage,patient_patientsex,patient_reaction_reactionmeddrapt,patient_reaction_reactionoutcome
+35123430,United States,serious,no,no,yes,no,no,no,20250222,yes,pharmacist,54,Male,"Nausea,Decreased appetite,Lactic acidosis",fatal
+35123431,Japan,serious,no,yes,yes,no,no,no,20250828,yes,physician,53,Female,"Vomiting,Decreased appetite,Lactic acidosis",recovering/resolving
+35123432,Germany,non-serious,no,no,no,no,no,no,20250327,no,physician,31,Male,"Renal impairment,Vomiting",recovered/resolved
+35123433,Japan,serious,no,no,yes,no,no,no,20251003,yes,physician,79,Female,"Renal impairment,Lactic acidosis,Abdominal pain upper",recovering/resolving
+35123434,United States,non-serious,no,no,no,no,no,no,20250522,no,physician,46,Female,"Decreased appetite,Diarrhoea,Nausea",fatal
+35123435,Japan,non-serious,no,no,no,no,no,no,20250616,no,consumer or non-health professional,66,Female,"Nausea,Abdominal pain upper,Decreased appetite",not recovered/not resolved/ongoing
+35123436,Canada,serious,no,no,no,no,no,yes,20250215,yes,other health professional,56,Female,Abdominal pain upper,recovered/resolved
+35123437,Japan,serious,no,no,no,no,no,yes,20250125,yes,pharmacist,58,Male,"Decreased appetite,Hypoglycaemia",fatal
+35123438,France,serious,no,no,no,no,no,yes,20250901,yes,consumer or non-health professional,35,Male,Decreased appetite,recovered/resolved
+35123439,Germany,serious,no,no,yes,no,no,no,20250416,yes,consumer or non-health professional,42,Female,Diarrhoea,recovered/resolved
+35123440,Italy,serious,no,no,no,no,no,yes,20250501,yes,other health professional,86,Male,"Decreased appetite,Diarrhoea",not recovered/not resolved/ongoing
+35123441,Canada,serious,no,no,no,no,no,yes,20250708,yes,physician,64,Female,"Abdominal pain upper,Vomiting,Hypoglycaemia",recovering/resolving
+35123442,Japan,non-serious,no,no,no,no,no,no,20250905,no,other health professional,36,Female,Decreased appetite,recovered/resolved
+35123443,Germany,serious,no,no,yes,no,no,no,20251011,yes,consumer or non-health professional,34,Female,"Abdominal pain upper,Diarrhoea,Hypoglycaemia",fatal
+35123444,United States,serious,no,no,yes,no,no,no,20250703,yes,physician,36,Female,Renal impairment,recovered/resolved
+35123445,United States,serious,yes,no,yes,no,no,no,20251014,yes,pharmacist,45,Male,Abdominal pain upper,fatal
+35123446,United Kingdom,serious,no,no,yes,no,no,no,20250122,yes,consumer or non-health professional,60,Male,Decreased appetite,not recovered/not resolved/ongoing
+35123447,Italy,serious,no,no,no,no,no,yes,20250813,yes,physician,54,Female,"Hypoglycaemia,Renal impairment,Diarrhoea",not recovered/not resolved/ongoing
+35123448,United States,non-serious,no,no,no,no,no,no,20250722,no,other health professional,25,Male,"Decreased appetite,Abdominal pain upper,Diarrhoea",recovering/resolving
+35123449,Spain,serious,no,no,no,no,no,yes,20250322,yes,physician,29,Female,"Lactic acidosis,Renal impairment",not recovered/not resolved/ongoing
+35123450,Germany,serious,no,no,yes,no,no,no,20250618,yes,other health professional,45,Female,"Renal impairment,Hypoglycaemia",not recovered/not resolved/ongoing
+35123451,France,serious,yes,no,yes,no,no,no,20250722,yes,other health professional,35,Female,Renal impairment,fatal
+35123452,France,serious,no,no,yes,no,no,no,20250212,yes,pharmacist,84,Male,"Hypoglycaemia,Renal impairment,Nausea",recovered/resolved
+35123453,Japan,non-serious,no,no,no,no,no,no,20251110,no,consumer or non-health professional,38,Male,Lactic acidosis,not recovered/not resolved/ongoing
+35123454,Japan,serious,no,no,yes,no,no,no,20251224,yes,consumer or non-health professional,43,Female,"Nausea,Abdominal pain upper,Vomiting",fatal
+35123455,Italy,serious,no,no,no,no,no,yes,20251104,yes,other health professional,69,Male,"Renal impairment,Nausea",recovered/resolved
+35123456,Japan,serious,no,no,no,no,no,yes,20250411,yes,pharmacist,50,Male,"Vomiting,Renal impairment,Nausea",recovering/resolving
+35123457,Spain,serious,no,no,yes,no,no,no,20250905,yes,other health professional,46,Male,"Lactic acidosis,Nausea,Decreased appetite",not recovered/not resolved/ongoing
+35123458,United Kingdom,serious,yes,no,yes,no,no,no,20251204,yes,physician,84,Female,"Nausea,Vomiting",fatal
+35123459,United Kingdom,non-serious,no,no,no,no,no,no,20251202,no,other health professional,82,Male,Decreased appetite,fatal
+35123460,Canada,serious,no,no,yes,no,no,no,20250320,yes,physician,40,Female,"Hypoglycaemia,Vomiting,Renal impairment",not recovered/not resolved/ongoing
+35123461,Japan,serious,no,no,yes,no,no,no,20250925,yes,pharmacist,79,Female,Abdominal pain upper,not recovered/not resolved/ongoing
+35123462,Japan,serious,no,no,yes,no,no,no,20251105,yes,consumer or non-health professional,32,Male,Nausea,fatal
+35123463,France,serious,no,yes,yes,no,no,no,20250618,yes,physician,76,Female,"Abdominal pain upper,Decreased appetite,Hypoglycaemia",recovered/resolved
+35123464,Italy,serious,no,no,yes,no,no,no,20250208,yes,other health professional,71,Male,"Vomiting,Abdominal pain upper",fatal
+35123465,United States,serious,no,no,yes,no,no,no,20250525,yes,other health professional,68,Male,Diarrhoea,fatal
+35123466,France,serious,no,yes,no,no,no,no,20250814,yes,other health professional,44,Female,"Hypoglycaemia,Abdominal pain upper",recovered/resolved
+35123467,United States,serious,no,yes,yes,no,no,no,20250814,yes,consumer or non-health professional,77,Female,Nausea,not recovered/not resolved/ongoing
+35123468,Canada,serious,no,no,yes,no,no,no,20250708,yes,physician,24,Male,"Vomiting,Abdominal pain upper",recovering/resolving
+35123469,Italy,serious,no,no,yes,no,no,no,20251218,yes,pharmacist,88,Female,Abdominal pain upper,recovered/resolved
+35123470,Canada,serious,no,no,yes,no,no,no,20251123,yes,consumer or non-health professional,61,Male,"Lactic acidosis,Diarrhoea",recovering/resolving
+35123471,Japan,serious,no,yes,no,no,no,no,20250719,yes,physician,74,Female,"Hypoglycaemia,Nausea,Diarrhoea",recovering/resolving
+35123472,France,serious,no,no,no,no,no,yes,20251124,yes,pharmacist,54,Male,Renal impairment,recovering/resolving
+35123473,Germany,serious,no,no,yes,no,no,no,20250816,yes,consumer or non-health professional,65,Female,Decreased appetite,recovered/resolved
+35123474,Japan,serious,no,no,yes,no,no,no,20250810,yes,consumer or non-health professional,28,Male,"Renal impairment,Lactic acidosis",recovered/resolved
+35123475,Canada,serious,no,no,no,no,no,yes,20251026,yes,pharmacist,65,Female,"Diarrhoea,Lactic acidosis,Vomiting",recovered/resolved
+35123476,Spain,non-serious,no,no,no,no,no,no,20250903,no,pharmacist,29,Male,"Decreased appetite,Vomiting,Renal impairment",recovering/resolving
+35123477,Spain,serious,no,no,yes,no,no,no,20251126,yes,other health professional,32,Female,Abdominal pain upper,not recovered/not resolved/ongoing
+35123478,Italy,serious,no,no,no,no,no,yes,20251119,yes,pharmacist,68,Female,"Abdominal pain upper,Nausea,Renal impairment",recovered/resolved
+35123479,Italy,serious,no,no,yes,no,no,no,20251124,yes,physician,78,Female,Hypoglycaemia,not recovered/not resolved/ongoing

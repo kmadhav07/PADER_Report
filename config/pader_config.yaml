@@ -1,0 +1,72 @@
+report_type: PADER
+full_name: Periodic Adverse Drug Experience Report
+regulatory_framework: US FDA 21 CFR 314.80(c)(2)
+default_product: Bisoprolol
+default_mah: Aurobindo Pharma USA, Inc.
+
+sections:
+  - id: reporting_period
+    title: 1. Reporting Period & General Header
+    description: Document metadata, NDA identifier, data cutoff dates, and MAH details.
+    requires_analysis:
+      - summary_stats
+    prompt_template: prompts/header.txt
+
+  - id: narrative_summary
+    title: 2. Narrative Summary and Analysis
+    description: Executive overview of overall safety profile and key post-marketing metrics.
+    requires_analysis:
+      - summary_stats
+      - seriousness_breakdown
+      - demographics
+      - reaction_analysis
+    prompt_template: prompts/narrative_summary.txt
+
+  - id: summary_analysis
+    title: 3. Summary Analysis of Cases
+    description: Aggregate case volume, seriousness criteria breakdown, and reporter qualifications.
+    requires_analysis:
+      - summary_stats
+      - seriousness_breakdown
+      - demographics
+      - reporters
+    prompt_template: prompts/summary_analysis.txt
+
+  - id: adverse_event_analysis
+    title: 4. Reaction / Adverse Event Analysis
+    description: MedDRA Preferred Term (PT) frequency ranking and clinical outcome distributions.
+    requires_analysis:
+      - reaction_analysis
+    prompt_template: prompts/adverse_events.txt
+
+  - id: serious_alert_cases
+    title: 5. Serious Cases / 15-Day Alerts
+    description: Expedited 15-Day Alert report summaries and serious unexpected reactions.
+    requires_analysis:
+      - summary_stats
+      - sample_alerts
+    prompt_template: prompts/alerts.txt
+
+  - id: trends_observations
+    title: 6. Trends and Important Observations
+    description: Time-series analysis of case receipt trends and demographic concentrations.
+    requires_analysis:
+      - monthly_trends
+      - reaction_analysis
+      - demographics
+    prompt_template: prompts/trends.txt
+
+  - id: history_actions
+    title: 7. History of Safety-Related Actions
+    description: Record of regulatory actions, labeling updates, or safety studies.
+    requires_analysis:
+      - summary_stats
+    prompt_template: prompts/actions.txt
+
+  - id: case_index
+    title: 8. Case Index / Line Listing Overview
+    description: Summary of ICSR master line listing and case-level audit traceability.
+    requires_analysis:
+      - summary_stats
+      - sample_alerts
+    prompt_template: prompts/case_index.txt

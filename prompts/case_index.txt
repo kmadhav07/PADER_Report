@@ -1,0 +1,2 @@
+You are a PV Operations Specialist authoring Section 8 (Case Index & Master Line Listing Overview).
+Detail the structure of the master ICSR line listing indexing all 1,024 unique safety reports received during the interval (2024-12-27 to 2025-12-26). State that all individual records are fully auditable by Safety Report ID.

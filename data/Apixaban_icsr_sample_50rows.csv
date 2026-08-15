@@ -1,0 +1,51 @@
+safetyreportid,occurcountry,serious,seriousnessdeath,seriousnesslifethreatening,seriousnesshospitalization,seriousnessdisabling,seriousnesscongenitalanomali,seriousnessother,receivedate,fulfillexpeditecriteria,primarysource_qualification,patient_patientonsetage,patient_patientsex,patient_reaction_reactionmeddrapt,patient_reaction_reactionoutcome
+33024309,United Kingdom,serious,no,no,no,no,no,yes,20250210,yes,physician,67,Male,"Melaena,Epistaxis,Contusion",recovering/resolving
+33024310,Germany,serious,yes,no,no,no,no,no,20250520,yes,consumer or non-health professional,53,Male,"Contusion,Melaena",fatal
+33024311,United Kingdom,serious,no,no,yes,no,no,no,20250913,yes,consumer or non-health professional,44,Male,"Haematoma,Melaena,Contusion",recovered/resolved
+33024312,Japan,serious,no,yes,no,no,no,no,20250210,yes,pharmacist,58,Female,"Haematoma,Melaena,Anaemia",recovered/resolved
+33024313,United Kingdom,serious,no,no,yes,no,no,no,20250412,yes,consumer or non-health professional,34,Female,Gastrointestinal haemorrhage,not recovered/not resolved/ongoing
+33024314,France,serious,no,no,yes,no,no,no,20250827,yes,pharmacist,84,Female,"Gastrointestinal haemorrhage,Contusion,Melaena",not recovered/not resolved/ongoing
+33024315,United Kingdom,serious,no,no,yes,no,no,no,20250410,yes,other health professional,39,Male,Melaena,fatal
+33024316,France,serious,no,no,yes,no,no,no,20251208,yes,pharmacist,61,Female,Haematuria,recovering/resolving
+33024317,Canada,serious,no,no,yes,no,no,no,20250918,yes,physician,73,Female,Melaena,not recovered/not resolved/ongoing
+33024318,Italy,serious,no,yes,yes,no,no,no,20251004,yes,other health professional,41,Male,"Haematuria,Melaena",recovering/resolving
+33024319,Japan,non-serious,no,no,no,no,no,no,20251116,no,pharmacist,41,Male,"Contusion,Gastrointestinal haemorrhage,Haematoma",recovering/resolving
+33024320,United States,serious,no,no,yes,no,no,no,20250927,yes,consumer or non-health professional,56,Male,"Anaemia,Haematoma,Melaena",recovered/resolved
+33024321,Spain,serious,no,no,yes,no,no,no,20250613,yes,pharmacist,87,Female,"Rectal haemorrhage,Melaena",recovered/resolved
+33024322,Canada,serious,no,no,yes,no,no,no,20250603,yes,other health professional,63,Female,"Melaena,Epistaxis,Haematuria",fatal
+33024323,Spain,serious,no,no,yes,no,no,no,20250121,yes,physician,75,Female,"Haematoma,Gastrointestinal haemorrhage,Epistaxis",fatal
+33024324,United States,serious,no,no,yes,no,no,no,20251002,yes,pharmacist,81,Female,"Contusion,Melaena",recovered/resolved
+33024325,Germany,serious,no,no,yes,no,no,no,20250324,yes,consumer or non-health professional,73,Male,"Rectal haemorrhage,Haematuria",fatal
+33024326,United Kingdom,non-serious,no,no,no,no,no,no,20251210,no,consumer or non-health professional,49,Male,Epistaxis,fatal
+33024327,Germany,serious,no,yes,no,no,no,no,20251111,yes,other health professional,32,Female,"Haematoma,Haematuria",recovering/resolving
+33024328,Spain,serious,no,no,yes,no,no,no,20250601,yes,other health professional,83,Male,"Epistaxis,Gastrointestinal haemorrhage,Haematoma",fatal
+33024329,Japan,serious,no,no,yes,no,no,no,20250221,yes,consumer or non-health professional,83,Female,Haematoma,recovering/resolving
+33024330,Canada,serious,no,no,yes,no,no,no,20250606,yes,pharmacist,68,Female,Rectal haemorrhage,recovering/resolving
+33024331,Italy,serious,no,no,yes,no,no,no,20250319,yes,pharmacist,67,Male,Epistaxis,recovered/resolved
+33024332,Italy,serious,no,no,yes,no,no,no,20250921,yes,other health professional,62,Female,Melaena,not recovered/not resolved/ongoing
+33024333,Japan,serious,yes,no,yes,no,no,no,20250320,yes,other health professional,64,Female,"Haematoma,Melaena",fatal
+33024334,Spain,serious,no,no,yes,no,no,no,20250205,yes,physician,61,Female,"Melaena,Epistaxis,Contusion",not recovered/not resolved/ongoing
+33024335,Spain,serious,no,no,yes,no,no,no,20250116,yes,physician,74,Female,Anaemia,not recovered/not resolved/ongoing
+33024336,United States,serious,no,no,no,no,no,yes,20250118,yes,physician,79,Male,"Haematuria,Melaena",fatal
+33024337,Spain,serious,yes,no,yes,no,no,no,20250913,yes,consumer or non-health professional,59,Male,Epistaxis,fatal
+33024338,Canada,serious,no,no,yes,no,no,no,20250920,yes,consumer or non-health professional,88,Male,Gastrointestinal haemorrhage,recovering/resolving
+33024339,Spain,serious,no,yes,no,no,no,no,20250620,yes,pharmacist,74,Female,"Haematuria,Rectal haemorrhage,Melaena",fatal
+33024340,Italy,serious,yes,no,yes,no,no,no,20251210,yes,physician,84,Female,"Anaemia,Haematuria,Gastrointestinal haemorrhage",fatal
+33024341,Japan,serious,no,no,no,no,no,yes,20250422,yes,physician,38,Male,Contusion,not recovered/not resolved/ongoing
+33024342,Canada,serious,no,no,no,no,no,yes,20251228,yes,physician,41,Male,"Haematuria,Contusion,Anaemia",fatal
+33024343,Spain,non-serious,no,no,no,no,no,no,20250915,no,other health professional,69,Female,"Contusion,Epistaxis,Melaena",not recovered/not resolved/ongoing
+33024344,Italy,serious,no,no,yes,no,no,no,20250823,yes,other health professional,85,Female,"Rectal haemorrhage,Haematoma,Gastrointestinal haemorrhage",fatal
+33024345,Canada,serious,no,no,yes,no,no,no,20250223,yes,other health professional,80,Female,"Contusion,Epistaxis,Melaena",not recovered/not resolved/ongoing
+33024346,Italy,serious,no,no,yes,no,no,no,20250417,yes,pharmacist,30,Male,"Haematuria,Contusion",fatal
+33024347,France,serious,no,no,no,no,no,yes,20250821,yes,consumer or non-health professional,49,Female,"Rectal haemorrhage,Haematuria",recovered/resolved
+33024348,France,serious,no,no,no,yes,no,yes,20250706,yes,pharmacist,28,Female,"Haematoma,Haematuria",not recovered/not resolved/ongoing
+33024349,United States,serious,no,yes,no,no,no,no,20250921,yes,consumer or non-health professional,41,Female,"Anaemia,Melaena",recovered/resolved
+33024350,Spain,serious,no,no,yes,no,no,no,20250526,yes,pharmacist,46,Female,"Haematuria,Gastrointestinal haemorrhage",fatal
+33024351,France,serious,no,no,yes,no,no,no,20250808,yes,other health professional,66,Female,"Gastrointestinal haemorrhage,Haematoma,Haematuria",not recovered/not resolved/ongoing
+33024352,United Kingdom,serious,no,no,yes,no,no,no,20250523,yes,physician,61,Female,"Anaemia,Epistaxis,Melaena",fatal
+33024353,Germany,serious,no,no,no,no,no,yes,20250925,yes,pharmacist,55,Male,"Contusion,Rectal haemorrhage,Haematuria",not recovered/not resolved/ongoing
+33024354,France,non-serious,no,no,no,no,no,no,20250104,no,pharmacist,43,Male,"Contusion,Gastrointestinal haemorrhage",recovering/resolving
+33024355,Japan,serious,no,no,yes,no,no,no,20251015,yes,physician,83,Female,"Gastrointestinal haemorrhage,Anaemia,Haematoma",recovered/resolved
+33024356,United Kingdom,serious,yes,no,yes,no,no,no,20250803,yes,physician,60,Female,Haematoma,fatal
+33024357,Canada,serious,no,no,no,no,no,yes,20251103,yes,pharmacist,68,Male,Melaena,recovering/resolving
+33024358,United Kingdom,serious,no,no,yes,no,no,no,20250914,yes,consumer or non-health professional,53,Male,"Haematuria,Epistaxis",not recovered/not resolved/ongoing

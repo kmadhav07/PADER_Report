@@ -1,0 +1,51 @@
+safetyreportid,occurcountry,serious,seriousnessdeath,seriousnesslifethreatening,seriousnesshospitalization,seriousnessdisabling,seriousnesscongenitalanomali,seriousnessother,receivedate,fulfillexpeditecriteria,primarysource_qualification,patient_patientonsetage,patient_patientsex,patient_reaction_reactionmeddrapt,patient_reaction_reactionoutcome
+31867825,United States,serious,no,yes,yes,no,no,no,20250218,yes,consumer or non-health professional,28,Male,Blood creatine phosphokinase increased,recovering/resolving
+31867826,United States,serious,no,no,yes,no,no,no,20250109,yes,pharmacist,78,Female,"Hepatic enzyme increased,Rhabdomyolysis",not recovered/not resolved/ongoing
+31867827,France,serious,no,no,yes,no,no,no,20250824,yes,physician,72,Male,"Arthralgia,Dizziness,Asthenia",not recovered/not resolved/ongoing
+31867828,United Kingdom,serious,yes,no,yes,no,no,no,20250208,yes,consumer or non-health professional,59,Female,"Asthenia,Rhabdomyolysis,Hepatic enzyme increased",fatal
+31867829,Spain,serious,no,no,yes,no,no,no,20250906,yes,pharmacist,44,Female,"Arthralgia,Asthenia",recovering/resolving
+31867830,Spain,serious,no,no,yes,no,no,no,20250209,yes,pharmacist,64,Male,"Muscle spasms,Blood creatine phosphokinase increased,Asthenia",fatal
+31867831,Germany,serious,no,no,yes,no,no,no,20250719,yes,other health professional,52,Male,"Muscle spasms,Myalgia,Dizziness",recovered/resolved
+31867832,Germany,serious,no,no,yes,no,no,no,20250915,yes,other health professional,25,Male,"Arthralgia,Dizziness,Asthenia",not recovered/not resolved/ongoing
+31867833,France,serious,no,yes,no,no,no,no,20250317,yes,physician,62,Male,Asthenia,recovering/resolving
+31867834,United States,serious,no,yes,yes,no,no,no,20250526,yes,pharmacist,31,Male,"Rhabdomyolysis,Myalgia,Asthenia",fatal
+31867835,France,non-serious,no,no,no,no,no,no,20250318,no,pharmacist,84,Male,"Dizziness,Rhabdomyolysis",recovering/resolving
+31867836,Italy,serious,no,no,no,no,no,yes,20250408,yes,physician,67,Male,"Blood creatine phosphokinase increased,Arthralgia,Rhabdomyolysis",recovered/resolved
+31867837,France,serious,yes,yes,yes,no,no,no,20250417,yes,other health professional,86,Male,"Hepatic enzyme increased,Asthenia,Arthralgia",fatal
+31867838,Japan,serious,no,no,yes,no,no,no,20250712,yes,consumer or non-health professional,83,Male,"Rhabdomyolysis,Myalgia,Blood creatine phosphokinase increased",not recovered/not resolved/ongoing
+31867839,France,serious,no,no,yes,no,no,no,20250208,yes,consumer or non-health professional,36,Male,"Myalgia,Muscle spasms,Rhabdomyolysis",recovering/resolving
+31867840,Canada,serious,no,no,yes,no,no,no,20250513,yes,consumer or non-health professional,60,Female,"Muscle spasms,Rhabdomyolysis,Dizziness",not recovered/not resolved/ongoing
+31867841,United Kingdom,non-serious,no,no,no,no,no,no,20251219,no,physician,64,Male,Muscle spasms,recovering/resolving
+31867842,United States,non-serious,no,no,no,no,no,no,20250303,no,physician,32,Male,"Rhabdomyolysis,Arthralgia",recovering/resolving
+31867843,United States,serious,no,no,yes,no,no,no,20251107,yes,other health professional,54,Female,"Hepatic enzyme increased,Asthenia",not recovered/not resolved/ongoing
+31867844,Japan,serious,no,yes,yes,no,no,no,20250204,yes,pharmacist,88,Female,Asthenia,recovered/resolved
+31867845,United Kingdom,serious,no,no,no,no,no,yes,20251126,yes,physician,62,Male,Arthralgia,recovered/resolved
+31867846,France,serious,no,no,yes,no,no,no,20251122,yes,other health professional,88,Female,"Myalgia,Muscle spasms",fatal
+31867847,Italy,serious,no,yes,no,no,no,no,20250915,yes,consumer or non-health professional,25,Male,Hepatic enzyme increased,recovered/resolved
+31867848,Spain,serious,no,yes,yes,no,no,no,20250126,yes,other health professional,50,Male,"Rhabdomyolysis,Hepatic enzyme increased,Arthralgia",fatal
+31867849,Germany,non-serious,no,no,no,no,no,no,20250308,no,pharmacist,76,Male,Asthenia,fatal
+31867850,United Kingdom,serious,no,yes,no,no,no,no,20250408,yes,consumer or non-health professional,68,Female,Blood creatine phosphokinase increased,recovered/resolved
+31867851,United Kingdom,serious,no,yes,no,no,no,no,20250717,yes,other health professional,27,Male,"Hepatic enzyme increased,Arthralgia",not recovered/not resolved/ongoing
+31867852,United States,serious,no,no,yes,no,no,no,20250217,yes,consumer or non-health professional,48,Female,Dizziness,recovered/resolved
+31867853,United Kingdom,serious,yes,no,yes,no,no,no,20250228,yes,other health professional,88,Female,"Dizziness,Hepatic enzyme increased,Blood creatine phosphokinase increased",fatal
+31867854,Italy,serious,no,no,yes,no,no,no,20251006,yes,other health professional,75,Male,"Arthralgia,Rhabdomyolysis",fatal
+31867855,Spain,serious,no,no,yes,no,no,no,20251226,yes,pharmacist,34,Female,"Asthenia,Myalgia,Rhabdomyolysis",not recovered/not resolved/ongoing
+31867856,United Kingdom,serious,no,yes,no,no,no,no,20250225,yes,consumer or non-health professional,77,Male,"Dizziness,Blood creatine phosphokinase increased,Muscle spasms",recovering/resolving
+31867857,Germany,serious,yes,no,no,no,no,no,20250414,yes,pharmacist,83,Male,"Blood creatine phosphokinase increased,Dizziness,Myalgia",fatal
+31867858,Japan,serious,no,no,yes,no,no,no,20250825,yes,consumer or non-health professional,81,Male,"Muscle spasms,Blood creatine phosphokinase increased,Hepatic enzyme increased",recovering/resolving
+31867859,Italy,serious,no,no,yes,no,no,no,20250410,yes,other health professional,66,Female,"Rhabdomyolysis,Muscle spasms,Dizziness",recovering/resolving
+31867860,Canada,serious,no,yes,yes,no,no,no,20250114,yes,pharmacist,77,Female,"Myalgia,Dizziness,Arthralgia",fatal
+31867861,Japan,serious,no,no,no,no,no,yes,20250914,yes,pharmacist,86,Male,"Dizziness,Blood creatine phosphokinase increased",recovered/resolved
+31867862,Canada,serious,no,no,yes,no,no,no,20251005,yes,physician,74,Male,Dizziness,recovering/resolving
+31867863,Japan,serious,no,no,yes,no,no,no,20250513,yes,consumer or non-health professional,56,Male,"Myalgia,Asthenia",recovered/resolved
+31867864,Spain,serious,yes,no,yes,yes,no,no,20250408,yes,physician,43,Male,Muscle spasms,fatal
+31867865,France,serious,no,no,no,no,no,yes,20251220,yes,physician,44,Female,Myalgia,not recovered/not resolved/ongoing
+31867866,Canada,serious,no,yes,no,no,no,no,20251204,yes,other health professional,39,Male,"Dizziness,Asthenia",not recovered/not resolved/ongoing
+31867867,France,serious,no,no,no,no,no,yes,20251112,yes,consumer or non-health professional,43,Female,Arthralgia,fatal
+31867868,Japan,serious,no,no,no,no,no,yes,20250503,yes,consumer or non-health professional,55,Female,"Dizziness,Hepatic enzyme increased,Myalgia",fatal
+31867869,Spain,serious,no,no,yes,no,no,no,20250523,yes,physician,48,Male,Dizziness,fatal
+31867870,United Kingdom,serious,no,no,no,no,no,yes,20250708,yes,pharmacist,63,Female,"Asthenia,Blood creatine phosphokinase increased",not recovered/not resolved/ongoing
+31867871,Spain,serious,no,no,yes,no,no,no,20251204,yes,pharmacist,48,Male,"Muscle spasms,Hepatic enzyme increased,Asthenia",not recovered/not resolved/ongoing
+31867872,France,serious,no,no,yes,no,no,no,20250505,yes,physician,30,Female,"Hepatic enzyme increased,Asthenia,Blood creatine phosphokinase increased",recovered/resolved
+31867873,United States,serious,no,no,yes,no,no,no,20250828,yes,physician,32,Female,"Rhabdomyolysis,Arthralgia",recovered/resolved
+31867874,Germany,serious,no,no,no,no,no,yes,20250725,yes,pharmacist,72,Female,"Arthralgia,Dizziness",fatal
