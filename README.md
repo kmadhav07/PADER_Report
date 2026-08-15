@@ -1,21 +1,18 @@
-<div align="center">
-
 # ⚕️ RegIntel AI — Enterprise Pharmacovigilance Platform
 
 **US FDA 21 CFR 314.80 Regulatory Safety Reporting Engine**
 
-[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/)
-[![Streamlit App](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B.svg)](https://streamlit.io/)
-[![Groq LPU](https://img.shields.io/badge/Groq-Llama%203.3%2070B-f97316.svg)](https://groq.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Author: **Madhav Kumar**  
+GitHub Repository: [https://github.com/kmadhav07/PADER_Report](https://github.com/kmadhav07/PADER_Report)  
+Tech Stack: Python 3.11+, Streamlit, Groq LPU API (Llama 3.3 70B), Pandas, Plotly, SHAP, ReportLab, Docker
 
-<br/>
+---
+
+## 📐 System Architecture
 
 ![RegIntel AI System Architecture](assets/architecture_diagram.png)
 
 *Figure 1: End-to-End System Architecture — Presentation Layer, Core Pipeline, Multi-Provider LLM Engine, XAI Evaluation Suite, and Document Exporters.*
-
-</div>
 
 ---
 
