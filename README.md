@@ -1,26 +1,28 @@
-# RegIntel AI — Enterprise Pharmacovigilance Safety Reporting Platform
+# PADER_REPORT (regintel-ai) — Pharmacovigilance Safety Reporting Engine
 
 A production-grade, evidence-grounded AI engineering platform designed to transform post-marketing Individual Case Safety Reports (ICSRs) into US FDA 21 CFR 314.80 Periodic Adverse Drug Experience Reports (PADER).
 
 Author: **Madhav Kumar**  
 GitHub Repository: [https://github.com/kmadhav07/PADER_Report](https://github.com/kmadhav07/PADER_Report)  
-Stack: Python 3.11+, Streamlit, Groq LPU API (Llama 3.3 70B), Pandas, Plotly, SHAP, ReportLab, Docker
+Tech Stack: Python 3.11+, Streamlit, Groq LPU API (Llama 3.3 70B), Pandas, Plotly, SHAP, ReportLab, Docker
 
 ---
 
-## 📐 System Architecture Diagram
+## 📐 System Architecture
 
-![RegIntel AI Project Architecture](assets/architecture_diagram.png)
+<p align="center">
+  <img src="assets/architecture_diagram.png" alt="PADER_REPORT (regintel-ai) Project Architecture" width="100%" />
+</p>
 
 ---
 
-## 📌 Problem Statement & Core Design Philosophy
+## 📌 Executive Summary & Architecture Philosophy
 
-In post-marketing drug safety, pharmaceutical companies process thousands of Individual Case Safety Reports (ICSRs) annually. Submitting periodic aggregate safety reports (PADERs) to regulatory authorities requires strict numerical precision and zero hallucination.
+In post-marketing pharmacovigilance, pharmaceutical companies process thousands of Individual Case Safety Reports (ICSRs) annually. Submitting periodic aggregate safety reports (PADERs) to regulatory authorities requires strict numerical accuracy and zero hallucination.
 
 Passing raw ICSR tables directly into Large Language Models (LLMs) often leads to arithmetic hallucinations, inaccurate counts, and non-compliant safety summaries. **RegIntel AI** solves this with a hybrid architecture:
 
-1. **Zero Mathematical Hallucinations**: All metrics (counts, percentages, age distributions, reaction frequencies) are computed deterministically in Python (`pandas`). The LLM never performs arithmetic.
+1. **Zero Mathematical Hallucinations**: All metrics (counts, percentages, age distributions, reaction frequencies) are computed deterministically using Python (`pandas`). The LLM never performs arithmetic.
 2. **Context Isolation & Evidence Packets**: The LLM receives only pre-aggregated, section-scoped JSON evidence packets. Raw data tables are never dumped into prompts.
 3. **Sub-Second Groq LPU Acceleration**: Leverages Groq's LPU hardware (`llama-3.3-70b-versatile`) for sub-second narrative generation with automatic failover to an offline rule-based engine.
 4. **Explainable AI (XAI) & Grounding Audit**: Features **SHAP feature importance** for patient risk drivers and sentence-level evidence attribution maps cross-checking prose numbers against ground-truth JSON.
@@ -83,7 +85,7 @@ PADER_REPORT/ (regintel-ai)
 
 ---
 
-## 🚀 Quickstart & Usage
+## 🚀 Quickstart & Setup
 
 ### 1. Local Application Setup
 ```bash
