@@ -1,24 +1,27 @@
-# PADER_REPORT (regintel-ai) — Pharmacovigilance Safety Reporting Engine
+<div align="center">
 
-A production-grade, evidence-grounded AI engineering platform designed to transform post-marketing Individual Case Safety Reports (ICSRs) into US FDA 21 CFR 314.80 Periodic Adverse Drug Experience Reports (PADER).
+# ⚕️ RegIntel AI — Enterprise Pharmacovigilance Platform
 
-Author: **Madhav Kumar**  
-GitHub Repository: [https://github.com/kmadhav07/PADER_Report](https://github.com/kmadhav07/PADER_Report)  
-Tech Stack: Python 3.11+, Streamlit, Groq LPU API (Llama 3.3 70B), Pandas, Plotly, SHAP, ReportLab, Docker
+**US FDA 21 CFR 314.80 Regulatory Safety Reporting Engine**
 
----
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B.svg)](https://streamlit.io/)
+[![Groq LPU](https://img.shields.io/badge/Groq-Llama%203.3%2070B-f97316.svg)](https://groq.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 📐 System Architecture
+<br/>
 
-<p align="center">
-  <img src="assets/architecture_diagram.png" alt="PADER_REPORT (regintel-ai) Project Architecture" width="100%" />
-</p>
+![RegIntel AI System Architecture](assets/architecture_diagram.png)
+
+*Figure 1: End-to-End System Architecture — Presentation Layer, Core Pipeline, Multi-Provider LLM Engine, XAI Evaluation Suite, and Document Exporters.*
+
+</div>
 
 ---
 
 ## 📌 Executive Summary & Architecture Philosophy
 
-In post-marketing pharmacovigilance, pharmaceutical companies process thousands of Individual Case Safety Reports (ICSRs) annually. Submitting periodic aggregate safety reports (PADERs) to regulatory authorities requires strict numerical accuracy and zero hallucination.
+In post-marketing drug safety, pharmaceutical companies process thousands of Individual Case Safety Reports (ICSRs) annually. Submitting periodic aggregate safety reports (PADERs) to regulatory authorities requires strict numerical accuracy and zero hallucination.
 
 Passing raw ICSR tables directly into Large Language Models (LLMs) often leads to arithmetic hallucinations, inaccurate counts, and non-compliant safety summaries. **RegIntel AI** solves this with a hybrid architecture:
 
@@ -75,7 +78,7 @@ PADER_REPORT/ (regintel-ai)
 ├── tests/                             # Automated unit test suite
 ├── docs/                              # Technical HLD & LLD specifications
 ├── outputs/                           # Formatted generated report documents
-├── assets/                            # System architecture diagrams
+├── assets/                            # System architecture diagrams (architecture_diagram.png)
 ├── data/                              # 6 ICSR clinical safety datasets
 ├── Dockerfile                         # Production Docker container setup
 ├── docker-compose.yml                 # Docker Compose orchestrator
