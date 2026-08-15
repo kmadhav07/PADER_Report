@@ -8,11 +8,19 @@ Tech Stack: Python 3.11+, Streamlit, Groq LPU API (Llama 3.3 70B), Pandas, Plotl
 
 ---
 
-## 📐 System Architecture
+## 📐 System Architecture & Workflow
 
+### 1. High-Level Component Architecture
 ![RegIntel AI System Architecture](assets/architecture_diagram.png)
 
-*Figure 1: End-to-End System Architecture — Presentation Layer, Core Pipeline, Multi-Provider LLM Engine, XAI Evaluation Suite, and Document Exporters.*
+*Figure 1: High-Level Component Architecture — Presentation Layer, Core Pipeline, Multi-Provider LLM Engine, XAI Evaluation Suite, and Document Exporters.*
+
+<br/>
+
+### 2. End-to-End Workflow & Pipeline Execution
+![RegIntel AI End-to-End Workflow](assets/architecture_overview.png)
+
+*Figure 2: End-to-End Subsystem Workflow — Data Ingestion, Scoped Evidence Packets, LLM Narrative Generation, Grounding Verification, and Multi-Format Exporters.*
 
 ---
 
@@ -75,7 +83,7 @@ PADER_REPORT/ (regintel-ai)
 ├── tests/                             # Automated unit test suite
 ├── docs/                              # Technical HLD & LLD specifications
 ├── outputs/                           # Formatted generated report documents
-├── assets/                            # System architecture diagrams (architecture_diagram.png)
+├── assets/                            # System architecture diagrams (architecture_diagram.png, architecture_overview.png)
 ├── data/                              # 6 ICSR clinical safety datasets
 ├── Dockerfile                         # Production Docker container setup
 ├── docker-compose.yml                 # Docker Compose orchestrator
